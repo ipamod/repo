@@ -1,11 +1,11 @@
 
-Package: com.ipamod.3dtools_1.0.5k
+Package: ru.rejail.3dtools_1.0.5k
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: IPAMOD <ipamod2020@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.3dtools_1.0.5k.deb
+Filename: ./debs/ru.rejail.3dtools_1.0.5k.deb
 Size: 1150826
 MD5sum: c89394226307b8f63f24e3d2f9b170a4
 Description: https://ipamod.github.io/repo/
