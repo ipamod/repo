@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adaptive Color Settings</key>
+	<string>Настройки адаптивного цвета</string>
+	<key>Adaptive Color(Icon)</key>
+	<string>Адаптивный цвет(иконка)</string>
+	<key>Adaptive Color(Wallpaper)</key>
+	<string>Адаптивный цвет(обои)</string>
+	<key>Add or remove options in the 3D touch menu</key>
+	<string>Добавьте или удалите функции для меню 3D Touch</string>
+	<key>Adjust adaptive color alpha (transparency)</key>
+	<string>Отрегулируйте насыщенность адаптивного цвета(прозрачность)</string>
+	<key>App Lock</key>
+	<string>Блокировка приложения</string>
+	<key>Banner and icon by JannikCrack !!</key>
+	<string>Иконка и баннер от JannikCrack</string>
+	<key>Banners</key>
+	<string>Баннеры</string>
+	<key>Bundle Identifier</key>
+	<string>Идентификатор приложения</string>
+	<key>Check out JannikCrack's website</key>
+	<string>Сайт JannikCrack</string>
+	<key>Clear Badge</key>
+	<string>Очистка бэйджей</string>
+	<key>Clear Cache</key>
+	<string>Очистка кеша</string>
+	<key>Donate with PayPal</key>
+	<string>PayPal</string>
+	<key>Enable Static Menu Color</key>
+	<string>Включить статичный цвет меню</string>
+	<key>Enable/Disable 3D Menu Options</key>
+	<string>Включение/выключение функций меню 3D Touch</string>
+	<key>Extra Options</key>
+	<string>Дополнительные настройки</string>
+	<key>Follow JannikCrack on Twitter</key>
+	<string>Twitter JannikCrack</string>
+	<key>Follow Our Team !!</key>
+	<string>Наша команда</string>
+	<key>Follow me on Twitter</key>
+	<string>Мой Twitter</string>
+	<key>Hide Badges Systemwide</key>
+	<string>Скрыть бэйджи</string>
+	<key>Hide Lines</key>
+	<string>Скрыть линии</string>
+	<key>Hide Share in 3D Menus</key>
+	<string>Скрыть Поделиться</string>
+	<key>Hide Thick Lines(iOS 13+)</key>
+	<string>Скрыть тонкие линии (iOS 13)</string>
+	<key>Hide Widgets in 3D Menus</key>
+	<string>Скрыть виджеты</string>
+	<key>Like my work ? I like coffee</key>
+	<string>Понравилась моя работа?</string>
+	<key>Links</key>
+	<string>Ссылки</string>
+	<key>Note: This is for both adaptive settings above</key>
+	<string>Примечание: Это подходит для обеих настроек адаптивного цвета.</string>
+	<key>Notifications</key>
+	<string>Уведомления</string>
+	<key>Pure Color</key>
+	<string>Чистый цвет (iOS 13)</string>
+	<key>Pure Color(iOS 13+)</key>
+	<string>Включить чистый цвет</string>
+	<key>Remove dark/light tint on 3d menus making colors more vivid.</key>
+	<string>Уберите темный или светлый оттенок 3D меню для получения более насыщенных цветов.</string>
+	<key>Static Color Settings</key>
+	<string>Настройки статичного цвета</string>
+	<key>Uninstall App</key>
+	<string>Удаление приложения</string>
+	<key>Wanna chat with the team ?</key>
+	<string>Хотите пообщаться с нашей командой?</string>
+	<key>You can enable adaptive color based on the icon of each app or based on the current wallpaper</key>
+	<string>Вы можете включить адаптивный цвет на основе иконки каждого приложения или на основе текущих обоев.</string>
+	<key>smokin1337 ©2019</key>
+	<string>smokin1337 ©2019
+Перевод ReJail - rejail.ru</string>
+</dict>
+</plist>
