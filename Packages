@@ -1,14 +1,28 @@
-Package: ru.rejail.3dtools_1.0.5k
-Version: 1.0.5k
-Architecture: iphoneos-arm
-Maintainer: IPAMOD <ipamod2020@gmail.com>
-Depends: <bundleids>
-Filename: /ru.rejail.3dtools_1.0.5k.deb
-Size: 1150826
-MD5sum: C89394226307B8F63F24E3D2F9B170A4
-SHA1: 5A82F8AB4CC4E54B268647B1B2FD9BFFFA88DC14
-SHA256: B43AEDE2DADAFC2DC0444D4985AD37B0CE307EDBE1F8D871054D65C5728DE413
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
-Description: Additional functions for 3D Touch menu
-Author: IPAMOD <ipamod2020@gmail.com>
-Name: 3DTools
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
