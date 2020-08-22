@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.3dtools_1.0.5k</id>
+	<name>3DTools</name>
+	<version>1.0.5k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Additional functions for 3D Touch menu</shortDescription>
+	<descriptionlist>
+		<description>Additional functions for 3D Touch menu.
+Namely:
+• Uninstall the application
+• Clear badges and cache
+• Lock the application
+• Enable / disable notifications and banners
+• Disable badges completely
+• Disable widgets and the Share window.</description>
+		
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>3DTools</description>
+			<image>https://rejail.ru/screenshot/3dtools1.jpg</image>
+		</screenshot>		
+				
+	</screenshots>
+
+
+</package>
