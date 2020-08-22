@@ -7,7 +7,9 @@ Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ru.rejail.3dtools_1.0.5k.deb
 Size: 860
-MD5sum: c89394226307b8f63f24e3d2f9b170a4
+MD5sum: C89394226307B8F63F24E3D2F9B170A4
+SHA1: 5A82F8AB4CC4E54B268647B1B2FD9BFFFA88DC14
+SHA256: B43AEDE2DADAFC2DC0444D4985AD37B0CE307EDBE1F8D871054D65C5728DE413
 Description: Additional functions for 3D Touch menu.
 Name: 3Dtools
 Author: IPAMOD TWEAK <reposithree@gmail.com>
