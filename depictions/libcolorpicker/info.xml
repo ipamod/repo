@@ -1,0 +1,21 @@
+<package>
+	<id>org.thebigboss.libcolorpicker</id>
+	<name>libcolorpicker</name>
+	<version>1.6.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>color picker library for developers.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	
+	</descriptionlist>
+	
+	
+	
+</package>
