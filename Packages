@@ -29,3 +29,19 @@ Description: color picker library for developers.
 Name: libcolorpicker
 Author: IPAMOD TWEAK <reposithree@gmail.com>
 Depiction: https://repo.ipamod.com/depictions/?p=libcolorpicker
+
+Package: ru.rejail.callbarxs
+Version: 3.2-143
+Section: Tweaks
+Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
+Depends: firmware (>7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/ru.rejail.callbarxs_3.2-143.deb
+Size: 276078 
+MD5sum: ae051b16016bfb84d03c36d5b4b0f215
+SHA1: e6f9f7d442dd64dd4e97d2c9f116c973fce9fa41
+SHA256: 6b78a1f9bd448d6da30382e76b50cb614d0019d7cac440f431279002dca5132f
+Description: Minimalistic look of calls.
+Name: IPAMOD CallBar XS (iOS 12/13)
+Author: IPAMOD TWEAK <reposithree@gmail.com>
+Depiction: https://repo.ipamod.com/depictions/?p=CallbarXS
