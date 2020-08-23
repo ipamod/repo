@@ -365,3 +365,19 @@ Description: Preview of the "Back to ..." button.
 Name: AppCrumb
 Author: sharedRoutine.
 Depiction: https://repo.ipamod.com/depictions/?p=appcrumb
+
+Package: com.ipamod.ainsworth
+Version: 1.3k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ainsworth_1.3k.deb
+Size: 500474
+MD5sum: 980c15695d3ad53913b6b3e3ca1c9984
+SHA1: 777b45a314e271b1933e44f20ff273bf47e11c40
+SHA256: 1fc112b607ddcd43975c473953f80eb49d4f4069935d76c9f017a573a2eb9203
+Description: This tweak will give you the same connection popup with any Bluetooth device.
+Name: Ainsworth
+Author: Dave Van Wijk <vanwijkdave@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=ainsworth

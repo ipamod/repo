@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.ainsworth</id>
+	<name>Ainsworth</name>
+	<version>1.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker</package>
+	</dependencies>
+	<shortDescription>This tweak will give you the same connection popup with any Bluetooth device.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ainsworth1.jpeg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>ainsworth2.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>-added charge indicator.</change>
+		<change>-added the ability to change the name of the device in a pop-up window.</change>
+	</changelog>
+	
+</package>
