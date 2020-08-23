@@ -237,3 +237,19 @@ Description: Blocking YouTube ads.
 Name: AdBlock for YouTube
 Author: Majd Alfhaily
 Depiction: https://repo.ipamod.com/depictions/?p=adblockforyoutube
+
+Package: com.ipamod.xsf1reflyjb
+Version: 0.2.5.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.xsf1reflyjb_0.2.5.6.deb
+Size: 429522
+MD5sum: f70d80050ad1fe01015a0f0884621dd2
+SHA1: 78f28c8e5cb4d9eb3c3ce57c6b045cf949a78711
+SHA256: 441db9add43cf823bbeac829424a4e5cde3aedd050d051bdc3621781fd930dd2
+Description: You can HIDE Doing jailbreak your iDevice.
+Name: FlyJB
+Author: XsF1re
+Depiction: https://repo.ipamod.com/depictions/?p=xsf1reflyjb

@@ -1,0 +1,29 @@
+<package>
+	<id>com.ipamod.xsf1reflyjb</id>
+	<name>FlyJB</name>
+	<version>0.2.5.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader</package>
+	</dependencies>
+	<shortDescription>You can HIDE Doing jailbreak your iDevice.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>xop2oj801wl41.jpg</image>
+		</screenshot>		
+			
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+			</changelog>
+	
+</package>
