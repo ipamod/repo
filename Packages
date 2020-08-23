@@ -1,14 +1,14 @@
-Package: ru.rejail.3dtools
+Package: com.ipamod.3dtools
 Version: 1.0.5k
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: firmware (>7.0)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: ./debs/ru.rejail.3dtools_1.0.5k.deb
-Size: 1150826 
-MD5sum: c89394226307b8f63f24e3d2f9b170a4
-SHA1: 5a82f8ab4cc4e54b268647b1b2fd9bfffa88dc14
-SHA256: b43aede2dadafc2dc0444d4985ad37b0ce307edbe1f8d871054d65c5728de413
+Filename: ./debs/com.ipamod.3dtools_1.0.5k.deb
+Size: 1215516
+MD5sum: fe0eb82f25fdf4e89718462b16733be9
+SHA1: 0138942dfe40f6c1658da3889f2dbb062b3129ad
+SHA256: 288d8334a234426b80703a2f58c16beae037b765c827b4bce728c86da8f0e01a
 Description: Additional functions for 3D Touch menu.
 Name: 3Dtools
 Author: IPAMOD TWEAK <reposithree@gmail.com>
