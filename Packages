@@ -285,3 +285,19 @@ Description: App Admin will allow you to downgrade any application from the AppS
 Name: App Admin
 Author: UnlimApps Inc.
 Depiction: https://repo.ipamod.com/depictions/?p=uaupdatetools
+
+Package: com.ipamod.adgpro
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.adgpro_0.0.1-2.deb
+Size: 5110
+MD5sum: 53dbbcddf7a0f610a37248778e400d7e
+SHA1: e31f870c02c94c91479912d76971bb5f58261534
+SHA256: 6b204d7271db93668b1600dee2f8a9040cd7778df581a6fd8d6482f2222ffdb4
+Description: AdGuard hack up to Pro version.
+Name: AdGuard Pro Hack
+Author: md.furman.
+Depiction: https://repo.ipamod.com/depictions/?p=adgpro
