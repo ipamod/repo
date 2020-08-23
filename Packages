@@ -477,3 +477,19 @@ Description: Tweak to change the animation of locking / unlocking the device and
 Name: Amour
 Author: Luke Muris.
 Depiction: https://repo.ipamod.com/depictions/?p=amour
+
+Package: com.ipamod.appstoreplusplus
+Version: 0.9.11
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.appstoreplusplus_0.9.11.deb
+Size: 612768
+MD5sum: e4fffd9400dcea0523abb1ddac8f36e8
+SHA1: db28edaeffd42c07008563bf30262fe06e82ea62
+SHA256: b6d98c60d1b43ddfec6b68cf5d0692eaae7c10ff47c9804b213f6acc26e26340
+Description: Downgrading applications, as well as various settings for downloading applications.
+Name: AppStore++
+Author: CokePokes.
+Depiction: https://repo.ipamod.com/depictions/?p=appstoreplusplus
