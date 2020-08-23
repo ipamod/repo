@@ -37,10 +37,10 @@ Maintainer: IPAMOD TWEAK <ipamod2020@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ipamod.limneosos, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
-Size: 515714
-MD5sum: d7bd5245efc7d77022e16e0fadc01712
-SHA1: d843aa451d88b4660d21e88a95063a749ae08621
-SHA256: b85cf054f3ddec0e323a9048c377fe70319f56ce2e0fbc39bddba373045bf206
+Size: 515706
+MD5sum: 5109526a9bb1a1717d0a2dacc1fed922
+SHA1: 815f44da25b2c213b5843a13d661f418464c4042
+SHA256: a081703ab6ddb1d43760a5f2f3377333343bc15d7bf7b47ac7e0742b786a5c8f
 Description: Minimalistic look of calls.
 Name: CallBar XS (iOS 12/13) - IPAMOD
 Author: Elias Limneos
