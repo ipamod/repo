@@ -34,7 +34,7 @@ Package: com.ipamod.callbarxs
 Version: 3.2-143
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <ipamod2020@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ipamod.limneosos, com.ipamod.limneosos
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ipamod.limneosos, com.ipamod.simpleactivationactions
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
 Size: 515706
