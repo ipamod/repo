@@ -334,18 +334,18 @@ Name: Aerial 2
 Author: AnthoPak <anthopakdev@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=aerial2
 
-Package: com.ipamod.appaze
-Version: 2.1.1k
+Package: com.ipamod.aerial
+Version: 1.1r
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.6110), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.appaze_2.1.1k.deb
-Size: 1353082
-MD5sum: a227567dfba4b9bb00e853ab12788139
-SHA1: b8d7351edd4f58b245ce6f891a72386efcce13b6
-SHA256: e1bd2d19a7279b72d72065fd40117ba95133e21a6d2baf5415516ed6b5494a38
-Description: The tweak allows you to adjust the volume and brightness for a specific application directly using its 3D Touch menu.
-Name: Appaze
-Author: AnthoPak <anthopakdev@gmail.com>.
-Depiction: https://repo.ipamod.com/depictions/?p=appaze
+Filename: ./debs/com.ipamod.aerial_1.1r.deb
+Size: 1312246
+MD5sum: 6ee2bd2078cf51c8ce6d467c01ea46d8
+SHA1: a10d23b6c17c822cb7f8a0a31d9466ad5e43a1ed
+SHA256: 287dd828eea37ce3c7db20dd0ba7a38ffa8472d060a9e953db6eb8ca1adb9c6b
+Description: Tweak allows you to change the colors of all elements in the status bar.
+Name: Aerial
+Author: Surenix.
+Depiction: https://repo.ipamod.com/depictions/?p=aerial
