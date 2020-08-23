@@ -52,7 +52,7 @@ Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
+Filename: ./debs/com.ipamod.limneosos_2.0.2.deb
 Size: 23914
 MD5sum: c05187b63fd20b1260221b66ebb9429e
 SHA1: e8803f96b302fef53f9ad0a62efb4634cc3de62a
