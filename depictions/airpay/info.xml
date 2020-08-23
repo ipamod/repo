@@ -1,0 +1,29 @@
+<package>
+	<id>com.ipamod.airpay</id>
+	<name>AirPay</name>
+	<version> 1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.14)</package>
+	</dependencies>
+	<shortDescription>AirPay - Apple Pay inspired by AirPod. If you use Apple Pay on a daily basis and are looking for something stylish and consistent on your iOS device, then you've come to the right place.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>airpay1.jpg</image>
+		</screenshot>		
+			</screenshots>
+	<changelog>
+		<change>List of changes</change>
+	
+	</changelog>
+	
+</package>

@@ -397,3 +397,19 @@ Description: Allows you to hide applications on the desktop and in settings.
 Name: AppHide
 Author: Jerry En <Jerry+apphide@jerryen.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=apphide
+
+Package: com.ipamod.airpay
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.airpay_1.0.deb
+Size: 471364
+MD5sum: 4d20d168d4aabecbad0ca1aedf7da10f
+SHA1: ed1a9d85dbdc41e6dc8a8fbe99a3d76492c3a5b8
+SHA256: 8081ff06fce953ef41d14fc8d4f7af49ebcf0126ac54cd269dec2cb4e80a443c
+Description: AirPay - Apple Pay inspired by AirPod. If you use Apple Pay on a daily basis and are looking for something stylish and consistent on your iOS device, then you've come to the right place.
+Name: AirPay
+Author: Dylan West <iosthemem0d@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=airpay
