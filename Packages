@@ -205,3 +205,19 @@ Description: Blocking ads in ++ tweaks. Tested on Instagram ++ (1.8r-263), Whats
 Name: AdBlock ++
 Author: IPAMOD
 Depiction: https://repo.ipamod.com/depictions/?p=AdBlock
+
+Package: com.ipamod.aperturize
+Version: 1.0.5k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ru.rejail.foxforthack
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.aperturize_1.0.5k.deb
+Size: 234368
+MD5sum: cf9c3b3657ec5aab0e20a8c261c6eff7
+SHA1: da87aa7a841fd46ae8745a2752fc1d85dcebc082
+SHA256: c44e8e8f362666558f31d193267a199e97f9187235fd0d7e99a4349228066625
+Description: New portrait mode for unsupported devices. Compatible with dual camera devices only.
+Name: Aperturize
+Author: FoxfortMobile
+Depiction: https://repo.ipamod.com/depictions/?p=Aperturize
