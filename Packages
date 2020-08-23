@@ -301,3 +301,19 @@ Description: AdGuard hack up to Pro version.
 Name: AdGuard Pro Hack
 Author: md.furman.
 Depiction: https://repo.ipamod.com/depictions/?p=adgpro
+
+Package: com.ipamod.appaze2appaze2
+Version: 1.1k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.appaze2appaze2_1.1k.deb
+Size: 835940
+MD5sum: 2ed40f9c1a1aadeff4d583fe835105b9
+SHA1: 7b297d6e4125b74f757750e86a7f5978829a6fe9
+SHA256: 9011719793db0c4a60aed4b3a0b2909e0c54b826aaa910db6c8cc403036a47f9
+Description: Appaze 2 allows you to adjust volume, brightness and many features (Wi-Fi, Cellular, Orientation Lock, VPN, ...).
+Name: Appaze 2
+Author: AnthoPak <anthopakdev@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=appaze2appaze2
