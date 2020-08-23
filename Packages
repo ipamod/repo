@@ -108,7 +108,7 @@ SHA256: 0e57139440174fca7be026aea454e4f8fc84e4c2960dd235e935aeb7555f4839
 Description: 3G Unrestrictor 5 will allow you to remove restrictions for downloading via mobile Internet.
 Name: 3G Unrestrictor 5
 Author: Kim Streich
-Depiction: https://repo.ipamod.com/depictions/?p=3G Unrestrictor 5
+Depiction: https://repo.ipamod.com/depictions/?p=3GUnrestrictor5
 
 Package: com.ipamod.a-font
 Version: 1.5.1
