@@ -174,18 +174,18 @@ Name: AnsweringMachineXS
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: https://repo.ipamod.com/depictions/?p=AnsweringMachineXS
 
-Package: com.ipamod.actionbar
-Version: 1.3.7
+Package: com.ipamod.aperio
+Version: 1.1.3k
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, applist, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.actionbar_1.3.7.deb
-Size: 93544
-MD5sum: 012576cf512d76bf0c4103bc593f4a72
-SHA1: 0cb9200b9f823403a820543daa69e13e049635f8
-SHA256: 813575a6b94c7147b13203cb3d30167f7eec45f8ef9fe2e85c6843b00736f14c
-Description: The tweak will add a bar to control the entered text at the top (instead of predictive typing) or at the bottom (for the iPhone X keyboard).
-Name: ActionBar
-Author: RestiveConch
-Depiction: https://repo.ipamod.com/depictions/?p=ActionBar
+Filename: ./debs/com.ipamod.aperio_1.1.3k.deb
+Size: 467470
+MD5sum: 5610c045a6d9d45dbbd523bb6eb5e0b8
+SHA1: 0181e24a27eb846cae2f091d0fbd07d9614652f0
+SHA256: e1b650d786832f3e6ef16bce018229c9279db691d066b1eaa5841094f311c989
+Description: Aperio offers a stunning app launcher in place of your first notification.
+Name: Aperio
+Author: burrit0z
+Depiction: https://repo.ipamod.com/depictions/?p=Aperio
