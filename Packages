@@ -509,3 +509,19 @@ Description: Various animations to lock and unlock your device.
 Name: Amour 2
 Author: Luke Muris.
 Depiction: https://repo.ipamod.com/depictions/?p=amour2
+
+Package: com.ipamod.apptic
+Version: 1.2.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.apptic_1.2.2.deb
+Size: 206702
+MD5sum: 98d11de9487a1a74367e1d88f19c470e
+SHA1: bfe9688e11edf1e3e2efa4d065597c657c3299af
+SHA256: f1155a734cfc8d790b358015369950542eaf9cde7ea32b5a3d494c3779e438c4
+Description: Provide a tactile response when launching applications. Works on A9-A12 devices.
+Name: AppTic
+Author: MayBeMe <maybeme.tweak@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=apptic

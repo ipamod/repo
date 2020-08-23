@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.apptic</id>
+	<name>AppTic</name>
+	<version>1.2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common, preferenceloader</package>
+	</dependencies>
+	<shortDescription>Provide a tactile response when launching applications. Works on A9-A12 devices.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>apptic1.jpg</image>
+		</screenshot>		
+		</screenshots>
+	<changelog>
+		<change>List of changes</change>
+			</changelog>
+	
+</package>
