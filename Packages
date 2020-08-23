@@ -34,7 +34,7 @@ Package: com.ipamod.callbarxs
 Version: 3.2-143
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: com.ipamod.limneosos, com.ipamod.simpleactivationactions
+Depends: com.ipamod.limneosos, net.limneos.simpleactivationactions
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
 Size: 276078 
@@ -85,7 +85,7 @@ Maintainer: shepgoba
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.simpleactivationactions_0.1-1.deb
-Size: 9,562  
+Size: 9,562 
 MD5sum: 9ff5a9434d6362a2daba22020df17a89
 SHA1: 7ff810f864901601dde7d5834643c9d21c7d434e
 SHA256: ca5c20cbbdf48cd22b019f49d69be9faabc586e7da81008b28c45562bbc3c1b8
