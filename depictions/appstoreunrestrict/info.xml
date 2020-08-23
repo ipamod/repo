@@ -1,0 +1,26 @@
+<package>
+	<id>com.ipamod.appstoreunrestrict</id>
+	<name>Appstore Unrestrict</name>
+	<version>0.0~beta4a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>preferenceloader, mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This tweak will allow you to download applications of any size from the AppStore via the mobile Internet. Analog 3G Unrestrictor.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	
+	</descriptionlist>
+	<screenshots>
+		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+	
+	</changelog>
+	
+</package>

@@ -445,3 +445,19 @@ Description: The tweak changes the operation of the yellow LED flash, or both th
 Name: Amber
 Author: PoomSmart.
 Depiction: https://repo.ipamod.com/depictions/?p=amber
+
+Package: com.ipamod.appstoreunrestrict
+Version: 0.0~beta4a
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.appstoreunrestrict_0.0~beta4a.deb
+Size: 26158
+MD5sum: f31254da016f4dd77f2bd539a8c6f94a
+SHA1: 235c5e69dbf250c73a77f180811e8f60296674e2
+SHA256: 60c46aa32650b05591201f0d32b44015fbb63705e38aee19fcd3b06f58ef8c89
+Description: This tweak will allow you to download applications of any size from the AppStore via the mobile Internet. Analog 3G Unrestrictor.
+Name: Appstore Unrestrict
+Author: julioverne.
+Depiction: https://repo.ipamod.com/depictions/?p=appstoreunrestrict
