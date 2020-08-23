@@ -100,7 +100,7 @@ Section: Tweaks
 Maintainer: shepgoba 
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.12), com.rpetrich.rocketbootstrap (>=1.0.5)
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.simpleactivationactions_0.1-1.deb
+Filename: ./debs/com.ipamod.3gunrestrictor5_5.9.10.deb
 Size: 3055070
 MD5sum: 95acb4d003ea1d40b9648758fd75d6ca
 SHA1: 8397413fe21e7bfc23935de3a662008f1754cddb
@@ -109,3 +109,19 @@ Description: 3G Unrestrictor 5 will allow you to remove restrictions for downloa
 Name: 3G Unrestrictor 5
 Author: Kim Streich
 Depiction: https://repo.ipamod.com/depictions/?p=3G Unrestrictor 5
+
+Package: com.ipamod.a-font
+Version: 1.5.1
+Section: Tweaks
+Maintainer: shepgoba 
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.a-font_1.5.1.deb
+Size: 834278
+MD5sum: 57390a126192fa820615bebae1b16231
+SHA1: 8d99bc2b7ae34360f4c350794225a82d3c573068
+SHA256: e5f0d45760d68690f8b68ed05ba2ccd661bba5bcfc8e788cf3de815c6195f1a7
+Description: Change the font on your device using A-Font.
+Name: A-Font
+Author: Kim Streich
+Depiction: https://repo.ipamod.com/depictions/?p=A-Font
