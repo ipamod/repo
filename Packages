@@ -429,3 +429,19 @@ Description: Quick access to your favorite apps from anywhere.
 Name: AppShortcut
 Author: db89.
 Depiction: https://repo.ipamod.com/depictions/?p=appshortcut
+
+Package: com.ipamod.amber
+Version: 0.0.3.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.amber_0.0.3.4.deb
+Size: 39604
+MD5sum: 99d867dd4f9252049f01f41869c00b5b
+SHA1: 4f54b1b73bcd0ce799a81a541eb9187e6e209df0
+SHA256: e22634b4cd2a0479a64a3baa8dc469b5f0c1cf0e7224ee14864a20b8352b5f45
+Description: The tweak changes the operation of the yellow LED flash, or both the white and yellow LED's. Activation from the button in the Control Center.
+Name: Amber
+Author: PoomSmart.
+Depiction: https://repo.ipamod.com/depictions/?p=amber

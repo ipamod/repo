@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.amber</id>
+	<name>Amber</name>
+	<version>0.0.3.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport</package>
+	</dependencies>
+	<shortDescription>The tweak changes the operation of the yellow LED flash, or both the white and yellow LED's. Activation from the button in the Control Center.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		
+	</descriptionlist>
+	<screenshots>
+		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Support for devices with 4 LED's on ios13.</change>
+		<change>The ability to override the settings of the Flashlight system application.</change>
+	</changelog>
+	
+</package>
