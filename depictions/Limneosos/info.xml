@@ -1,7 +1,7 @@
 <package>
-	<id>com.ipamod.callbarxs</id>
-	<name>IPAMOD CallBar XS (iOS 12/13)</name>
-	<version>3.2-143</version>
+	<id>com.ipamod.limneosos</id>
+	<name>Limneosos</name>
+	<version>2.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -11,12 +11,8 @@
 		<package>Limneosos</package>
 		<package>SimpleActivationActions</package>
 	</dependencies>
-	<shortDescription>Minimalistic look of calls.</shortDescription>
-	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>Minimalistic look of calls.</description>
-		
-	</descriptionlist>
+	<shortDescription>The name speaks for itself.</shortDescription>
+	
 	<screenshots>
 		<screenshot>
 			<description>Screenshot 1.</description>
