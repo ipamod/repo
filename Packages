@@ -93,3 +93,19 @@ Description: Handles StatusBar actions for simple activation events.
 Name: SimpleActivationActions
 Author: shepgoba 
 Depiction: https://repo.ipamod.com/depictions/?p=SimpleActivationActions
+
+Package: com.ipamod.3gunrestrictor5
+Version: 5.9.10
+Section: Tweaks
+Maintainer: shepgoba 
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.12), com.rpetrich.rocketbootstrap (>=1.0.5)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.simpleactivationactions_0.1-1.deb
+Size: 3055070
+MD5sum: 95acb4d003ea1d40b9648758fd75d6ca
+SHA1: 8397413fe21e7bfc23935de3a662008f1754cddb
+SHA256: 0e57139440174fca7be026aea454e4f8fc84e4c2960dd235e935aeb7555f4839
+Description: 3G Unrestrictor 5 will allow you to remove restrictions for downloading via mobile Internet.
+Name: 3G Unrestrictor 5
+Author: Kim Streich
+Depiction: https://repo.ipamod.com/depictions/?p=3G Unrestrictor 5

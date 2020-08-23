@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.3gunrestrictor5</id>
+	<name>3G Unrestrictor 5</name>
+	<version>5.9.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>3G Unrestrictor 5 will allow you to remove restrictions for downloading via mobile Internet.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description></description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>3gunrestrictor51.jpeg</image>
+		</screenshot>		
+				
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Doesn't work on iOS 11.4-11.4.1.</change>
+		
+	</changelog>
+	
+</package>
