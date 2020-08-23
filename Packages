@@ -50,7 +50,7 @@ Package: com.ipamod.limneosos
 Version: 2.0.2
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: firmware (>7.0)
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.limneosos_2.0.2.deb
 Size: 36094
