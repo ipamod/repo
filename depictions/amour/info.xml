@@ -1,0 +1,25 @@
+<package>
+	<id>com.ipamod.amour</id>
+	<name>Amour</name>
+	<version>1.2.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware(>=10.0), preferenceloader, cy+cpu.arm64</package>
+	</dependencies>
+	<shortDescription>Tweak to change the animation of locking / unlocking the device and its speed.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+	
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Full support for iOS 11.4-11.4.1.</change>
+		</changelog>
+	
+</package>
