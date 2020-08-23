@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.amour2</id>
+	<name>Amour 2</name>
+	<version>1.1.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware(>=12.0), ru.rejail.libgraphite(>=2.2), preferenceloader</package>
+	</dependencies>
+	<shortDescription>Various animations to lock and unlock your device.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>amour21.jpg</image>
+		</screenshot>		
+		</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		</changelog>
+	
+</package>
