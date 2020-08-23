@@ -49,7 +49,7 @@ Depiction: https://repo.ipamod.com/depictions/?p=CallbarXS
 Package: com.ipamod.batteryhomebar
 Version: 1.2
 Section: Tweaks
-Maintainer: IPAMOD TWEAK <ipamod2020@gmail.com>
+Maintainer: shepgoba 
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.batteryhomebar_1.2.deb
@@ -57,7 +57,7 @@ Size: 13430
 MD5sum: 878348a3be35fd527f38af44a802518f
 SHA1: 54edadbd9e2d4821bf407dee6d2e09996d646486
 SHA256: 080901355a1a5dbcca544d4f8fef68abee25b9c0810b97e72d716575e6d7c293
-Description: Minimalistic look of calls.
+Description: Home Bar Battery Indicator for iPhone X / XS / XR.
 Name: BatteryHomeBar - IPAMOD
 Author: shepgoba 
 Depiction: https://repo.ipamod.com/depictions/?p=BatteryHomeBar
