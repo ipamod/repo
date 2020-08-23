@@ -221,3 +221,19 @@ Description: New portrait mode for unsupported devices. Compatible with dual cam
 Name: Aperturize
 Author: FoxfortMobile
 Depiction: https://repo.ipamod.com/depictions/?p=Aperturize
+
+Package: com.ipamod.adblockforyoutube
+Version: 1.0.7
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.aperturize_1.0.5k.deb
+Size: 46594
+MD5sum: c3f499f51c53ef90ad1ba6296a0bbb17
+SHA1: d760dc4d6efdcac4154eeae54a040d73aa658989
+SHA256: 10f8577f840e2406626d2199094251e3d96e9cafb4e61bb559903e4e6119713b
+Description: Blocking YouTube ads.
+Name: AdBlock for YouTube
+Author: Majd Alfhaily
+Depiction: https://repo.ipamod.com/depictions/?p=adblockforyoutube

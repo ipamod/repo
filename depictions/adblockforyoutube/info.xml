@@ -1,0 +1,23 @@
+<package>
+	<id>com.ipamod.adblockforyoutube</id>
+	<name>AdBlock for YouTube</name>
+	<version>1.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Blocking YouTube ads.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		</screenshots>
+	<changelog>
+		<change>List of changes</change>
+			</changelog>
+	
+</package>
