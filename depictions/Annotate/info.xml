@@ -1,0 +1,30 @@
+<package>
+	<id>com.ipamod.annotate</id>
+	<name>Annotate</name>
+	<version>2.1.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, com.creaturesurvive.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription>Home screen notes.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>annotate1.jpg</image>
+		</screenshot>		
+				
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Added transparency setting.</change>
+	
+	</changelog>
+	
+</package>

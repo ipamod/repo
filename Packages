@@ -113,7 +113,7 @@ Depiction: https://repo.ipamod.com/depictions/?p=3GUnrestrictor5
 Package: com.ipamod.a-font
 Version: 1.5.1
 Section: Tweaks
-Maintainer: shepgoba 
+Maintainer: IPAMOD 
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.a-font_1.5.1.deb
@@ -129,7 +129,7 @@ Depiction: https://repo.ipamod.com/depictions/?p=A-Font
 Package: com.ipamod.animationsbefastplus
 Version: 5.0k
 Section: Tweaks
-Maintainer: shepgoba 
+Maintainer: IPAMOD 
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, applist, firmware (<= 14), com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.animationsbefastplus_5.0k.deb
@@ -142,3 +142,18 @@ Name: AnimationsBeFastPlus
 Author: eXqusic
 Depiction: https://repo.ipamod.com/depictions/?p=AnimationsBeFastPlus
 
+Package: com.ipamod.annotate
+Version: 2.1.3k
+Section: Tweaks
+Maintainer: IPAMOD 
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.annotate_2.1.3k.deb
+Size: 61992
+MD5sum: bf29500d6c1927fe2b7fb58e2502c8c9
+SHA1: 5ffacd0c1bd1085f56765ad88ca00f4774fd5b8a
+SHA256: 6acbc73bf43b8154b2293093672956c8f939d4db1fbd58e08b8e35bc10df8162
+Description: Global setting of animation speed for all device actions.
+Name: Annotate
+Author: qwertyuiop1379
+Depiction: https://repo.ipamod.com/depictions/?p=Annotate
