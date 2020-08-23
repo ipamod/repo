@@ -413,3 +413,19 @@ Description: AirPay - Apple Pay inspired by AirPod. If you use Apple Pay on a da
 Name: AirPay
 Author: Dylan West <iosthemem0d@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=airpay
+
+Package: com.ipamod.appshortcut
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.appshortcut_1.0.4k.deb
+Size: 64838
+MD5sum: a06a0687bd6c2fdb48990bf85c084eaa
+SHA1: de74d023a5d665339b757f4cd6bff41ff2f64fd0
+SHA256: a12fbc0cbdb21d0571b48452a5e3d9ac122c2cb90c7117be47542bc82a574c3f
+Description: Quick access to your favorite apps from anywhere.
+Name: AppShortcut
+Author: db89.
+Depiction: https://repo.ipamod.com/depictions/?p=appshortcut
