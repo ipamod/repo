@@ -1,0 +1,25 @@
+<package>
+	<id>com.ipamod.apphide</id>
+	<name>AppHide</name>
+	<version>0.2.3-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 7.0), mobilesubstrate, applist</package>
+	</dependencies>
+	<shortDescription> Allows you to hide applications on the desktop and in settings.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+	
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+	
+	</changelog>
+	
+</package>

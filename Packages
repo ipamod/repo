@@ -381,3 +381,19 @@ Description: This tweak will give you the same connection popup with any Bluetoo
 Name: Ainsworth
 Author: Dave Van Wijk <vanwijkdave@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=ainsworth
+
+Package: com.ipamod.apphide
+Version: 0.2.3-2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ainsworth_1.3k.deb
+Size: 13216
+MD5sum: bfed4ce9456babe82a5cce545dd3a6cb
+SHA1: 9929526e4f24d4c316e441e247484299ce3d74a5
+SHA256: e3f061f2af093e813f95329d7b330f08dd992bf03125355642a0c3d547672620
+Description: Allows you to hide applications on the desktop and in settings.
+Name: AppHide
+Author: Jerry En <Jerry+apphide@jerryen.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=apphide
