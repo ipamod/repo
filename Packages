@@ -525,3 +525,19 @@ Description: Provide a tactile response when launching applications. Works on A9
 Name: AppTic
 Author: MayBeMe <maybeme.tweak@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=apptic
+
+Package: com.ipamod.animationbefast
+Version: 1.4.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.animationbefast_1.4.1.deb
+Size: 34752
+MD5sum: 7587d92d1fe94bf1368374d4cf5ada86
+SHA1: 330cbc4c1318927dc10809814ec083872ce64c73
+SHA256: e9cac2f10a7057028f63e0049e0985d3982c8f9ba5845b5d71473b74cc62064a
+Description: Allows you to speed up the animation.
+Name: AnimationsBeFast
+Author: Adam Seiter.
+Depiction: https://repo.ipamod.com/depictions/?p=animationbefast

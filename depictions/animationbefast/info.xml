@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.animationbefast</id>
+	<name>AnimationsBeFast</name>
+	<version>1.4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Allows you to speed up the animation.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>animationbefast1.jpg</image>
+		</screenshot>		
+		</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		</changelog>
+	
+</package>
