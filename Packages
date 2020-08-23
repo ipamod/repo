@@ -34,7 +34,7 @@ Package: com.ipamod.callbarxs
 Version: 3.2-143
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: firmware (>7.0)
+Depends: com.ipamod.limneosos, com.hackyouriphone.simpleactivationactions
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
 Size: 276078 
