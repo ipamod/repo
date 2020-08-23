@@ -125,3 +125,19 @@ Description: Change the font on your device using A-Font.
 Name: A-Font
 Author: Kim Streich
 Depiction: https://repo.ipamod.com/depictions/?p=A-Font
+
+Package: com.ipamod.animationsbefastplus
+Version: 5.0k
+Section: Tweaks
+Maintainer: shepgoba 
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, applist, firmware (<= 14), com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.animationsbefastplus_5.0k.deb
+Size: 143430
+MD5sum: e7f7d8f7cd451b7eddfa824735b6e225
+SHA1: 2456d7806f52a6be9be49e38103fefd7db93313d
+SHA256: 5baa52daa21ef50c1045aa011485ad479303c8b7097ff65210fbaf443b731ed5
+Description: Global setting of animation speed for all device actions.
+Name: AnimationsBeFastPlus
+Author: eXqusic
+Depiction: https://repo.ipamod.com/depictions/?p=A-Font
