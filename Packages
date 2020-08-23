@@ -349,3 +349,19 @@ Description: Tweak allows you to change the colors of all elements in the status
 Name: Aerial
 Author: Surenix.
 Depiction: https://repo.ipamod.com/depictions/?p=aerial
+
+Package: com.ipamod.appcrumb
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.appcrumb_1.0.deb
+Size: 76052
+MD5sum: 5ee1603bafd1f16f4158c3b93955e3fd
+SHA1: 53f952ea580bb63224632172acc35deccb698cee
+SHA256: 624fd8340b10b3ba5c47c1e47acb3daf77841710657455d5d1e6b15b97f118b3
+Description: Preview of the "Back to ..." button.
+Name: AppCrumb
+Author: sharedRoutine.
+Depiction: https://repo.ipamod.com/depictions/?p=appcrumb
