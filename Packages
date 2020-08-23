@@ -37,7 +37,7 @@ Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
-Size: 515,714
+Size: 515714
 MD5sum: d7bd5245efc7d77022e16e0fadc01712
 SHA1: d843aa451d88b4660d21e88a95063a749ae08621
 SHA256: b85cf054f3ddec0e323a9048c377fe70319f56ce2e0fbc39bddba373045bf206
@@ -82,13 +82,13 @@ Package: com.ipamod.simpleactivationactions
 Version: 0.1-1
 Section: Tweaks
 Maintainer: shepgoba 
-Depends: firmware (>7.0)
+Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.simpleactivationactions_0.1-1.deb
-Size: 9402 
-MD5sum: 0e128c21199c683146d49428bdfd4951
-SHA1: 118f8be6d8c99aa2bea7da10370d9c6da6c8d198
-SHA256: c52f95f77b17ab9ff8f66cb6b6864a754c75640f1aecd7484eed231a6d423bad
+Size: 9460
+MD5sum: 570e09bfb25f5ff41debf335e6fa7579
+SHA1: bc6a4229b258850a1403380bd78b135cc21791b4
+SHA256: 3da86fe6d33d392999f30c39960a297c83e9d743ec45e1273627a97c7849a9b1
 Description: Handles StatusBar actions for simple activation events.
 Name: SimpleActivationActions
 Author: shepgoba 
