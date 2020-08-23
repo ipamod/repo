@@ -33,8 +33,8 @@ Depiction: https://repo.ipamod.com/depictions/?p=libcolorpicker
 Package: com.ipamod.callbarxs
 Version: 3.2-143
 Section: Tweaks
-Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.ipamod.limneosos
+Maintainer: IPAMOD TWEAK <ipamod2020@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), com.ipamod.limneosos, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
 Size: 515714
