@@ -317,3 +317,19 @@ Description: Appaze 2 allows you to adjust volume, brightness and many features 
 Name: Appaze 2
 Author: AnthoPak <anthopakdev@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=appaze2appaze2
+
+Package: com.ipamod.aerial2
+Version: 1.0.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.aerial2_1.0.2.deb
+Size: 902562
+MD5sum: b9d604fcc931af78e997cd99961fef1a
+SHA1: 8871788156e3e94508b1078248024e3bc8ea2c45
+SHA256: 8ea74a9f06bb0984e9a5854f488e0d3c8bc7699463b26bdf7c29aa42dbd3f19c
+Description: Change the color of the bar status items.
+Name: Aerial 2
+Author: AnthoPak <anthopakdev@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=aerial2
