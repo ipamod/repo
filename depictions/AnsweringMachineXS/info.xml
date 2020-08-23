@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.answeringmachinex</id>
+	<name>AnsweringMachineXS</name>
+	<version>1.2-32</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-80), firmware (>= 11.0), ru.rejail.limneosos</package>
+	</dependencies>
+	<shortDescription>Setting up an answering machine with the ability to set any sound on it, your own recording, or pronouncing the specified Siri text.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>Setting up an answering machine with the ability to set any sound on it, your own recording, or pronouncing the specified Siri text.</description>
+		
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>answeringmachinex1.jpg</image>
+		</screenshot>		
+	
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Fixed bugs related to Siri.</change>
+		<change>Fixed bugs related to playing records.</change>
+	</changelog>
+	
+</package>

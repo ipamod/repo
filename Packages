@@ -157,3 +157,19 @@ Description: Global setting of animation speed for all device actions.
 Name: Annotate
 Author: qwertyuiop1379
 Depiction: https://repo.ipamod.com/depictions/?p=Annotate
+
+Package: com.ipamod.answeringmachinex
+Version: 1.2-32
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-80), firmware (>= 11.0), ru.rejail.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.answeringmachinex_1.2-32.deb
+Size: 770728
+MD5sum: 6af89bce973f166bd5db60d237c98aab
+SHA1: ae54eced900b4bc1acaf4d3b9cc1f7f236410511
+SHA256: c44dde5e290d13f96a344c11e9e97bd4f1e8cd2d9497e272d9b096f1ab8462b6
+Description: Setting up an answering machine with the ability to set any sound on it, your own recording, or pronouncing the specified Siri text.
+Name: AnsweringMachineXS
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://repo.ipamod.com/depictions/?p=AnsweringMachineXS
