@@ -85,10 +85,10 @@ Maintainer: shepgoba
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.simpleactivationactions_0.1-1.deb
-Size: 9562 
-MD5sum: 9ff5a9434d6362a2daba22020df17a89
-SHA1: 7ff810f864901601dde7d5834643c9d21c7d434e
-SHA256: ca5c20cbbdf48cd22b019f49d69be9faabc586e7da81008b28c45562bbc3c1b8
+Size: 9402 
+MD5sum: 0e128c21199c683146d49428bdfd4951
+SHA1: 118f8be6d8c99aa2bea7da10370d9c6da6c8d198
+SHA256: c52f95f77b17ab9ff8f66cb6b6864a754c75640f1aecd7484eed231a6d423bad
 Description: Handles StatusBar actions for simple activation events.
 Name: SimpleActivationActions
 Author: shepgoba 
