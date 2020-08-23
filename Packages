@@ -65,17 +65,17 @@ Depiction: https://repo.ipamod.com/depictions/?p=Limneosos
 Package: com.ipamod.batteryhomebar
 Version: 1.2
 Section: Tweaks
-Maintainer: shepgoba 
-Depends: firmware (>7.0)
+Maintainer: shepgoba
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.batteryhomebar_1.2.deb
-Size: 13430
-MD5sum: 878348a3be35fd527f38af44a802518f
-SHA1: 54edadbd9e2d4821bf407dee6d2e09996d646486
-SHA256: 080901355a1a5dbcca544d4f8fef68abee25b9c0810b97e72d716575e6d7c293
+Size: 22872
+MD5sum: 82785925269f18c2de66601407aa173b
+SHA1: 3e807831b361e07beebcf9908b7f9af2933626f6
+SHA256: 2e081c255cd84b704f1a0d1f8a7b4e5d13486ff7c578f16c006c96d48a9026b0
 Description: Home Bar Battery Indicator for iPhone X / XS / XR.
 Name: BatteryHomeBar - IPAMOD
-Author: shepgoba 
+Author: shepgoba
 Depiction: https://repo.ipamod.com/depictions/?p=BatteryHomeBar
 
 Package: com.ipamod.simpleactivationactions
