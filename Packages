@@ -256,7 +256,7 @@ Depiction: https://repo.ipamod.com/depictions/?p=xsf1reflyjb
 
 Package: com.ipamod.jokerpubg
 Version: 0.19
-Section: Tweaks
+Section: GAME MOD
 Maintainer: IPAMOD
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -269,3 +269,19 @@ Description: Hack Full Function PUBG MOBILE GLOBAL.
 Name: The M&M Pubg Hack 19.1
 Author: TheJoker&HiJacker
 Depiction: https://repo.ipamod.com/depictions/?p=jokerpubg
+
+Package: com.ipamod.uaupdatetools
+Version: 1.0r-101
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.uaupdatetools_1.0r-101.deb
+Size: 861216
+MD5sum: 5fcaa1cbcc9122f97554160ac0ed341e
+SHA1: b53315ed672141ef4a899401a92a47f64339e24d
+SHA256: 730a07862ede8ffa951389ad3cee366045446432f6295743ea8efbd4b5a775b5
+Description: App Admin will allow you to downgrade any application from the AppStore.
+Name: App Admin
+Author: UnlimApps Inc.
+Depiction: https://repo.ipamod.com/depictions/?p=uaupdatetools

@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.uaupdatetools</id>
+	<name>App Admin</name>
+	<version>1.0r-101</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 7.0), mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>App Admin will allow you to downgrade any application from the AppStore.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>uaupdatetools1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>uaupdatetools2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Bug fixes in iOS 7.</change>
+		</changelog>
+	
+</package>
