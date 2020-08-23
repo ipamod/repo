@@ -8,7 +8,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport</package>
+		<package>mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware</package>
 	</dependencies>
 	<shortDescription>The tweak changes the operation of the yellow LED flash, or both the white and yellow LED's. Activation from the button in the Control Center.</shortDescription>
 	<descriptionlist>
