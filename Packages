@@ -388,7 +388,7 @@ Section: Tweaks
 Maintainer: IPAMOD
 Depends: firmware (>= 7.0), mobilesubstrate, applist
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.ainsworth_1.3k.deb
+Filename: ./debs/com.ipamod.apphide_0.2.3-2.deb
 Size: 13216
 MD5sum: bfed4ce9456babe82a5cce545dd3a6cb
 SHA1: 9929526e4f24d4c316e441e247484299ce3d74a5
