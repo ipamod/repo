@@ -541,3 +541,19 @@ Description: Allows you to speed up the animation.
 Name: AnimationsBeFast
 Author: Adam Seiter.
 Depiction: https://repo.ipamod.com/depictions/?p=animationbefast
+
+Package: com.ipamod.aquaboardx
+Version: 0.2-2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), com.ipamod.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.aquaboardx_0.2-2.deb
+Size: 163964
+MD5sum: 7aa8b3d8b6ecc704506d456074dd4ad6
+SHA1: 8d08fc26d2c61d383c03e8686f0e39222787d426
+SHA256: fdd72303088041da57470fb8c82b011afa7d28d6c15fdee3e33014d50286d51d
+Description: Add various water animations to your screen, you can also turn on the rain effect.
+Name: AquaBoard XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=aquaboardx
