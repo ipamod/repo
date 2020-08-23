@@ -37,7 +37,7 @@ Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
-Size: 276078 
+Size: 515,714 
 MD5sum: d7bd5245efc7d77022e16e0fadc01712
 SHA1: d843aa451d88b4660d21e88a95063a749ae08621
 SHA256: b85cf054f3ddec0e323a9048c377fe70319f56ce2e0fbc39bddba373045bf206
@@ -53,7 +53,7 @@ Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.limneosos_2.0.2.deb
-Size: 23914
+Size: 36094
 MD5sum: 273ec6c59bcf83e6802524f70d1bd626
 SHA1: 4a49fe65cf5ce3633741c66c425b498370df3ae6
 SHA256: c88064482757e14022ef8f7ec5599b9cc3a9f202a76cbc460873a79c29fd0465
