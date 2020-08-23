@@ -253,3 +253,19 @@ Description: You can HIDE Doing jailbreak your iDevice.
 Name: FlyJB
 Author: XsF1re
 Depiction: https://repo.ipamod.com/depictions/?p=xsf1reflyjb
+
+Package: com.ipamod.jokerpubg
+Version: 0.19
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.jokerpubg_0.19.deb
+Size: 746030
+MD5sum: 6f703a678107d847f3e9c8f87bbbe524
+SHA1: a460a3e7cbaa59479dd9105fff8d246c4d85a189
+SHA256: 7f4756572d4e3289504de968bd79d935306f5f808c555920a164ef605a7072ef
+Description: Hack Full Function PUBG MOBILE GLOBAL.
+Name: The M&M Pubg Hack 19.1
+Author: TheJoker&HiJacker
+Depiction: https://repo.ipamod.com/depictions/?p=jokerpubg
