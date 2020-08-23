@@ -34,13 +34,13 @@ Package: com.ipamod.callbarxs
 Version: 3.2-143
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
-Depends: com.ipamod.limneosos, com.ipamod.simpleactivationactions
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12), net.limneos.simpleactivationactions, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarxs_3.2-143.deb
 Size: 276078 
-MD5sum: ae051b16016bfb84d03c36d5b4b0f215
-SHA1: e6f9f7d442dd64dd4e97d2c9f116c973fce9fa41
-SHA256: 6b78a1f9bd448d6da30382e76b50cb614d0019d7cac440f431279002dca5132f
+MD5sum: d7bd5245efc7d77022e16e0fadc01712
+SHA1: d843aa451d88b4660d21e88a95063a749ae08621
+SHA256: b85cf054f3ddec0e323a9048c377fe70319f56ce2e0fbc39bddba373045bf206
 Description: Minimalistic look of calls.
 Name: CallBar XS (iOS 12/13) - IPAMOD
 Author: Elias Limneos
@@ -54,9 +54,9 @@ Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.limneosos_2.0.2.deb
 Size: 23914
-MD5sum: c05187b63fd20b1260221b66ebb9429e
-SHA1: e8803f96b302fef53f9ad0a62efb4634cc3de62a
-SHA256: eccecbc1c5f0bdffad4157514f80268cec2c8ffb67115d1e045cd401eafaf67f
+MD5sum: 273ec6c59bcf83e6802524f70d1bd626
+SHA1: 4a49fe65cf5ce3633741c66c425b498370df3ae6
+SHA256: c88064482757e14022ef8f7ec5599b9cc3a9f202a76cbc460873a79c29fd0465
 Description: The name speaks for itself.
 Name: Limneosos
 Author: Elias Limneos
