@@ -926,7 +926,6 @@ Name: AutoBlue
 Author: Karimo299.
 Depiction: https://repo.ipamod.com/depictions/?p=autoublue
 
-
 Package: com.ipamod.batteryramp
 Version: 1.3.0k
 Section: Tweaks
@@ -942,3 +941,19 @@ Description: Reducing device charging time.
 Name: BatteryRamp
 Author: MegaDev.
 Depiction: https://repo.ipamod.com/depictions/?p=batteryramp
+
+Package: com.ipamod.autodynamicwallpapernew
+Version: 1.1.0-2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autodynamicwallpapernew_1.1.0-2.deb
+Size: 139704
+MD5sum: 61dd03d1bac1cbcaafc75966ea67df70
+SHA1: 859dd8f4380a756c9174e8205ac521cb4d6caaee
+SHA256: 6a79ab986f9179ee460ccd6f4476bfe5b8d1fe5ce0067bb69584aed0ca5ae62e
+Description: Auto play live wallpaper.
+Name: AutoDynamicWallpaper
+Author: Anima.
+Depiction: https://repo.ipamod.com/depictions/?p=autodynamicwallpapernew
