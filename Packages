@@ -621,3 +621,19 @@ Description: A new look at Siri.
 Name: Ares
 Author: Phoenix Dev <phnxdev07@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=ares
+
+Package: com.ipamod.autounlockx
+Version: 1.0.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autounlockx_1.0.4.deb
+Size: 75776
+MD5sum: 5d2bb3b30088ed98657be02dbfc132dd
+SHA1: 5b2b65b0f132fe023c6ff88ab1c916279ce53b47
+SHA256: 34812e6d2783f8cc8e88d958da46541474783b2f0156221765acb6dacf8d992a
+Description: Fast Face ID unlock.
+Name: AutoUnlockX
+Author: Spark.
+Depiction: https://repo.ipamod.com/depictions/?p=autounlockx
