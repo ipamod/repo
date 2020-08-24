@@ -717,3 +717,19 @@ Description: Easily accessible AssistiveTouch features.
 Name: Assistability12
 Author: DODGraphics.
 Depiction: https://repo.ipamod.com/depictions/?p=assistability12
+
+Package: com.ipamod.badgeme
+Version: 2.2k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.badgeme_2.2k.deb
+Size: 404968
+MD5sum: da374e372e8c05e136f98723ad3c03b5
+SHA1: f036b284c152302f576a8c4d1f93c5b2b129698c
+SHA256: 9115c53db024ef5dd507124922ecbfe7d5b699dd0740d051a65fe5104197a4db
+Description: Change the appearance of notification badges.
+Name: BadgeMe
+Author: Sirius24.
+Depiction: https://repo.ipamod.com/depictions/?p=badgeme
