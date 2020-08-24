@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.ares</id>
+	<name>Ares</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 13.0)</package>
+	</dependencies>
+	<shortDescription>A new look at Siri.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ares1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>ares2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		
+	</changelog>
+	
+</package>

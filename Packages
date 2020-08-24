@@ -605,3 +605,19 @@ Description: Autoclicker for iOS.
 Name: AutoTouch
 Author: Kent Krantz <kentkrantz@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=autotouch
+
+Package: com.ipamod.ares
+Version: 1.0.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ares_1.0.1.deb
+Size: 672170
+MD5sum: 053c9c76712467b144836ac5773f3ba0
+SHA1: 5b35d67832da7c97831f2b49cbbb390e4d8a2005
+SHA256: 09b10b25d598466df59de230e94b9d2f794b889e1880e16dada57e0768a31f62
+Description: A new look at Siri.
+Name: Ares
+Author: Phoenix Dev <phnxdev07@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=ares
