@@ -861,3 +861,19 @@ Description: Record phone calls and system sounds.
 Name: AudioRecorder XS (iOS 12/13)
 Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=audiorecorderxs
+
+Package: com.ipamod.batterypercent12
+Version: 1.0.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.batterypercent12_1.0.1.deb
+Size: 55650
+MD5sum: 5846f30b27d72a975e9f6d51820241a8
+SHA1: 5243ac1e21b6aa3a84eca058dde799390802dc91
+SHA256: c96cfc5ff1bbfd263af97dbacc935ddb0c7dfa9091139877b0a45321d69b9a49
+Description: Shows the battery percentage inside the icon.
+Name: BatteryPercent12
+Author: dpkg_ <Dpkg9510@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=batterypercent12
