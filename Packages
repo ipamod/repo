@@ -47,16 +47,16 @@ Author: Elias Limneos
 Depiction: https://repo.ipamod.com/depictions/?p=CallbarXS
 
 Package: com.ipamod.limneosos
-Version: 2.0.2
+Version: 2.0.2-1
 Section: Tweaks
 Maintainer: IPAMOD TWEAK <reposithree@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.limneosos_2.0.2.deb
-Size: 36094
-MD5sum: 273ec6c59bcf83e6802524f70d1bd626
-SHA1: 4a49fe65cf5ce3633741c66c425b498370df3ae6
-SHA256: c88064482757e14022ef8f7ec5599b9cc3a9f202a76cbc460873a79c29fd0465
+Filename: ./debs/com.ipamod.limneosos_2.0.2-1.deb
+Size: 36462
+MD5sum: 0140910e829eb4e43981b1782e242f34
+SHA1: f544c857720e43ea1299e4f68647b68f2a64bf28
+SHA256: 74c8f2e2b432db086a9e7ff022475091c1239d080248086a659d4a32b9219423
 Description: The name speaks for itself.
 Name: Limneosos
 Author: Elias Limneos
