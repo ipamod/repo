@@ -845,3 +845,19 @@ Description: Battery level indicator around the bangs. The tweak is analogous to
 Name: BatteryNotch
 Author: gilshahar7.
 Depiction: https://repo.ipamod.com/depictions/?p=batterynotch
+
+Package: com.ipamod.audiorecorderxs
+Version: 3.5-32
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.ipamod.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.audiorecorderxs_3.5-32.deb
+Size: 4815692
+MD5sum: 8f291ad5e5862b3ceedd0f1dca6eeede
+SHA1: 060c325c9402009e8b2d95f2915f31c69c2891ab
+SHA256: aeb4d27f256e09f8d10b9bb7e3290980dff98e3fbf88a6e9605c60b6d8458906
+Description: Record phone calls and system sounds.
+Name: AudioRecorder XS (iOS 12/13)
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=audiorecorderxs

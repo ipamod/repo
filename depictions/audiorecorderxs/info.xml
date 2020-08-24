@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.audiorecorderxs</id>
+	<name>BatteryNotch</name>
+	<version>3.5-32</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.ipamod.limneosos</package>
+	</dependencies>
+	<shortDescription>Record phone calls and system sounds.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>audiorecorderxs1.jpeg</image>
+		</screenshot>		
+							</screenshots>
+	<changelog>
+		<change>Fixed recording quality and volume, thanks to the inclusion of built-in audio filters in the recorded audio.</change>
+			</changelog>
+	
+</package>
