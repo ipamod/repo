@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.badgebar</id>
+	<name>BadgeBar</name>
+	<version>1.3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription>Setting up notification badges.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>badgebar1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>badgebar2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Fixed conflict with SnowBoard</change>
+		</changelog>
+	
+</package>
