@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.arkrompro</id>
+	<name>ArkromePro</name>
+	<version>1.0.10k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription>Charging percentage inside the icon.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>arkrompro1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>arkrompro2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Bug fixes and other improvements</change>
+		</changelog>
+	
+</package>

@@ -637,3 +637,19 @@ Description: Fast Face ID unlock.
 Name: AutoUnlockX
 Author: Spark.
 Depiction: https://repo.ipamod.com/depictions/?p=autounlockx
+
+Package: com.ipamod.arkrompro
+Version: 1.0.10k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.arkrompro_1.0.10k.deb
+Size: 41250
+MD5sum: 33fc25069fa1b69f119b90d4a870d01a
+SHA1: e3afaf1da099250b1d1e5893906f9e77fe7b1581
+SHA256: b2be26f73d24b5a23751d910de7e16a1f2002282e2a016f2b87a470dbbf1409b
+Description: Charging percentage inside the icon.
+Name: ArkromePro
+Author: dpkg_.
+Depiction: https://repo.ipamod.com/depictions/?p=arkrompro
