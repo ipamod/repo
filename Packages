@@ -797,3 +797,19 @@ Description: Quick access to emoji.
 Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=barmoji
+
+Package: com.ipamod.astrid
+Version: 1.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, firmware (>= 13.0), com.peterdev.libpddokdo
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.astrid_1.2.deb
+Size: 1919252
+MD5sum: 682d45e2101a1163933ecb4bea4e23d1
+SHA1: 094c4f292d6c22c0ba3c51df5de4178e8da701db
+SHA256: a38aac20bd9e00a1956065a649c84bb5172e11345dac4f8c18a33c11f0b8bcfc
+Description: Astrid provides fast switching between recently used apps.
+Name: Astrid
+Author: MTAC <mtactheming@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=astrid
