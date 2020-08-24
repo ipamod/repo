@@ -813,3 +813,19 @@ Description: Astrid provides fast switching between recently used apps.
 Name: Astrid
 Author: MTAC <mtactheming@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=astrid
+
+Package: com.ipamod.audiorecorder
+Version: 1.9-2k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ipamod.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.audiorecorder_1.9-2k.deb
+Size: 3907270
+MD5sum: 1f372adcc36c36b7312cee9f495daa89
+SHA1: dd288c94895a1d255b3ee4c5b1a932b4e03e347d
+SHA256: 106830280101369eadbdd4451714a78f0eb24ea926a81b93c73b661860d1d31f
+Description: Record calls and system sounds.
+Name: AudioRecorder 2
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=audiorecorder

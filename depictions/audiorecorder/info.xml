@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.audiorecorder</id>
+	<name>AudioRecorder 2</name>
+	<version>1.9-2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ipamod.limneosos</package>
+	</dependencies>
+	<shortDescription>Record calls and system sounds.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>audiorecorder1.jpeg</image>
+		</screenshot>		
+							</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>
