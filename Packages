@@ -765,3 +765,19 @@ Description: Customization of notification badges.
 Name: Badgomizer
 Author: merdok <merdok87@o2.pl>.
 Depiction: https://repo.ipamod.com/depictions/?p=badgomizer
+
+Package: com.ipamod.asteroid
+Version: 3.0.7
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences (>= 1.1.5), com.creaturesurvive.libcscolorpicker(>= 1.0.3)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.asteroid_3.0.7.deb
+Size: 867360
+MD5sum: 65928034ea26a6d2c1bbfb0df821b745
+SHA1: 3e927fbcb64804f6220d20817e3c554f85569307
+SHA256: 64df8e3edc5ff49266ae0a908eab80faa1be5f090631d95498cd6b69afc4d701
+Description: Weather animations on the home screen.
+Name: Asteroid
+Author: midnightchips & the casle.
+Depiction: https://repo.ipamod.com/depictions/?p=asteroid
