@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.artsy</id>
+	<name>BadgeBar</name>
+	<version>2.0~Beta.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ru.rejail.utils</package>
+	</dependencies>
+	<shortDescription>Modification of the player on the lock screen, in the control.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>artsy1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>artsy2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>A12 support</change>
+		</changelog>
+	
+</package>
