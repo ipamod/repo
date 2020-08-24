@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.badgomizer</id>
+	<name>Badgomizer</name>
+	<version>1.6.11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist</package>
+	</dependencies>
+	<shortDescription>Customization of notification badges.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>badgomizer1.jpeg</image>
+		</screenshot>		
+					<screenshot>
+			<description>Screenshot 2.</description>
+			<image>badgomizer2.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added support for A12 and iOS 12</change>
+			</changelog>
+	
+</package>
