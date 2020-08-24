@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.autoublue</id>
+	<name>AutoBlue</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common, preferenceloader, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Turns off Bluetooth after a specified time.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>autoublue1.jpeg</image>
+		</screenshot>
+							</screenshots>
+	<changelog>
+		<change>Fixed a bug due to which Bluetooth would not turn on when immediately turned off.</change>
+			</changelog>
+	
+</package>

@@ -909,3 +909,19 @@ Description: Replaces battery percentage icon on iPhone X.
 Name: BatteryPercentX
 Author: Spark.
 Depiction: https://repo.ipamod.com/depictions/?p=batterypercentx
+
+Package: com.ipamod.autoublue
+Version: 1.1.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autoublue_1.1.1.deb
+Size: 268766
+MD5sum: 4387a71997bae25fe262c4ef715fd7d6
+SHA1: 64eab54af398aec197545feee62fcbf320320db4
+SHA256: 1c77276147184eab5dddb5c4e071be6318a74d4afb6596501d9cbc0c51547f5e
+Description: Turns off Bluetooth after a specified time.
+Name: AutoBlue
+Author: Karimo299.
+Depiction: https://repo.ipamod.com/depictions/?p=autoublue
