@@ -829,3 +829,19 @@ Description: Record calls and system sounds.
 Name: AudioRecorder 2
 Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=audiorecorder
+
+Package: com.ipamod.batterynotch
+Version: 1.6.1k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.batterynotch_1.6.1k.deb
+Size: 152372
+MD5sum: 45c39d5ef35ea0c43da30a52b0571af1
+SHA1: df6439d80b32faceb8341fa54944eb3a423a15ea
+SHA256: c62f0384a199cb6117b854edaca02c1d6aefae8e0f1a554b918474f1c1fe406d
+Description: Battery level indicator around the bangs. The tweak is analogous to Bazzi.
+Name: BatteryNotch
+Author: gilshahar7.
+Depiction: https://repo.ipamod.com/depictions/?p=batterynotch

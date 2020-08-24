@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.batterynotch</id>
+	<name>BatteryNotch</name>
+	<version>1.6.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader</package>
+	</dependencies>
+	<shortDescription>Battery level indicator around the bangs. The tweak is analogous to Bazzi.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>batterynotch1.jpg</image>
+		</screenshot>		
+							</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>
