@@ -781,3 +781,19 @@ Description: Weather animations on the home screen.
 Name: Asteroid
 Author: midnightchips & the casle.
 Depiction: https://repo.ipamod.com/depictions/?p=asteroid
+
+Package: com.ipamod.barmoji
+Version: 1.9
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.barmoji_1.9.deb
+Size: 58952
+MD5sum: f95659229d9e2c57d8eb13e10fed4b08
+SHA1: e8b3010d7bc301ebb24f8241d32727a87d5041fe
+SHA256: 8eccdc28de1c86ae10944a2ed9b10dc1882e531be9bea4c0306e1c8854d0dfc0
+Description: Quick access to emoji.
+Name: Barmoji
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=barmoji

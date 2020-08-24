@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.barmoji</id>
+	<name>Barmoji</name>
+	<version>1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription>Quick access to emoji.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>barmoji1.jpeg</image>
+		</screenshot>		
+					</screenshots>
+	<changelog>
+		<change>This version restores Barmoji to 1.7 until further testing with changes in 1.8 is done.</change>
+			</changelog>
+	
+</package>
