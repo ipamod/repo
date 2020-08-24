@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.autoinvert</id>
+	<name>AutoInvert</name>
+	<version>1.0-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> Dark mode adjustable by screen brightness.</shortDescription>
+	<descriptionlist>
+		<description>IOS 12.4 support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>autoinvert1.jpg</image>
+		</screenshot>		
+											</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>

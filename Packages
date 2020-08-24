@@ -973,3 +973,19 @@ Description: Customize battery appearance for X-status bars.
 Name: Bazzi 2
 Author: Blake Boxberger.
 Depiction: https://repo.ipamod.com/depictions/?p=bazzi2
+
+Package: com.ipamod.autoinvert
+Version: 1.0-4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autoinvert_1.0-4.deb
+Size: 39520
+MD5sum: bf8f3cc1d5caecc0ee5dfb94229b5b8d
+SHA1: da2f6516ed0a3025d3677bbbfd970dcf2ea684b9
+SHA256: 06b9185b4aafcb8a6bad1989aba6cdb092b7b39e7a0bc92c577b75db23027706
+Description: Dark mode adjustable by screen brightness.
+Name: AutoInvert
+Author: cole cabral.
+Depiction: https://repo.ipamod.com/depictions/?p=autoinvert
