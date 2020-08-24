@@ -1,6 +1,6 @@
 <package>
 	<id>com.ipamod.audiorecorderxs</id>
-	<name>BatteryNotch</name>
+	<name>AudioRecorder XS (iOS 12/13)</name>
 	<version>3.5-32</version>
 	<compatibility>
 		<firmware>
