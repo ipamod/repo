@@ -957,3 +957,19 @@ Description: Auto play live wallpaper.
 Name: AutoDynamicWallpaper
 Author: Anima.
 Depiction: https://repo.ipamod.com/depictions/?p=autodynamicwallpapernew
+
+Package: com.ipamod.bazzi2
+Version: 2.0.8
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bazzi2_2.0.8.deb
+Size: 86056
+MD5sum: 9a8c75198ea0bea23d7b4836b12fff91
+SHA1: 9ebc452e49af3abe9aa2c7fe9aed877a4ff64b3b
+SHA256: fc56a926a3683d16be81531472d674a65eaae4469c15bc96c8f00a2cd7174683
+Description: Customize battery appearance for X-status bars.
+Name: Bazzi 2
+Author: Blake Boxberger.
+Depiction: https://repo.ipamod.com/depictions/?p=bazzi2
