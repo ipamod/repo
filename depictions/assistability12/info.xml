@@ -1,0 +1,28 @@
+<package>
+	<id>com.ipamod.assistability12</id>
+	<name>Assistability12</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Easily accessible AssistiveTouch features.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>assistability121.jpg</image>
+		</screenshot>		
+			
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+			</changelog>
+	
+</package>

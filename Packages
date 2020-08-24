@@ -701,3 +701,19 @@ Description: Badge color to match application icons.
 Name: BadgeColors
 Author: cole cabral.
 Depiction: https://repo.ipamod.com/depictions/?p=badgecolors
+
+Package: com.ipamod.assistability12
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.assistability12_0.0.1-1.deb
+Size: 210964
+MD5sum: ad8aac3a90e21f3cb0b543869d8911cd
+SHA1: a601bf910f3b25a19f3facdcfa37fa2d55849ef4
+SHA256: d40e2b343c79ccffa0b91588ee9464ca4f7a8ee536fa5f0a00015cbe0e145507
+Description: Easily accessible AssistiveTouch features.
+Name: Assistability12
+Author: DODGraphics.
+Depiction: https://repo.ipamod.com/depictions/?p=assistability12
