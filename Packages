@@ -1005,3 +1005,19 @@ Description: Lots of battery settings on iPhone X.
 Name: Bazzi
 Author: Blake Boxberger.
 Depiction: https://repo.ipamod.com/depictions/?p=bazzi
+
+Package: com.ipamod.autoscroll
+Version:1.0.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, applist, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autoscroll_1.0.2.deb
+Size: 57866
+MD5sum: 82bc67278afaa6f1dda9a2d6deee89a0
+SHA1: ccabc8ac176906dc5a2342e31edc45fa64511802
+SHA256: 49e45faaae49833422df8605191713d4c16bf9657bf4d1fe2e0e56773f9f07a3
+Description: Automatic scrolling in all applications.
+Name: AutoScroll
+Author: pxcex.
+Depiction: https://repo.ipamod.com/depictions/?p=autoscroll
