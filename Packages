@@ -589,3 +589,19 @@ Description: Arc offers you a whole new way to quickly access your most frequent
 Name: Arc
 Author: Muirey03.
 Depiction: https://repo.ipamod.com/depictions/?p=Arc
+
+Package: com.ipamod.autotouch
+Version: 6.1.2k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autotouch_6.1.2k.deb
+Size: 47057448
+MD5sum: dcad3b87fd9162f342a155c6a769f77d
+SHA1: b4a68cebcf5195d41286808a450eca7803b2168d
+SHA256: b64c0027b35b5b7aea2194b8b9fd7722a7b793ae9b09282f9d1fca59fab74899
+Description: Autoclicker for iOS.
+Name: AutoTouch
+Author: Kent Krantz <kentkrantz@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=autotouch

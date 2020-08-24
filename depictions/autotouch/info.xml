@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.autotouch</id>
+	<name>AutoTouch</name>
+	<version>6.1.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)</package>
+	</dependencies>
+	<shortDescription>Autoclicker for iOS.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>autotouch1.jpeg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>autotouch2.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		
+	</changelog>
+	
+</package>
