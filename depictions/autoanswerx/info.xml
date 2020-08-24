@@ -1,0 +1,27 @@
+<package>
+	<id>com.ipamod.autoanswerx</id>
+	<name>AutoAnswer XS (iOS 11/12/13)</name>
+	<version>0.2-17</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, firmware (>= 11.0), com.ipamod.limneosos</package>
+	</dependencies>
+	<shortDescription>An answering machine for any calls.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>autoanswerx1.jpg</image>
+		</screenshot>		
+							</screenshots>
+	<changelog>
+		<change>Correction of crashes.</change>
+			</changelog>
+	
+</package>

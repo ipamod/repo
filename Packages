@@ -877,3 +877,19 @@ Description: Shows the battery percentage inside the icon.
 Name: BatteryPercent12
 Author: dpkg_ <Dpkg9510@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=batterypercent12
+
+Package: com.ipamod.autoanswerx
+Version: 0.2-17
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.ipamod.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.autoanswerx_0.2-17.deb
+Size: 248846
+MD5sum: 85f8abde6eaffa72436d3dfdb1b7c09a
+SHA1: 6cbddc0e0458457f28ed209f1728a9cdf4e1e0f3
+SHA256: dd889d871fa12b6d0c26b7d3a9331cdcdf650372f3714812499577e008d678d0
+Description: An answering machine for any calls.
+Name: AutoAnswer XS (iOS 11/12/13)
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=autoanswerx
