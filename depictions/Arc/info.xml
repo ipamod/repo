@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.arc</id>
+	<name>Arc</name>
+	<version>1.0.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist</package>
+	</dependencies>
+	<shortDescription>Arc offers you a whole new way to quickly access your most frequently used actions.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+			</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>arc1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>arc2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>List of changes</change>
+		<change>Bug fixes and other improvements.</change>
+			</changelog>
+	
+</package>

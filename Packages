@@ -573,3 +573,19 @@ Description: Hack PUBG Ibrahem Alnayef VIP.
 Name: Hack PUBG Ibrahem Alnayef VIP
 Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=ibrahemvip
+
+Package: com.ipamod.arc
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.arc_1.0.4k.deb
+Size: 644848
+MD5sum: 41a07822b6df1203c8b6b65865cdce3b
+SHA1: 969072390914f2125f5dd29deca3faeb914a1622
+SHA256: c7654125911f98ccbeba7a05654509288f5a3126427b9f3bcddce4c9fe679f6a
+Description: Arc offers you a whole new way to quickly access your most frequently used actions.
+Name: Arc
+Author: Muirey03.
+Depiction: https://repo.ipamod.com/depictions/?p=Arc
