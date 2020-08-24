@@ -989,3 +989,19 @@ Description: Dark mode adjustable by screen brightness.
 Name: AutoInvert
 Author: cole cabral.
 Depiction: https://repo.ipamod.com/depictions/?p=autoinvert
+
+Package: com.ipamod.bazzi
+Version: 2.0.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bazzi_2.0.6.deb
+Size: 56864
+MD5sum: cb97fb18ec7d15e3d3475ebe9b9649e5
+SHA1: 0e8a623efbc684289d904826bf963fbe1f6d19a0
+SHA256: 91e941073851734edad22f7433ce58f16a2d9c2b437e8f1c0c59fc13308a55f3
+Description: Lots of battery settings on iPhone X.
+Name: Bazzi
+Author: Blake Boxberger.
+Depiction: https://repo.ipamod.com/depictions/?p=bazzi
