@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.betteralarm</id>
+	<name>BetterAlarm</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker</package>
+	</dependencies>
+	<shortDescription>Redesigned alarm and timer screens.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betteralarm1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betteralarm2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Fixed a bug with fonts in the status bar.</change>
+			</changelog>
+	
+</package>

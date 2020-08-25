@@ -1101,3 +1101,19 @@ Description: Notifications for style X-status bars.
 Name: BoardBanner13 (iOS 12~13)
 Author: Soongyu Kwon.
 Depiction: https://repo.ipamod.com/depictions/?p=boardbanners
+
+Package: com.ipamod.betteralarm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.betteralarm_1.2.1.deb
+Size: 72030
+MD5sum: 864c382b6a16a9461c7bfa25db718f74
+SHA1: 363df09fba52b410083cb6035b8ee2e7663487fa
+SHA256: 48c90d549251d91e8c8a00d9700f569de780139d148f5c19b77570494340c26e
+Description: Redesigned alarm and timer screens.
+Name: BetterAlarm
+Author: NoisyFlake <support@noisyflake.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=betteralarm
