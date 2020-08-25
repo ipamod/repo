@@ -1037,3 +1037,19 @@ Description: Music player redesign with many styles available.
 Name: BellePlayer
 Author: Geometric Software.
 Depiction: https://repo.ipamod.com/depictions/?p=belleplayer
+
+Package: com.ipamod.bellevolume
+Version:1.1.4k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware(>=11.0), preferenceloader, ru.rejail.libgraphite(>=2.2.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bellevolume_1.1.4k.deb
+Size: 549566
+MD5sum: 3050a4e07b7abf385b16b6df013f2a34
+SHA1: 39a937ee27ce122877539f4a09e21c3ef74a3eda
+SHA256: a950aa452b66449beaa4d50d1324debadd2509249f0ff37d6642dc54a8ed8439
+Description: Volume control modification.
+Name: BelleVolume
+Author: Geometric Software.
+Depiction: https://repo.ipamod.com/depictions/?p=bellevolume
