@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bubbleapps</id>
+	<name>Bubble Apps</name>
+	<version>2.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> org.thebigboss.libcolorpicker, mobilesubstrate, applist</package>
+	</dependencies>
+	<shortDescription>Quick access to essential apps from the home screen.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbleapps1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbleapps2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>

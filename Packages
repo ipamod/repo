@@ -1277,3 +1277,19 @@ Description: Premium for Betternet VPN App, Hack: Betternet.
 Name: Betternet Premium
 Author: stem grade.
 Depiction: https://repo.ipamod.com/depictions/?p=betternetpremium
+
+Package: com.ipamod.bubbleapps
+Version: 2.1k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: org.thebigboss.libcolorpicker, mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bubbleapps_2.1k.deb
+Size: 261222
+MD5sum: d786aa3fc4837962ad19cfb955238584
+SHA1: 7bb0e61f4791fff677bbfa91b781c0b9bacd3b21
+SHA256: a8360bc880606e5798632edb88dfe84ad4d4009e4807443fbad4063e6eb2775e
+Description: Quick access to essential apps from the home screen.
+Name: Bubble Apps
+Author: 0xkuj.
+Depiction: https://repo.ipamod.com/depictions/?p=bubbleapps
