@@ -1341,3 +1341,19 @@ Description: BetterViber gives you many different options to improve your Viber 
 Name: BetterViber
 Author: CydiaGeek <lucaluca86@aol.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=betterviber
+
+Package: com.ipamod.byehomebottombarx
+Version: 1.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.byehomebottombarx_1.2.deb
+Size: 98052
+MD5sum: 9f18529c2a71b2b134c7c153171699b1
+SHA1: 965dedfd187a6c3d2f7315f7bc06f75a67d039bb
+SHA256: d5161b43fd0e587ee53ffe1eecc44247598d754945a68a01894e4d8062292c93
+Description: ByeHomeBottomBarX Settings to Remove / Fade Home Bar on Desktop, Lock Screen, and iPhone X Notification Center!
+Name: ByeHomeBottomBarX
+Author: CydiaGeek <lucaluca86@aol.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=byehomebottombarx

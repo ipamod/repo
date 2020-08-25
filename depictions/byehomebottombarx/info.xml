@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.byehomebottombarx</id>
+	<name>ByeHomeBottomBarX</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription>ByeHomeBottomBarX Settings to Remove / Fade Home Bar on Desktop, Lock Screen, and iPhone X Notification Center!</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>byehomebottombarx1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbles2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Added vertical home bar.</change>
+			</changelog>
+	
+</package>
