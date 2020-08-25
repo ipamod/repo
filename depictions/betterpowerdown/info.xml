@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.betterpowerdown</id>
+	<name>BetterPowerDown</name>
+	<version>1.4.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)</package>
+	</dependencies>
+	<shortDescription>Advanced power button capabilities.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betterpowerdown1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbleapps2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>
