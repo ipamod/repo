@@ -1261,3 +1261,19 @@ Description: Full Screen Music Mode on iPad.
 Name: Brimful Music
 Author: md.furman.
 Depiction: https://repo.ipamod.com/depictions/?p=brimfulmusic
+
+Package: com.ipamod.betternetpremium
+Version: 1.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.betternetpremium_1.1.deb
+Size: 32858
+MD5sum: e978217bc05940bdb7b7d933253d4287
+SHA1: 30343569eabe036a0dbde9798ff7e7da6cb5d10e
+SHA256: 39728285935f56324fa883442217236cf866722ee45251ac75ed05dc9659b7eb
+Description: Premium for Betternet VPN App, Hack: Betternet.
+Name: Betternet Premium
+Author: stem grade.
+Depiction: https://repo.ipamod.com/depictions/?p=betternetpremium
