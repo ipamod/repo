@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bubbles</id>
+	<name>bubbles</name>
+	<version>0.3.0b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription>Make your posts popular!.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbles1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbles2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>

@@ -1309,3 +1309,19 @@ Description: Advanced power button capabilities.
 Name: BetterPowerDown
 Author: CoolStar.
 Depiction: https://repo.ipamod.com/depictions/?p=betterpowerdown
+
+Package: com.ipamod.bubbles
+Version: 0.3.0b
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bubbles_0.3.0b.deb
+Size: 80532
+MD5sum: 8de1566ac86fec42537bf454f3d7abc7
+SHA1: 6c0894f0f452baa53bac72b2c9b676be6a86359a
+SHA256: 1b4d7ba9e5f188fc3a7ffe2ff4125d52e1bda66d780e2307e61b6c3084bcea2c
+Description: Make your posts popular!
+Name: bubbles
+Author: CreatureSurvive <support@creaturecoding.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=bubbles
