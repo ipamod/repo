@@ -1117,3 +1117,19 @@ Description: Redesigned alarm and timer screens.
 Name: BetterAlarm
 Author: NoisyFlake <support@noisyflake.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=betteralarm
+
+Package: com.ipamod.boom
+Version: 0.0.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.boom_0.0.1.deb
+Size: 9706
+MD5sum: 1b314b2a3610ab19b639d512c2e0abab
+SHA1: 85876adbd063dc717c43c74cd71203524d18f832
+SHA256: faa1e0dd2a8425929a09eae25a17ceb5d76167718604a8cba6ffc279c0628385
+Description: Boom without ads and with background listening.
+Name: BOOM
+Author: Alexandr_s <ipont4ss@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=boom
