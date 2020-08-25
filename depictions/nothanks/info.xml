@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.nothanks</id>
+	<name>BelleVolume</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Notifications for style X-status bars.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>nothanks1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>nothanks2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Bug fixes and other improvements.</change>
+			</changelog>
+	
+</package>

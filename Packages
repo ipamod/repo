@@ -1053,3 +1053,19 @@ Description: Volume control modification.
 Name: BelleVolume
 Author: Geometric Software.
 Depiction: https://repo.ipamod.com/depictions/?p=bellevolume
+
+Package: com.ipamod.nothanks
+Version:1.0.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nothanks_1.0.2.deb
+Size: 44072
+MD5sum: 7db335047bbe3d5bf1975e332c9ffbb8
+SHA1: f17997e09e42d25b3e106153e97f8f29d264ed36
+SHA256: ec87699e5981ea75186326f75abfa36ecc422d6185b3d70d0b7f56df1342b639
+Description: Notifications for style X-status bars.
+Name: BoardBanner12
+Author: PeterDev <djperter@icloud.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=nothanks
