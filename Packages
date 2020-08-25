@@ -1069,3 +1069,19 @@ Description: Notifications for style X-status bars.
 Name: BoardBanner12
 Author: PeterDev <djperter@icloud.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=nothanks
+
+Package: com.ipamod.better3dmenus
+Version: 2.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.better3dmenus_2.4.deb
+Size: 35874
+MD5sum: 4f425a431deb6d562a8ebec0f6e65afd
+SHA1: a026021fcc64cec51167bd7cb403e9c69eda8d5a
+SHA256: 225dde646f4bcc2f07c14748c08ce8da296141bff576cfa063e11ae75d0809db
+Description: 3D - Touch menu options in Springboard.
+Name: Better3DMenus
+Author: dpkg_ <Dpkg9510@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=nothanks
