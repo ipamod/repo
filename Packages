@@ -1229,3 +1229,19 @@ Description: Arranging icons on the desktop IOS 13.
 Name: Boxy 4 (iOS 13)
 Author: William Vabrinskas <wvabrinskas@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=boxy4
+
+Package: com.ipamod.betterccxi
+Version: 1.6.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.betterccxi_1.6.0.deb
+Size: 158500
+MD5sum: 250143c9f708ccb63cdc68f14c8b32ac
+SHA1: 2a8041d80ea29731cdfae4e6965e6e997de938e4
+SHA256: 99c22052fa0674f092d6c0f510c792733f7f182a5b7433390f4f59022455da72
+Description: Modifying Control Center Modules.
+Name: BetterCCXI
+Author: ATWiiks.
+Depiction: https://repo.ipamod.com/depictions/?p=betterccxi

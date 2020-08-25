@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.betterccxi</id>
+	<name>BetterCCXI</name>
+	<version>1.6.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.opa334.ccsupport, preferenceloader</package>
+	</dependencies>
+	<shortDescription>Modifying Control Center Modules.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betterccxi1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>boxy42.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Error correction.</change>
+			</changelog>
+	
+</package>
