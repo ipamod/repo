@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.boardbanners</id>
+	<name>BoardBanner13 (iOS 12~13)</name>
+	<version>2.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0), cy+cpu.arm64</package>
+	</dependencies>
+	<shortDescription>Notifications for style X-status bars.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>boardbanners1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>boardbanners3.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>IOS 13.4 support.</change>
+			</changelog>
+	
+</package>
