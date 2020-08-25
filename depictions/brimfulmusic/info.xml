@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.brimfulmusic</id>
+	<name>Brimful Music</name>
+	<version>0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Full Screen Music Mode on iPad.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>brimfulmusic1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>brimfulmusic2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>

@@ -1245,3 +1245,19 @@ Description: Modifying Control Center Modules.
 Name: BetterCCXI
 Author: ATWiiks.
 Depiction: https://repo.ipamod.com/depictions/?p=betterccxi
+
+Package: com.ipamod.brimfulmusic
+Version: 0.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.brimfulmusic_0.6.deb
+Size: 3646
+MD5sum: 72bb0d681e88ed55357057b74a64d49d
+SHA1: 2e8dd4c8fed061c0f3da5b5eb010eb87d571da00
+SHA256: 43e34f2c4f6ddf44de385ca2840f34e2384690773b3f14ab60006bc289ec8c17
+Description: Full Screen Music Mode on iPad.
+Name: Brimful Music
+Author: md.furman.
+Depiction: https://repo.ipamod.com/depictions/?p=brimfulmusic
