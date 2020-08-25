@@ -1149,3 +1149,19 @@ Description: TvOS style alerts and action windows.
 Name: BetterAlerts
 Author: eXqusic.
 Depiction: https://repo.ipamod.com/depictions/?p=betteralerts
+
+Package: com.ipamod.bottomtoolbar
+Version: 1.5.2k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bottomtoolbar_1.5.2k.deb
+Size: 1908470
+MD5sum: 0f66322a6faa2add459e14ffe6a8e4dd
+SHA1: f6f14de8942d3f5f790ab062be5ed06eda23525f
+SHA256: ef221b2a4758f539a46efd846ffcfde0b2cc8a86a3f91f108ca2fca9933b7f80
+Description: Open Control Center with home bar gestures.
+Name: BottomToolBar
+Author: XCXiao <Kpwn0@outlook.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=bottomtoolbar

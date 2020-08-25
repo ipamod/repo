@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bottomtoolbar</id>
+	<name>BottomToolBar</name>
+	<version>1.5.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Open Control Center with home bar gestures.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bottomtoolbar1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betteralerts2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing.</change>
+			</changelog>
+	
+</package>
