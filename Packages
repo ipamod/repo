@@ -1181,3 +1181,19 @@ Description: Coloring of network module buttons in the Control Center.
 Name: BetterCCIcons13
 Author: dev4i <chrisink22@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=bettercciconsproios13
+
+Package: com.ipamod.boxy3
+Version: 3.6.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.boxy3_3.6.2.deb
+Size: 2799106
+MD5sum: 5b621e3c5a320337310761aa25ccd242
+SHA1: 97dabafd1a76e515e8c78857a4279c5539b59ca3
+SHA256: 1f3457bd83a03849b908a3b42340ad7bc7e4393c40c8062c0fba67fba0375c6d
+Description: Arranging icons on the desktop.
+Name: Boxy 3 (iOS 11 - 12)
+Author: William Vabrinskas <wvabrinskas@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=boxy3
