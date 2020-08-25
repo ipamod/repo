@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.betteralerts</id>
+	<name>BetterAlerts</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription>TvOS style alerts and action windows.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betteralerts1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>betteralerts2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Added support for BioProtect.</change>
+			</changelog>
+	
+</package>

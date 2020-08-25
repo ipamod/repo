@@ -1133,3 +1133,19 @@ Description: Boom without ads and with background listening.
 Name: BOOM
 Author: Alexandr_s <ipont4ss@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=boom
+
+Package: com.ipamod.betteralerts
+Version: 0.0.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.betteralerts_1.3k.deb
+Size: 35336
+MD5sum: f5da45f2b1a95180f5ca112f5f395cd8
+SHA1: f692897c59af61af98abb345d64331268c8903cd
+SHA256: 114a1eb42cb3004020381bbe2aa56cabd5e63eedf6da318395125e630f89cdc9
+Description: TvOS style alerts and action windows.
+Name: BetterAlerts
+Author: eXqusic.
+Depiction: https://repo.ipamod.com/depictions/?p=betteralerts
