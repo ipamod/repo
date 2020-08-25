@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bettercciconspro</id>
+	<name>BetterCCIconsPro</name>
+	<version>1.7.5k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription>Change the color of the PU buttons.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bettercciconspro1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bettercciconspro2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Support for A12.</change>
+			</changelog>
+	
+</package>

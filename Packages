@@ -1197,3 +1197,19 @@ Description: Arranging icons on the desktop.
 Name: Boxy 3 (iOS 11 - 12)
 Author: William Vabrinskas <wvabrinskas@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=boxy3
+
+Package: com.ipamod.bettercciconspro
+Version: 1.7.5k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bettercciconspro_1.7.5k.deb
+Size: 132862
+MD5sum: 386712ce8c517f6e44788ce2a2c256b7
+SHA1: 54888e0a2092cc0583268124310a6fbb9639cfa4
+SHA256: 79074f97a6ebf4fa12f4dbc3ec12a5045820ec30cd00a9eacb5989780416d74c
+Description: Change the color of the PU buttons.
+Name: BetterCCIconsPro
+Author: dev4i <chrisink22@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=bettercciconspro
