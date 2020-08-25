@@ -1213,3 +1213,19 @@ Description: Change the color of the PU buttons.
 Name: BetterCCIconsPro
 Author: dev4i <chrisink22@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=bettercciconspro
+
+Package: com.ipamod.boxy4
+Version: 4.1.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.boxy4_4.1.2.deb
+Size: 2826454
+MD5sum: 0e015ecdae616fa338d4ed59835f1043
+SHA1: ed3aff62c3544b1bf9b9a7f7e41bafb7e1d07de4
+SHA256: d480bcacb1f825720d6c2b0662dcaa1e0a9b201150a9eecb171f51f16a112b4c
+Description: Arranging icons on the desktop IOS 13.
+Name: Boxy 4 (iOS 13)
+Author: William Vabrinskas <wvabrinskas@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=boxy4
