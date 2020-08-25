@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bettercciconsproios13</id>
+	<name>BetterCCIcons13</name>
+	<version>1.0.5k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription>Coloring of network module buttons in the Control Center.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bettercciconsproios131.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bettercciconsproios132.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing.</change>
+			</changelog>
+	
+</package>

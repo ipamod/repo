@@ -1165,3 +1165,19 @@ Description: Open Control Center with home bar gestures.
 Name: BottomToolBar
 Author: XCXiao <Kpwn0@outlook.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=bottomtoolbar
+
+Package: com.ipamod.bettercciconsproios13
+Version: 1.0.5k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bettercciconsproios13_1.0.5k.deb
+Size: 165972
+MD5sum: 66174506b49c9b141f6e4a61f94d301f
+SHA1: 249da023063c715b78ffd822403d72f6e637de08
+SHA256: 287275672e958a1ee5a37166f53a24b888a0bbec9107173bc1773eb496ae89f1
+Description: Coloring of network module buttons in the Control Center.
+Name: BetterCCIcons13
+Author: dev4i <chrisink22@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=bettercciconsproios13
