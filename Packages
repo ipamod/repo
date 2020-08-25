@@ -1325,3 +1325,19 @@ Description: Make your posts popular!
 Name: bubbles
 Author: CreatureSurvive <support@creaturecoding.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=bubbles
+
+Package: com.ipamod.betterviber
+Version: 1.0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.betterviber_1.0.3.deb
+Size: 95586
+MD5sum: 0bac17cbbf929f9bb4cacd71065319ea
+SHA1: ff83bc6a6d7a54614f8f206a6a326f73b59bb5aa
+SHA256: 0e20a08426571f88f15552b01fabf018c7899191c071a59a8e68fc34d46a9da6
+Description: BetterViber gives you many different options to improve your Viber app (privacy enhancements, customization, etc.)
+Name: BetterViber
+Author: CydiaGeek <lucaluca86@aol.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=betterviber
