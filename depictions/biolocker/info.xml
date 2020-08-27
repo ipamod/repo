@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.biolocker</id>
+	<name>Bio Locker</name>
+	<version>1.0.6-beta-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, cy+model.iphone (>= 6), ru.rejail.libiarrays1 (>=1.0.10), com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> Alternative to BioProtect</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>biolocker1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bubbles2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>
