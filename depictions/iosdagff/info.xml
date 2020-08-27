@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipampd.iosdagff</id>
+	<name>Free Fire Mod Menu</name>
+	<version>1.52.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> This hack was made by iOSDag - Hack FreeFire full ESP.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>caim1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>caim2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>

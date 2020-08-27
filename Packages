@@ -1386,6 +1386,22 @@ MD5sum: 88c28b5fdccc016ae51f61421d0eaa90
 SHA1: c24282379e4b1f0924e9303d669fc38967f9d99e
 SHA256: dce97fadb2b6f0ceea06817f106a1caa56674aa1c082aaa6a7c5f50449233e29
 Description: Feature of iOS 14 - pinning conversations from selected users at the top of the default Messages app, now available on iOS13.
-Name: Bio Locker
+Name: Caim
 Author: nicho1asdev <nicholasmusumeci@icloud.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=caim
+
+Package: com.ipampd.iosdagff
+Version: 1.52.0
+Section: GAME MOD
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipampd.iosdagff_1.52.0.deb
+Size: 112562
+MD5sum: bef391e7ae21ed2086ae55d32703d4b0
+SHA1: 8e6a35d2e2db704b9dca22bb30a6c9bc66728878
+SHA256: f523a21ea376b54088e92f248fb89caf8ca6c959ab45e510d969932133b1f794
+Description: This hack was made by iOSDag - Hack FreeFire full ESP
+Name: Free Fire Mod Menu
+Author: nicho1asdev <nicholasmusumeci@icloud.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=iosdagff
