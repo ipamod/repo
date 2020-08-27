@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.callblocker</id>
+	<name>Call blocking</name>
+	<version>2.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Call blocking.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>callblocker1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>blots3.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Bug fixes and other improvements.</change>
+			</changelog>
+	
+</package>

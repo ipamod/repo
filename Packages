@@ -1501,3 +1501,19 @@ Description: Always on screen notifications.
 Name: Blots
 Author: Antique.
 Depiction: https://repo.ipamod.com/depictions/?p=blots
+
+Package: com.ipamod.callblocker
+Version: 2.0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.callblocker_2.0.3.deb
+Size: 77778
+MD5sum: 86903e395dd3ca16641f2d263dec18ff
+SHA1: 4d03a5ebe243009d4f1f442faa3e4fa839c2fd96
+SHA256: bf02093df8acc3035cbfef9a80a5fbe56a92ffcac9996c724f541ebe27ebcc15
+Description: Call blocking.
+Name: Call blocking
+Author: P2KDev <p2kdev@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=callblocker
