@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.arabic</id>
+	<name>PUBG MOD MENU KR 0.19</name>
+	<version>0.19.0-4+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> PUBG MOD MENU KR 0.19.</shortDescription>
+	<descriptionlist>
+		<description>FULL FEATURES: Key: AD-HSK.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>callblocker1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>blots3.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Bug fixes and other improvements.</change>
+			</changelog>
+	
+</package>

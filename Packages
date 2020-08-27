@@ -1517,3 +1517,19 @@ Description: Call blocking.
 Name: Call blocking
 Author: P2KDev <p2kdev@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=callblocker
+
+Package: com.ipamod.arabic
+Version: 0.19.0-4+debug
+Section: GAME MOD
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.arabic_0.19.0-4+debug.deb
+Size: 850614
+MD5sum: e689dc2047a28fe41369f4c88574d56e
+SHA1: 9ad1427a487bfcf1502cd62a9459565fb8f90854
+SHA256: 48263de97ea5e95a401e4b644e6a4c03a4852124f994904b2d409ee88493b100
+Description: HACK PUBG KR AD MENU.
+Name: PUBG MOD MENU KR 0.19
+Author: AHMED.
+Depiction: https://repo.ipamod.com/depictions/?p=arabic
