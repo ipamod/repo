@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.bioprotectxs</id>
+	<name>BioProtect XS (iOS 12/13)</name>
+	<version>4.4-49</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.ipamod.limneosos</package>
+	</dependencies>
+	<shortDescription> Protect your apps with Touch / Face ID</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bioprotectxs1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>bioprotectxs2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>! WARNING - DOES NOT WORK WITH AUDIORECORDER 2!.</change>
+			</changelog>
+	
+</package>
