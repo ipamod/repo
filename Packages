@@ -1405,3 +1405,19 @@ Description: This hack was made by iOSDag - Hack FreeFire full ESP
 Name: Free Fire Mod Menu
 Author: nicho1asdev <nicholasmusumeci@icloud.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=iosdagff
+
+Package: com.ipamod.bioprotectx
+Version: 3.1-68k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), com.ipamod.limneosos
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bioprotectx_3.1-68k.deb
+Size: 552850
+MD5sum: 0151ed43f526671d524e9469f80bc46b
+SHA1: bc0937b1c47e1e3f5a90500f17c061f711356a28
+SHA256: 70808028d928af2d95f47596557629f0cffb30a87082beae141f12b854ff5936
+Description: Protect your apps with Touch / Face ID
+Name: BioProtect X (iOS 11)
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=bioprotectx
