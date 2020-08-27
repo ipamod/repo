@@ -1458,14 +1458,30 @@ Package: com.ipamod.callbarx
 Version: 0.3-68k
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: Depends: mobilesubstrate, preferenceLoader, com.ipamod.limneosos
+Depends: mobilesubstrate, preferenceLoader, com.ipamod.limneosos
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.callbarx_0.3-68k.deb
 Size: 203140
-MD5sum: ee0aa76250e9fae4b404ee8f74a51dda
-SHA1: ce284b71cf60aea20fbfd4ca2518f53c59a506b7
-SHA256: dd9c15f5d03b391c5ea18fb8c41aa60bc5af07e0371bafedfa2a004eb0ca1cdb
+MD5sum: 8abf729e0aea2d5ec52e455415c0c2d3
+SHA1: 11d259928f956ba7cb4f19b461b5c3731bc6e7dd
+SHA256: 2c4f510d459a45b9b092497b7500d2c5f73a87f17a40f803309089c5dab4723e
 Description: Minimalistic look of calls
 Name: CallBar X
 Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=callbarx
+
+Package: com.ipamod.blanka
+Version: 1.3.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.blanka_1.3.2.deb
+Size: 28428
+MD5sum: 62be597af2afd08030bc1d2dc6608323
+SHA1: ac7b3807e55604a4c4f23e4b80f1262240431562
+SHA256: e4caff1968114050e3dee7b50965e606d305c5daf512f32bbd6ba38cbecd8425
+Description: Do you like privacy? Yes? Then Blanka is what you need! The tweak will allow you to block applications using your biometric data (Touch ID / Face ID) or a regular password.
+Name: Blanka
+Author: maximehip.
+Depiction: https://repo.ipamod.com/depictions/?p=blanka
