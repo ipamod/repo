@@ -1373,3 +1373,19 @@ Description: Alternative to BioProtect
 Name: Bio Locker
 Author: IArrays <support@iarrays.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=biolocker
+
+Package: com.ipamod.caim
+Version: 1.1.6k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), me.conorthedev.libappearancecell
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.caim_1.1.6k.deb
+Size: 4028720
+MD5sum: 88c28b5fdccc016ae51f61421d0eaa90
+SHA1: c24282379e4b1f0924e9303d669fc38967f9d99e
+SHA256: dce97fadb2b6f0ceea06817f106a1caa56674aa1c082aaa6a7c5f50449233e29
+Description: Feature of iOS 14 - pinning conversations from selected users at the top of the default Messages app, now available on iOS13.
+Name: Bio Locker
+Author: nicho1asdev <nicholasmusumeci@icloud.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=caim
