@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.blots</id>
+	<name>Blots</name>
+	<version>0.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Always on screen notifications.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>blots1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>blots3.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>

@@ -1485,3 +1485,19 @@ Description: Do you like privacy? Yes? Then Blanka is what you need! The tweak w
 Name: Blanka
 Author: maximehip.
 Depiction: https://repo.ipamod.com/depictions/?p=blanka
+
+Package: com.ipamod.blots
+Version: 0.0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.blots_0.0.3.deb
+Size: 40620
+MD5sum: 137057415643a40b3e6121646b95c3b7
+SHA1: 83321adb0a93324880c6393cd668a83dcb4ea2a6
+SHA256: 0a8c9926c7167dbd1cbb80e18a9f52cfd38f78b912ea78195af28cfa879c7806
+Description: Always on screen notifications.
+Name: Blots
+Author: Antique.
+Depiction: https://repo.ipamod.com/depictions/?p=blots
