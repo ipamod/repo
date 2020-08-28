@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.carbon</id>
-	<name>Carbon Dark Mode</name>
-	<version>1.5<kversion>
+	<name>Carbon Dark Mode.</name>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
