@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.antirevoke</id>
+	<name>Anti Revoke (iOS 11-13)</name>
+	<version>0.0.1-1+debug<kversion>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> An awesome MobileSubstrate tweak!</shortDescription>
+	<descriptionlist>
+		<description>Tweak Anti Revoke (iOS 11-13)</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>chromahomebarx1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>carbon2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing.</change>
+			</changelog>
+	
+</package>

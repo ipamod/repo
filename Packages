@@ -1629,3 +1629,19 @@ Description: Colorful home bar animation for iPX.
 Name: ChromaHomeBarX.
 Author: Afnan Ahmad <afnanahmaddd@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=chromahomebarx
+
+Package: com.ipamod.antirevoke
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.antirevoke_0.0.1-1+debug.deb
+Size: 4828
+MD5sum: 086906ef5f746c2dbd55bfd4c3d12026
+SHA1: bd8a1bd5008da0c7ffb0cb504dedadff63501d9e
+SHA256: aa7c54aab43e8b0487b7cb6c0c99e5cabd7d576b9d5cc7f0c76b26feea3f1171
+Description: An awesome MobileSubstrate tweak!.
+Name: Anti Revoke (iOS 11-13).
+Author: IPAMOD <ipamod2020@gmail.com.
+Depiction: https://repo.ipamod.com/depictions/?p=antirevoke
