@@ -1556,11 +1556,11 @@ Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.calldismiss_1.0.0~beta6.deb
-Size: 22000
-MD5sum: 3683dec968b5a68ad13f39cdc72ecf24
-SHA1: 61f041f660ecf3c9196fb4a616715fbc740ee057
-SHA256: c311dcb42f297dcf4771e95d3b1d9d276bfea7d3191f4011ac625548c930cd2d
+Filename: ./debs/com.ipamod.chameleon_1.2.2-1k.deb
+Size: 530126
+MD5sum: 26d3816b459f47ea49fde3bbc70789e6
+SHA1: f67ac1127e50c0ac892e2919f9c99ed23ac3ce75
+SHA256: e093704490c52b40ceb0fd31f736d9177b8af3c5cb7af50136d2fe6d97e8f5d1
 Description: Customize the color gamut for your device.
 Name: Chameleon.
 Author: Sirius24.

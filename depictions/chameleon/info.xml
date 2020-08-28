@@ -1,0 +1,38 @@
+<package>
+	<id>com.ipamod.chameleon</id>
+	<name>Chameleon</name>
+	<version>1.2.2-1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware (>= 11.0), com.creaturesurvive.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription> Customize the color gamut for your device.</shortDescription>
+	<descriptionlist>
+		<description>Color setting for:
+• Notifications
+• Today pages
+• 3D Touch
+• Dock menus
+• Application names
+• Folder icons
+• Page.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>chameleon1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Hides incoming calls when you press the Home button.</change>
+			</changelog>
+	
+</package>
