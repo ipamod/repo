@@ -1677,3 +1677,19 @@ Description: Expansion of the functionality of the convenient access window.
 Name: Carbonite.
 Author: Antique <official.antique@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=carbonite
+
+Package: com.ipamod.classicfolders2u
+Version: 2.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.classicfolders2u_2.2.deb
+Size: 2731848
+MD5sum: 4ea607d136f3b529c0ae8b7f70992ee3
+SHA1: adf19b3ecd5f7830ffc600f67dcfc7d07bde7f67
+SHA256: 9b3a03ad50be62d3b3a606306177a47405a5bd6f53844d3f92a029257871a784
+Description: Classic view of folders for current firmware
+Name: ClassicFolders 2 (unc0ver).
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=classicfolders2u
