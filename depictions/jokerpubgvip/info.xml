@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.jokerpubgvip</id>
+	<name>The Joker Pubg Hack Vip 0.19.4.3.</name>
+	<version>0.19.4.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 5.0), mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> The Joker Pubg Hack Vip 0.19.4.3.</shortDescription>
+	<descriptionlist>
+		<description>The Joker Pubg Hack Vip 0.19.4.3.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>chargeanimations1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>
