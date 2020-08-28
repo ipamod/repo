@@ -1613,3 +1613,19 @@ Description: System-wide dark mode.
 Name: Carbon Dark Mode.
 Author: OxideLabs.
 Depiction: https://repo.ipamod.com/depictions/?p=carbon
+
+Package: com.ipamod.chromahomebarx
+Version: 0.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.chromahomebarx_0.4.deb
+Size: 152830
+MD5sum: 5f21173c728f268ded6b88a617b4413d
+SHA1: 713f7c2091abf550515aae44d820038c41b1b45c
+SHA256: b3672f628613784e8092a30bebd677184c017f4e6d64cc492e7c4b2264106395
+Description: Colorful home bar animation for iPX.
+Name: ChromaHomeBarX.
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=chromahomebarx
