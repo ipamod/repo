@@ -1581,3 +1581,19 @@ Description: Use the Home button to hide incoming calls.
 Name: CallDismiss12.
 Author: tateu (Josh Harris) <tateu@tateu.net>.
 Depiction: https://repo.ipamod.com/depictions/?p=calldismiss12
+
+Package: com.ipamod.chargeanimations
+Version: 2.1k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 5.0), mobilesubstrate, org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.chargeanimations_2.1k.deb
+Size: 10295972
+MD5sum: e3af7d86008736348a59994d11f07568
+SHA1: ffab43e8ba967c1e9d672122f468406a1544f932
+SHA256: 219219b028c2f756420e1bf37414986738a224db01cf8af10040526e9d661e2b
+Description: Tweak for choosing animation when charging is connected.
+Name: ChargeAnimations.
+Author: c1d3r.
+Depiction: https://repo.ipamod.com/depictions/?p=chargeanimations

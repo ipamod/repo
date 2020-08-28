@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.chargeanimations</id>
+	<name>ChargeAnimations</name>
+	<version>2.1k<kversion>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=11.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Tweak for choosing animation when charging is connected.</shortDescription>
+	<descriptionlist>
+		<description>Tweak for choosing animation when charging is connected.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>chargeanimations1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Added Xiaomi MIUI animation.IOS 12 support.</change>
+			</changelog>
+	
+</package>
