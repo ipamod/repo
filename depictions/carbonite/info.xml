@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.carbonite</id>
+	<name>Carbonite.</name>
+	<version>1.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Expansion of the functionality of the convenient access window.</shortDescription>
+	<descriptionlist>
+		<description>Nothing</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>carbonite1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Nothing</change>
+			</changelog>
+	
+</package>

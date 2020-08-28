@@ -1661,3 +1661,19 @@ Description: The M&M Pubg Hack 0.19.4.3.
 Name: The Joker Pubg Hack 0.19.4.3.
 Author: IPAMOD <ipamod2020@gmail.com.
 Depiction: https://repo.ipamod.com/depictions/?p=jokerpubgvip
+
+Package: com.ipamod.carbonite
+Version: 1.0.7
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carbonite_1.0.7.deb
+Size: 69886
+MD5sum: 47bbb653fe17a0849a66c38e4bda848b
+SHA1: 8c31a7ffc05ffd62397118be31049db8469e730c
+SHA256: 840b91ee632bbe8c86ee186e6563085d180c43578175a89c79b1caea71359baf
+Description: Expansion of the functionality of the convenient access window.
+Name: Carbonite.
+Author: Antique <official.antique@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=carbonite
