@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.calldismiss</id>
+	<name>CallDismiss</name>
+	<version>1.0.0~beta6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=9.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Use the Home button to hide incoming calls.</shortDescription>
+	<descriptionlist>
+		<description>IOS support.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>calldismiss1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>blots3.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Hides incoming calls when you press the Home button.</change>
+			</changelog>
+	
+</package>
