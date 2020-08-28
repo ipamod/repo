@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.calldismiss12</id>
+	<name>CallDismiss12</name>
+	<version>1.0.0~beta6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=11.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Use the Home button to hide incoming calls.</shortDescription>
+	<descriptionlist>
+		<description>Hides incoming calls when you press the home button or swipe for (iPhone X, XS)</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>calldismiss121.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Hides incoming calls when you press the Home button.</change>
+			</changelog>
+	
+</package>

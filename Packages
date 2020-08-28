@@ -1565,3 +1565,19 @@ Description: Customize the color gamut for your device.
 Name: Chameleon.
 Author: Sirius24.
 Depiction: https://repo.ipamod.com/depictions/?p=chameleon
+
+Package: com.ipamod.calldismiss12
+Version: 1.0.0~beta6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.calldismiss12_1.0.0~beta6.deb
+Size: 20730
+MD5sum: 9f9fdde634941d8cc1e8c88d32487758
+SHA1: ce4fcd2982c2e79e9df58a3f928729468b73a1bb
+SHA256: 82935f603d94d5fb1734b42e7e49371b1158bc4c4627184078036f6fe56a72b0
+Description: Use the Home button to hide incoming calls.
+Name: CallDismiss12.
+Author: tateu (Josh Harris) <tateu@tateu.net>.
+Depiction: https://repo.ipamod.com/depictions/?p=calldismiss12
