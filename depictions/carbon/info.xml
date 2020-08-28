@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.carbon</id>
+	<name>Carbon Dark Mode</name>
+	<version>1.5<kversion>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> System-wide dark mode.</shortDescription>
+	<descriptionlist>
+		<description>Dark Mode for:
+• Apps
+• Notifications
+• Widgets
+• Folders
+• 3D Touch Menu
+• Dock Menu.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>carbon1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>carbon2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>Bug fixes and minor improvements.</change>
+			</changelog>
+	
+</package>

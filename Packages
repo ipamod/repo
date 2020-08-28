@@ -1597,3 +1597,19 @@ Description: Tweak for choosing animation when charging is connected.
 Name: ChargeAnimations.
 Author: c1d3r.
 Depiction: https://repo.ipamod.com/depictions/?p=chargeanimations
+
+Package: com.ipamod.carbon
+Version: 1.5
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carbon_1.5.deb
+Size: 132126
+MD5sum: b67053bca685b0054d5362ba35687461
+SHA1: 3ab58a476a12233c3c7033ac6e6e24edcc744499
+SHA256: ccef30ea22adf21ce41735b2d9d0fe4523eff49e447cd6d51b8e830be3ac00b1
+Description: System-wide dark mode.
+Name: Carbon Dark Mode.
+Author: OxideLabs.
+Depiction: https://repo.ipamod.com/depictions/?p=carbon
