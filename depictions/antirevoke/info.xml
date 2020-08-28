@@ -19,11 +19,7 @@
 			<description>Screenshot 1.</description>
 			<image>chromahomebarx1.jpg</image>
 		</screenshot>
-		<screenshot>
-			<description>Screenshot 2.</description>
-			<image>carbon2.jpg</image>
-		</screenshot>
-											</screenshots>
+													</screenshots>
 	<changelog>
 		<change>Nothing.</change>
 			</changelog>
