@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.colorbanners3</id>
+	<name>ColorBanners 3.</name>
+	<version>1.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)</package>
+	</dependencies>
+	<shortDescription> • Full support for system dark mode. Individual adjustment for light and dark modes.
+• Separate settings for each section: banners, lock screen and notification center.
+• Customization options:
+- Customize background color
+- Customize background gradient
+- Customize text color
+- Customize notification frame.</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colorbanners31.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorbanners22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

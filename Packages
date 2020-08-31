@@ -1758,18 +1758,18 @@ Name: ColorBanners 2.
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colorbanners2
 
-Package: com.ipamod.carriercleaner
-Version: 0.3
+Package: com.ipamod.colorbanners3
+Version: 1.0.4
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.carriercleaner_0.3.deb
-Size: 3668
-MD5sum: 2688bd41d6cf0cb04e1d9a474dc25aaa
-SHA1: 226277eda651265458daa43169820d190380121d
-SHA256: 6f671ea9f005fe84174273ecd0ebb35d8b59b918913b6697e7df54833183a9cd
-Description: Choose your color for notification banners
-Name: Carrier Cleaner.
-Author: md.furman.
-Depiction: https://repo.ipamod.com/depictions/?p=carriercleaner
+Filename: ./debs/com.ipamod.colorbanners3_1.0.4.deb
+Size: 261638
+MD5sum: 1843a406a1becc5a943ee765f138828e
+SHA1: f03b69c3cacdf036b09b0d2a1c9cb2fe04c024ee
+SHA256: 334edc9e17e868909153207adb26212bcecb943b6c7d3702ed6b930f47a6af30
+Description: Notifications in the color of the application icon
+Name: ColorBanners 3.
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colorbanners3
