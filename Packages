@@ -1789,3 +1789,19 @@ Description: Disable Wi-Fi and Bluetooth completely from the PU
 Name: CC On & Off.
 Author: PoomSmart.
 Depiction: https://repo.ipamod.com/depictions/?p=cconandoff
+
+Package: com.ipamod.coloredvk2-beta
+Version: 4.4.22
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.coloredvk2-beta_4.4.22.deb
+Size: 3583916
+MD5sum: ae39d33e05ee4424ec2e289085375277
+SHA1: 0c59a70151768a297e4216905a9a2f06edcff3a8
+SHA256: 75614a83dc2288a1efbcf925693aba3759a3d930eba332876a8be8d168c1b7b4
+Description: Tweak changes the design of VK App to your taste
+Name: ColoredVK 2.
+Author: shad0wdev.
+Depiction: https://repo.ipamod.com/depictions/?p=coloredvk2-beta

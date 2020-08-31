@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.coloredvk2-beta</id>
+	<name>ColoredVK 2.</name>
+	<version>4.4.22</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> ColoredVK 2 is an add-on to the official VK App client for iPhone.</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>coloredvk2-beta1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorbanners22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
