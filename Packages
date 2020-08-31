@@ -1773,3 +1773,19 @@ Description: Notifications in the color of the application icon
 Name: ColorBanners 3.
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colorbanners3
+
+Package: com.ipamod.cconandoff
+Version: 0.0.1.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cconandoff_0.0.1.1.deb
+Size: 6180
+MD5sum: 99fe99bd3bc4ab33ca2121345e24fc24
+SHA1: d55576e6533683b3a2627775e1a6a70c2958730b
+SHA256: ea13ebb7f3702d26bb457f70f55350fa6381316bed1539134f8685f2d3132cce
+Description: Disable Wi-Fi and Bluetooth completely from the PU
+Name: CC On & Off.
+Author: PoomSmart.
+Depiction: https://repo.ipamod.com/depictions/?p=cconandoff
