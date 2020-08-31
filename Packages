@@ -1725,3 +1725,19 @@ Description: Coloring notification badges
 Name: ColorBadges.
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colorbadges
+
+Package: com.ipamod.carbridge13
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carbridge13_1.0.deb
+Size: 137642
+MD5sum: 74a41553c02a4299f097b1f7d1bb8e65
+SHA1: 5b903dae8d913417c501b842044da91495c7ff82
+SHA256: 54c69593663f17aa5c956fd2a1dd22e26bbaac7fe3b5943049a9a2d472f20fb3
+Description: Extending CarPlay
+Name: CarBridge (iOS 13).
+Author: leftyfl1p <carbridgetweak@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=carbridge13
