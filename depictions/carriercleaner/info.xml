@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.carriercleaner</id>
+	<name>Carrier Cleaner.</name>
+	<version>0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> A small tweak hiding the operator's name.
+Has no settings.</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colorbanners21.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorbanners22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

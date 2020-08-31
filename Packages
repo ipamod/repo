@@ -1757,3 +1757,19 @@ Description: Choose your color for notification banners
 Name: ColorBanners 2.
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colorbanners2
+
+Package: com.ipamod.carriercleaner
+Version: 0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carriercleaner_0.3.deb
+Size: 3668
+MD5sum: 2688bd41d6cf0cb04e1d9a474dc25aaa
+SHA1: 226277eda651265458daa43169820d190380121d
+SHA256: 6f671ea9f005fe84174273ecd0ebb35d8b59b918913b6697e7df54833183a9cd
+Description: Choose your color for notification banners
+Name: Carrier Cleaner.
+Author: md.furman.
+Depiction: https://repo.ipamod.com/depictions/?p=carriercleaner
