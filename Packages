@@ -1693,3 +1693,19 @@ Description: Classic view of folders for current firmware
 Name: ClassicFolders 2 (unc0ver).
 Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=classicfolders2u
+
+Package: com.ipamod.carplay
+Version: 1.0.9.5k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carplay_1.0.9.5k.deb
+Size: 3327912
+MD5sum: 051d9eff19d82edb137f513651f3f34f
+SHA1: b66fc2bbbb7dd843f0e2c3a41c6b2412cbfd38ab
+SHA256: 2d4c30c771ab5f106be1bffa1d4f6346962d8d731e1f5c9072919463ecd08986
+Description: Extending CarPlay
+Name: CarBridge.
+Author: leftyfl1p <carbridgetweak@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=carplay
