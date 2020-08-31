@@ -1821,3 +1821,19 @@ Description: Album photo in the player module
 Name: CCArtwork.
 Author: cole cabral.
 Depiction: https://repo.ipamod.com/depictions/?p=ccmusicartwork
+
+Package: com.ipamod.colorflow4
+Version: 1.3.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colorflow4_1.3.6.deb
+Size: 925122
+MD5sum: 35ab91507e5f91d481c55b2ae35b512d
+SHA1: b9bdd4d4c33abf8c550f441a8f320f1584e55c66
+SHA256: 8e5d4003ea48f0d0d17d405325a88db14bdd020981bac4f72b1f3e1117522070
+Description: The color of your music
+Name: ColorFlow 4 (iOS 11 – 12).
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colorflow4

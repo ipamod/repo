@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.colorflow4</id>
+	<name>ColorFlow 4 (iOS 11 – 12).</name>
+	<version>1.3.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader</package>
+	</dependencies>
+	<shortDescription> The color of music! ColorFlow matches the interface for your music's album art.
+- On the lock screen;
+- In the Music application;
+- In the Spotify app.</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colorflow41.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorflow42.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
