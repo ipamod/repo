@@ -1741,3 +1741,19 @@ Description: Extending CarPlay
 Name: CarBridge (iOS 13).
 Author: leftyfl1p <carbridgetweak@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=carbridge13
+
+Package: com.ipamod.colorbanners2
+Version: 1.2.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colorbanners2_1.2.4.deb
+Size: 729038
+MD5sum: f2dc189401948b99bf5e524e190f96fd
+SHA1: 4876bbe596abe0a11ae908c0d3b301edf217cbd7
+SHA256: 9a3bc1cf72cfc0b5196cf03ca4e8109369f52fedb4797fc36fd8addb92313115
+Description: Choose your color for notification banners
+Name: ColorBanners 2.
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colorbanners2
