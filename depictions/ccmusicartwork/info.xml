@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.ccmusicartwork</id>
+	<name>CCArtwork.</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 13.0)</package>
+	</dependencies>
+	<shortDescription> Use the photo of the music being played as the background of the player module in the control center.</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ccmusicartwork1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorbanners22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

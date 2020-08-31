@@ -1805,3 +1805,19 @@ Description: Tweak changes the design of VK App to your taste
 Name: ColoredVK 2.
 Author: shad0wdev.
 Depiction: https://repo.ipamod.com/depictions/?p=coloredvk2-beta
+
+Package: com.ipamod.ccmusicartwork
+Version: 1.0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ccmusicartwork_1.0.3.deb
+Size: 22052
+MD5sum: d10a8030139f5e207aaa1b0c051e1bb0
+SHA1: d5379b0769ca962544744b5633c49b01bed9ae1d
+SHA256: 1a1538299f02b79a4e2054d7a0c36bc75090a902096a3c264a5ee2f61e36e136
+Description: Album photo in the player module
+Name: CCArtwork.
+Author: cole cabral.
+Depiction: https://repo.ipamod.com/depictions/?p=ccmusicartwork
