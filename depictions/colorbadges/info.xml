@@ -1,0 +1,31 @@
+<package>
+	<id>com.ipamod.colorbadges</id>
+	<name>ColorBadges.</name>
+	<version>1.4.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Will repaint the badges to match the color of the application icon..</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colorbadges1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>chameleon2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

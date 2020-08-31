@@ -1709,3 +1709,19 @@ Description: Extending CarPlay
 Name: CarBridge.
 Author: leftyfl1p <carbridgetweak@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=carplay
+
+Package: com.ipamod.colorbadges
+Version: 1.4.5
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colorbadges_1.4.5.deb
+Size: 82860
+MD5sum: 756ab077ca511f4b07f6a13486818bd2
+SHA1: 8a93a47bd7c531f199106ad9409bc9d2290eb56a
+SHA256: 5954e4a2909757952bb1e08e34f44253f211b6de65b02add82e530b990358b75
+Description: Coloring notification badges
+Name: ColorBadges.
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colorbadges
