@@ -1999,16 +1999,16 @@ Author: dpkg_.
 Depiction: https://repo.ipamod.com/depictions/?p=colormys
 
 Package: com.ipamod.cercube
-Version: 5.1.18k
+Version: 5.2.3
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.ipamod.adblockplus
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.cercube_5.1.18k.deb
-Size: 5632582
-MD5sum: 0c7c1fa6050a1ae05e8e4bd5e8f6ffa5
-SHA1: f2fb72e52a3e88a6147ce3d337506123b2a28a5f
-SHA256: fb34e947772a2541617d17d68ecadab5bc66a7cd4a9ab48449dc6fc101c5a2fb
+Filename: ./debs/com.ipamod.cercube_5.2.3.deb
+Size: 5660806
+MD5sum: c7423677425b72cb0ac967ffb7b21f81
+SHA1: 50e928d3f4fe27e990a7d6bc75a1190ef04f1717
+SHA256: a52a5c5a3b5dada74fe7266f952b37a9be42ffa9537e5208ae7c1666eae4850a
 Description: Uploading videos to YouTube and more
 Name: Cercube for YouTube.
 Author: Majd Alfhaily.
