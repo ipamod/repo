@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.ccdarkblur</id>
+	<name>CCDarkBlur.</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Darker background in Control Center
+</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ccdarkblur1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorflow52.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

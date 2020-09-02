@@ -1869,3 +1869,19 @@ Description: Music player coloring
 Name: ColorFlow 5 (iOS 13).
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colorflow5
+
+Package: com.ipamod.ccdarkblur
+Version: 0.0.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ccdarkblur_0.0.1.deb
+Size: 4274
+MD5sum: cec6d3f0203493a64fdec48c69bbc560
+SHA1: ea9f7a8ffb8fea406098e314f392482c2dabee3f
+SHA256: 4489c0137670aaf73e8cf9a3a07a7ec288804761b8549eee58c151cd2f160aeb
+Description: Dark background blur in Control Center
+Name: CCDarkBlur.
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=ccdarkblur
