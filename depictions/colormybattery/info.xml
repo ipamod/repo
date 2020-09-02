@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.colormybattery</id>
+	<name>ColorMyBattery.</name>
+	<version>1.3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> This tweak will color the battery according to your preference for the desired battery levels.
+</shortDescription>
+	<descriptionlist>
+		<description>Bug fixes and other improvements..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colormybattery1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>colorflow52.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -1885,3 +1885,19 @@ Description: Dark background blur in Control Center
 Name: CCDarkBlur.
 Author: David Goldman <help@golddavid.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=ccdarkblur
+
+Package: com.ipamod.colormybattery
+Version: 1.3.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colormybattery_1.3.2.deb
+Size: 46632
+MD5sum: f17e42781ffe983e4f741f7cfda1bd53
+SHA1: 6deb9a34e06114fbb5ce71f1b0e5ea656fca8d0d
+SHA256: 8ddc866c8ba567b1b5e31087abbd701954c4a584419f6a925837885e641a9a82
+Description: Customizing your battery color
+Name: ColorMyBattery.
+Author: P2KDev <p2kdev@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colormybattery
