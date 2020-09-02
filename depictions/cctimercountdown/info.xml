@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.cctimercountdown</id>
+	<name>CCTimerCountdown.</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 9.0)</package>
+	</dependencies>
+	<shortDescription> Remaining timer.
+</shortDescription>
+	<descriptionlist>
+		<description>A small tweak that will add the remaining time to the control center on the timer button.
+Has no settings.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>cctimercountdown1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>ccmodulespro2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
