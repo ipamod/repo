@@ -2002,13 +2002,13 @@ Package: com.ipamod.cercube
 Version: 5.1.18k
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.ipamod.adblockplus
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.cercube_5.1.18k.deb
-Size: 5632590
-MD5sum: cca37564ac7f4dfb9c29a2a303d40a72
-SHA1: f2a63b879d82d65933a40a7a7dafcf833382c312
-SHA256: e321d71fc5fc869b8afdb738b1243d110e8396c7f0cebe69c85f21baef73cf8f
+Size: 5632582
+MD5sum: 0c7c1fa6050a1ae05e8e4bd5e8f6ffa5
+SHA1: f2fb72e52a3e88a6147ce3d337506123b2a28a5f
+SHA256: fb34e947772a2541617d17d68ecadab5bc66a7cd4a9ab48449dc6fc101c5a2fb
 Description: Uploading videos to YouTube and more
 Name: Cercube for YouTube.
 Author: Majd Alfhaily.
