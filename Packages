@@ -1965,3 +1965,19 @@ Description: Repainting of PU modules
 Name: ColorMyCCModules.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colormyyccmodules
+
+Package: com.ipamod.centaur
+Version: 1.1.2k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.centaur_1.1.2k.deb
+Size: 792284
+MD5sum: 58c0c29bd7d2e8789a14871d19898c97
+SHA1: e53b9d69803f03080f5df00536a884453dedcd4e
+SHA256: 535c7e3c03449ab72d9cad356de2e853864d48d325dc61bc57d8d5815ca4aa6c
+Description: Reimagining Action Center
+Name: Centaur.
+Author: Muirey03.
+Depiction: https://repo.ipamod.com/depictions/?p=centaur
