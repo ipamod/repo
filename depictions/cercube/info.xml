@@ -1,0 +1,54 @@
+<package>
+	<id>com.ipamod.cercube</id>
+	<name>Cercube for YouTube.</name>
+	<version>5.1.18k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus</package>
+	</dependencies>
+	<shortDescription> Uploading videos to YouTube and more.
+</shortDescription>
+	<descriptionlist>
+		<description>Downloads:
+• Download 4K video
+• Download as audio only
+• Set download quality to default
+• Play downloads in Material Design
+• Manage and transfer downloads to any application
+• Import downloads into music or video
+
+Video player:
+• Play with Picture in Picture
+• Install default playback quality for 3G-4G / Wi-Fi
+• Auto play video at the end
+• Adds rewind and forward buttons
+• Adds speed control for playback
+
+Improvements:
+• Set default start page
+• Enable background playback
+• High quality over mobile network
+
+Settings:
+• Removes the "Trend" tab
+• Forced white keyboard.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colormys1.cercube1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>cercube2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

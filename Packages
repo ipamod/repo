@@ -1997,3 +1997,19 @@ Description: Color setting for X-status bars
 Name: ColorMySB.
 Author: dpkg_.
 Depiction: https://repo.ipamod.com/depictions/?p=colormys
+
+Package: com.ipamod.cercube
+Version: 5.1.18k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cercube_5.1.18k.deb
+Size: 5632590
+MD5sum: cca37564ac7f4dfb9c29a2a303d40a72
+SHA1: f2a63b879d82d65933a40a7a7dafcf833382c312
+SHA256: e321d71fc5fc869b8afdb738b1243d110e8396c7f0cebe69c85f21baef73cf8f
+Description: Uploading videos to YouTube and more
+Name: Cercube for YouTube.
+Author: Majd Alfhaily.
+Depiction: https://repo.ipamod.com/depictions/?p=cercube
