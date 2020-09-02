@@ -2013,3 +2013,19 @@ Description: Uploading videos to YouTube and more
 Name: Cercube for YouTube.
 Author: Majd Alfhaily.
 Depiction: https://repo.ipamod.com/depictions/?p=cercube
+
+Package: com.ipamod.comet
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, libactivator, com.muirey03.libimagepicker, applist, ws.hbang.alderis, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.comet_1.0.deb
+Size: 3672346
+MD5sum: 673b0805690e15e38c043032c0d24457
+SHA1: f5ab4a4f5974499f06b905d8d32dec8c08d71d05
+SHA256: 84b7cd4aefd845e41685231db957595845212501783e0db814736c21d1ce58fe
+Description: System wide widgets based on iOS14
+Name: Comet.
+Author: Dylan West <iosthemem0d@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=comet
