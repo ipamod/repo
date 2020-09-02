@@ -1853,3 +1853,19 @@ Description: Adjusting the left / right balance
 Name: CCAudioBalance.
 Author: shiftcmdk.
 Depiction: https://repo.ipamod.com/depictions/?p=ccaudiobalance
+
+Package: com.ipamod.colorflow5
+Version: 1.0.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colorflow5_1.0.6.deb
+Size: 647982
+MD5sum: 7b6b56faf46e477c543acb15e50dad43
+SHA1: 8d25807350e1d446d6c38740642cda0b91e6c961
+SHA256: 79f00929fc2c25a42b97e433f9f18165be312b46d093357866e4d77d60d71994
+Description: Music player coloring
+Name: ColorFlow 5 (iOS 13).
+Author: David Goldman <help@golddavid.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colorflow5
