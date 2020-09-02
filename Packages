@@ -1901,3 +1901,19 @@ Description: Customizing your battery color
 Name: ColorMyBattery.
 Author: P2KDev <p2kdev@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colormybattery
+
+Package: com.ipamod.ccmodulespro
+Version: 1.1.4k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ccmodulespro_1.1.4k.deb
+Size: 434482
+MD5sum: a1d25f1345889ab3d6d0fbba3c8f970d
+SHA1: ef43b2136f7d4ce34744ef7cf726b122983a087c
+SHA256: 9b6d01a336cbc57b731df1cc852bd26a34db715ca4490bbb718704d0fad45993
+Description: Additional options for the control room
+Name: CCModules Pro.
+Author: jailbreak365 <jailbreak365@mail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=colormybattery

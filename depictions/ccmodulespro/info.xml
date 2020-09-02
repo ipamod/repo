@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.ccmodulespro</id>
+	<name>CCModules Pro.</name>
+	<version>1.1.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)</package>
+	</dependencies>
+	<shortDescription> Additional options for the control room.
+</shortDescription>
+	<descriptionlist>
+		<description>Extension of standard Cellular Data, WiFi and Bluetooth modules. It also adds an additional power module for the device and 4 modules for interacting with contacts..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ccmodulespro1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>ccmodulespro2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
