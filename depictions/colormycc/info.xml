@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.colormycc</id>
+	<name>colormycc.</name>
+	<version>2.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Change the color of the control point.
+</shortDescription>
+	<descriptionlist>
+		<description>The tweak makes it possible to change the color of modules, buttons, background in the control room..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>colormycc1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>ccmodulespro2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

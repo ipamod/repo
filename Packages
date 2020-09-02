@@ -1917,3 +1917,19 @@ Description: Additional options for the control room
 Name: CCModules Pro.
 Author: jailbreak365 <jailbreak365@mail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=colormybattery
+
+Package: com.ipamod.colormycc
+Version: 2.0.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.colormycc_2.0.0.deb
+Size: 24608
+MD5sum: e879ecb680c323abdf0718c251c5e0ef
+SHA1: c4ab57319cf1c7ac0005ca4790d55dd5268a65a6
+SHA256: bc7c6733ad7f50b35fb973419fedd750e31c47084146365327300a53df8ae7d9
+Description: Change the color of the control point
+Name: colormycc.
+Author: Maddox, Muirey03.
+Depiction: https://repo.ipamod.com/depictions/?p=colormycc
