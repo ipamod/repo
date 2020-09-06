@@ -2205,3 +2205,19 @@ Description: Contact photos are everywhere on your iPhone
 Name: Copic 2.
 Author: IArrays <support@iarrays.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=copic2
+
+Package: com.ipamod.darkphone12
+Version: 1.0.3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkphone12_1.0.3.deb
+Size: 53200
+MD5sum: d06f4f4589fe33fa2c9d658a44949865
+SHA1: bd3d92388ac47d2669047420e1f5e3c0e9f2b30e
+SHA256: 15b46d50a74c481a81366c718c4654c64748afc256662cdb11c91c2f8e987a69
+Description: Dark mode for phone app
+Name: DarkPhone12.
+Author: shepgoba <shepgoba@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=darkphone12
