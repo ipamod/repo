@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.confirmrotate</id>
+	<name>ConfirmRotate.</name>
+	<version>1.2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Lock on demand for portrait orientation.
+</shortDescription>
+	<descriptionlist>
+		<description>When the screen is rotated to portrait orientation, a small button will be shown (the size can be changed), by pressing which, you confirm the rotation of the screen.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>confirmrotate1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>comet2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -2061,3 +2061,19 @@ Description: Dark Mode for Messenger
 Name: Dark Messenger.
 Author: FoxfortMobile.
 Depiction: https://repo.ipamod.com/depictions/?p=darkmessenger
+
+Package: com.ipamod.confirmrotate
+Version: 1.2.5
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.confirmrotate_1.2.5.deb.deb
+Size: 130008
+MD5sum: bbe7ec247b94a8b8411ba267ff7563b7
+SHA1: c853e18a41e26a0a75df0e78a0bcd3a02e47fdc9
+SHA256: e15fa68681bb901f7373bd4a3f95f7b8873c5b955766633ce777e895a4cf24d3
+Description: Lock on demand for portrait orientation
+Name: ConfirmRotate.
+Author: CardboardFace.
+Depiction: https://repo.ipamod.com/depictions/?p=confirmrotate
