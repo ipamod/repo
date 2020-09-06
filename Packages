@@ -2157,3 +2157,19 @@ Description: "True" dark mode for iOS 12
 Name: Darkmode.
 Author: Turnt ducky <turntducky@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=darkmode
+
+Package: com.ipamod.controlpane
+Version: 1.4-1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, libactivator, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.controlpane_1.4-1.deb
+Size: 65906
+MD5sum: 10cb4e2c176b5c744702e50129a1c90e
+SHA1: 5ea6c051a9d0098ea39bf125354ea231f9858dee
+SHA256: 4482dd262fafa8c81fc48f49f671a0ee184d72c3ca70d79d02423a3c92b0317a
+Description: All your settings in one place
+Name: ControlPane.
+Author: Logan O'Connell <logan.developeremail@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=controlpane
