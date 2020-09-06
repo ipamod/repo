@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.darkmessages</id>
+	<name>DarkMessages (iOS 10).</name>
+	<version>1.2.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)</package>
+	</dependencies>
+	<shortDescription> Black theme for Messages.
+</shortDescription>
+	<descriptionlist>
+		<description>Black theme for your posts. You can also change the background color of the messages themselves (incoming and outgoing).</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>darkmessages1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>continuity2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -2109,3 +2109,19 @@ Description: Scrollable wallpaper
 Name: Continuity.
 Author: Johnny Waity.
 Depiction: https://repo.ipamod.com/depictions/?p=continuity
+
+Package: com.ipamod.darkmessages
+Version: 1.2.0-1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkmessages_1.2.0-1.deb
+Size: 105468
+MD5sum: 9ca9e10c802a3670557d74bf79f0cb25
+SHA1: 76db40315544656ce8c81c682470509e4db4ed89
+SHA256: 92c9ae9b2cbc82c07b613d8f81311fe404fbdd5034603cb4ae730e1c982481a0
+Description: Black theme for Messages
+Name: DarkMessages (iOS 10).
+Author: Sticktron <sticktron@hotmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=darkmessages
