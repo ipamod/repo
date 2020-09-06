@@ -2068,7 +2068,7 @@ Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.confirmrotate_1.2.5.deb.deb
+Filename: ./debs/com.ipamod.confirmrotate_1.2.5.deb
 Size: 130008
 MD5sum: bbe7ec247b94a8b8411ba267ff7563b7
 SHA1: c853e18a41e26a0a75df0e78a0bcd3a02e47fdc9
@@ -2077,3 +2077,19 @@ Description: Lock on demand for portrait orientation
 Name: ConfirmRotate.
 Author: CardboardFace.
 Depiction: https://repo.ipamod.com/depictions/?p=confirmrotate
+
+Package: com.ipamod.darkmailtweaks
+Version: 1.0.6
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkmailtweaks_1.0.6.deb
+Size: 22082
+MD5sum: db72a3ff38740965f1fe6f2372b9a0ea
+SHA1: fd1176dadd9175286446a80ed10a741419dabbee
+SHA256: 5cce2be001751a4e40b2af3f518bca4ca57402b414010b31865ae1f6d82529af
+Description: Dark Mode for Mail
+Name: DarkMail.
+Author: Chashmeet Singh.
+Depiction: https://repo.ipamod.com/depictions/?p=darkmailtweaks
