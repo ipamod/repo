@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.copic2</id>
+	<name>Copic 2.</name>
+	<version>1.0.12-beta-10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ru.rejail.libiarrays1 (>= 1.0.11)</package>
+	</dependencies>
+	<shortDescription> Contact photos are everywhere on your iPhone
+</shortDescription>
+	<descriptionlist>
+		<description>With Copic 2, you can add miniature avatars of your contacts in Phone, Messages, FaceTime, Mail, as well as in the notification center and on the lock screen..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>copic21.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>copic21.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

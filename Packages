@@ -2189,3 +2189,19 @@ Description: Dark mode for modules in PU
 Name: DarkModuleCCXI.
 Author: Makwan BK <makwanbarzan@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=darkmoduleccxi
+
+Package: com.ipamod.copic2
+Version: 1.0.12-beta-10
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ru.rejail.libiarrays1 (>= 1.0.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.copic2_1.0.12-beta-10.deb
+Size: 1682360
+MD5sum: 73d29154826174ce840b6772bbcb5982
+SHA1: dfb3ef1fceb9f3ce7319965e2c5fa2ab6c684b51
+SHA256: 0e1d8444a3eb7be4344c801eb9fe0f49512e4e172c730b510f7c2e501ad6d881
+Description: Contact photos are everywhere on your iPhone
+Name: Copic 2.
+Author: IArrays <support@iarrays.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=copic2
