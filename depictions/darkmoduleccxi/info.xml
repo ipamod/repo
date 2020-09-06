@@ -1,24 +1,26 @@
 <package>
-	<id>com.ipamod.controlpane</id>
-	<name>ControlPane.</name>
-	<version>1.4-1</version>
+	<id>com.ipamod.darkmoduleccxi</id>
+	<name>DarkModuleCCXI.</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, libactivator, com.a3tweaks.flipswitch</package>
+		<package> firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)</package>
 	</dependencies>
-	<shortDescription> All your settings in one place.
+	<shortDescription> Dark mode for modules in PU
 </shortDescription>
 	<descriptionlist>
-		<description>All that you missed in an ordinary control center is collected in one place.</description>
+		<description>In the Control Center, when you turn on any modules or change the level of brightness, sound, etc. , this tweak switches the background color from white to black.
+
+No parameters to configure.</description>
 			</descriptionlist>
 	<screenshots>
 	<screenshot>
 			<description>Screenshot 1.</description>
-			<image>controlpane1.jpeg</image>
+			<image>darkmoduleccxi1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description>Screenshot 2.</description>

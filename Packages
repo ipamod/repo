@@ -2173,3 +2173,19 @@ Description: All your settings in one place
 Name: ControlPane.
 Author: Logan O'Connell <logan.developeremail@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=controlpane
+
+Package: com.ipamod.darkmoduleccxi
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkmoduleccxi_1.0.deb
+Size: 5448
+MD5sum: ad9e3e1968f0ecf3d2fed812e72fcf89
+SHA1: 872dfa1221cc9c50f90ba6647dfa2dae539d22ad
+SHA256: ac25ed382575ac60981d3ad640506375d06288cb5d2e21c014aeb4fe0810e2bc
+Description: Dark mode for modules in PU
+Name: DarkModuleCCXI.
+Author: Makwan BK <makwanbarzan@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=darkmoduleccxi
