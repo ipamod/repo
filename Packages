@@ -2141,3 +2141,19 @@ Description: Adds game controller support for gaming
 Name: Controllers For All.
 Author: Ori Kadosh <support@orikad.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=controllersforall
+
+Package: com.ipamod.darkmode
+Version: 1.0.3k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkmode_1.0.3k.deb
+Size: 253866
+MD5sum: a16d6ae05499f49d65dd2a6738010c1e
+SHA1: d2874e9b395e43e905403cd4073822607915955b
+SHA256: 80d9c3cefc76fd7e658a6ac74acbbe0b87eaf6e152e489a10f81c3539c7e7c34
+Description: "True" dark mode for iOS 12
+Name: Darkmode.
+Author: Turnt ducky <turntducky@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=darkmode

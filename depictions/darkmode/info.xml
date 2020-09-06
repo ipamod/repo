@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.darkmode</id>
+	<name>Darkmode.</name>
+	<version>1.0.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)</package>
+	</dependencies>
+	<shortDescription> Adds game controller support for gaming.
+</shortDescription>
+	<descriptionlist>
+		<description>Darkmode is for all standard iOS apps. It can also be switched via the button in the control center. The only time that respring is required is when dark keyboard is turned on / off.
+If you want to disable / enable Darkmode in the application, you will need to close the application completely..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>darkmode1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>continuity2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
