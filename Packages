@@ -2093,3 +2093,19 @@ Description: Dark Mode for Mail
 Name: DarkMail.
 Author: Chashmeet Singh.
 Depiction: https://repo.ipamod.com/depictions/?p=darkmailtweaks
+
+Package: com.ipamod.continuity
+Version: 1.0
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.continuity_1.0.deb
+Size: 302160
+MD5sum: ae8ea66c6cd623c14909d7471dc15e09
+SHA1: d3d5509f4819d6e9870eaed316f77300e61512c1
+SHA256: db15922f934649b29717c47a96a4531b463eabcf0ce50d609f17b7429c6dce14
+Description: Scrollable wallpaper
+Name: Continuity.
+Author: Johnny Waity.
+Depiction: https://repo.ipamod.com/depictions/?p=continuity

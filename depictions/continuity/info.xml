@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.continuity</id>
+	<name>Continuity.</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Scrollable wallpaper.
+</shortDescription>
+	<descriptionlist>
+		<description>Continuity allows you to set a swipeable desktop wallpaper. In other words, your wallpaper will scroll along with your home screen pages. Please note that the more pages you have on your desktop, the higher the wallpaper resolution you will need..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>continuity1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>continuity2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
