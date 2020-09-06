@@ -2029,3 +2029,19 @@ Description: System wide widgets based on iOS14
 Name: Comet.
 Author: Dylan West <iosthemem0d@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=comet
+
+Package: com.ipamod.complications
+Version: 3.4.1
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.complications_3.4.1.deb
+Size: 863330
+MD5sum: ff13c7498b41cf83f271f16bc981dcc9
+SHA1: c2332b1d95de9ad643b75cdd7b7ebe86bae9e93b
+SHA256: 390262cac95ffceb09e84fde9aa5e97cf56cbb4273478a522a01d489c1a43892
+Description: WatchOS-style lock screen widgets
+Name: Complications.
+Author: Ben Giannis.
+Depiction: https://repo.ipamod.com/depictions/?p=complications

@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.complications</id>
+	<name>Comet.</name>
+	<version>3.4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> WatchOS-style lock screen widgets.
+</shortDescription>
+	<descriptionlist>
+		<description>Complications brings Apple Watch widgets to your iPhone's lock screen.
+Each widget animates and refreshes beautifully throughout the day without sacrificing battery life. Get all the information you need at a glance. Tap on a widget to quickly open its app for even more information. Adjusting the x and y position allows you to move the widgets to fit your preferences. You can also choose the number of rows, columns and set the indentation of notifications..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>complications1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>comet2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
