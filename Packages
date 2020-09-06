@@ -2045,3 +2045,19 @@ Description: WatchOS-style lock screen widgets
 Name: Complications.
 Author: Ben Giannis.
 Depiction: https://repo.ipamod.com/depictions/?p=complications
+
+Package: com.ipamod.darkmessenger
+Version: 2.0.4k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ru.rejail.foxforthack
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkmessenger_2.0.4k.deb
+Size: 233132
+MD5sum: b3667f1fab3bf9436f76eae606ee2ab8
+SHA1: 832d3b1ea0ab2ba33bd3db07169259717ce9c09e
+SHA256: 573cf9aa5657c203b6364b4ff277cd9267daa0fddf544bce433c6d549b47dfb3
+Description: Dark Mode for Messenger
+Name: Dark Messenger.
+Author: FoxfortMobile.
+Depiction: https://repo.ipamod.com/depictions/?p=darkmessenger

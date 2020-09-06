@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.darkmessenger</id>
+	<name>Dark Messenger.</name>
+	<version>2.0.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, org.thebigboss.libcolorpicker, ru.rejail.foxforthack</package>
+	</dependencies>
+	<shortDescription> Dark Mode for Messenger.
+</shortDescription>
+	<descriptionlist>
+		<description>Dark Mode for Messenger.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>darkmessenger1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>comet2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
