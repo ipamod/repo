@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.GFYM</id>
+	<name>Hack PUBG NEW.</name>
+	<version>0.20.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Free of charge Multi-function No anti-sealing built-in No built-in anti-sealing Three fingers tap the screen three times in a row Wake-up menu is injected into Taiwan service by default, international service.
+</shortDescription>
+	<descriptionlist>
+		<description> Please install Anti Ban inSide game Folder - download here: https://is.gd/antiban_pubg</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>pubg1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>darkphone122.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

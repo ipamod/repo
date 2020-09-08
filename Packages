@@ -2253,3 +2253,19 @@ Description: patch for globe 1.0.0
 Name: Hack Menu PUBG From DT - Globe.
 Author: shepgoba <shepgoba@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=pubgmgbdt
+
+Package: com.ipamod.GFYM
+Version: 0.20.0
+Section: GAME MOD
+Maintainer: IPAMOD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.GFYM_0.20.0.deb
+Size: 102892
+MD5sum: eaa6f92e4e1bd0fc0f72825e3154baaa
+SHA1: 9945d5e5f8c2dec509a6afa2df09b22264034f85
+SHA256: ee37cbb4245704d68ebb54fdfbd7b0ecbe9269fbed2591edcc58aa778f2d13cd
+Description: Free of charge Multi-function No anti-sealing built-in No built-in anti-sealing Three fingers tap the screen three times in a row Wake-up menu is injected into Taiwan service by default, international service
+Name: Hack PUBG NEW.
+Author: Baby Hack.
+Depiction: https://repo.ipamod.com/depictions/?p=GFYM
