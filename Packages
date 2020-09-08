@@ -2245,10 +2245,10 @@ Maintainer: IPAMOD
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.pubgmgbdt_1.0.0.deb
-Size: 310580
-MD5sum: f305a260960a0d36dd320de46c1df79b
-SHA1: c3c27c8919e992f3a4800d57ae7334d192f153ab
-SHA256: 35d020c2f819a0907e62d4cf5cf555b3ea70128edb732744a8374ec0c265b1f5
+Size: 310582
+MD5sum: 947bc0bf9ef986e97e428c8497fbc924
+SHA1: aef0d1ab0ca9268d6c6e262520d923f253ae5063
+SHA256: 6c70e3d2ef8d78eb297163a340e141b95c6563739369a2b1709cf7a34b97995e
 Description: patch for globe 1.0.0
 Name: Hack Menu PUBG From DT - Globe.
 Author: shepgoba <shepgoba@gmail.com>.
