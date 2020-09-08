@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.leonyourepo</id>
+	<name>X-Ray PUBG All Version.</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> X-Ray Slider can remove all subject
+</shortDescription>
+	<descriptionlist>
+		<description> Please install Anti Ban inSide game Folder - download here: https://is.gd/antiban_pubg!.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>xray1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>darkphone122.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
