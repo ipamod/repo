@@ -2269,3 +2269,19 @@ Description: Free of charge Multi-function No anti-sealing built-in No built-in 
 Name: Hack PUBG NEW.
 Author: Baby Hack.
 Depiction: https://repo.ipamod.com/depictions/?p=GFYM
+
+Package: com.ipamod.pubgmkrtwdt
+Version: 1.0.0
+Section: GAME MOD
+Maintainer: IPAMOD
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.pubgmkrtwdt_1.0.0.deb
+Size: 310754
+MD5sum: d4074758702524b00f193e1d113e3fb5
+SHA1: b997d0c90d524dddc4dc215f4dfea6484ff9d04c
+SHA256: 13e5b9e1293c734bda17788fed482a450f51a6cc39f4c98c715b718f892486ff
+Description: Hack PUBG Mobile MENU FULL FOR KR-TW
+Name: Hack PUBG Mobile MENU FULL FOR KR-TW.
+Author: Baby Hack.
+Depiction: https://repo.ipamod.com/depictions/?p=pubgmkrtwdt
