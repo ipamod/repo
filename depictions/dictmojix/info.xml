@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.dictmojix</id>
+	<name>DictMojiX</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Replace Emoji Dictation Button on iPhone X.
+</shortDescription>
+	<descriptionlist>
+		<description> Change the dictation button to Emoji on iPhone X
+To remove emoji from the language switcher, install the EmojiKey as well.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dictmojix1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>macosnotifications2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
