@@ -2317,3 +2317,19 @@ Description: Dark Mode for Apple Music
 Name: DarkSounds.
 Author: FoxfortMobile.
 Depiction: https://repo.ipamod.com/depictions/?p=darksounds
+
+Package: com.ipamod.cozybadges
+Version: 1.2.2
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cozybadges_1.2.2.deb
+Size: 78878
+MD5sum: 9c6af0349a32360262ffed52aef3a1a2
+SHA1: da29068f1e32062c83e82c97e5c39b1b357d0099
+SHA256: ccb98f6521bf801e9c23534ad833628e1538a72b6a801bf704cb167b8085d0d7
+Description: Notification badges instead of app names
+Name: CozyBadges.
+Author: NoisyFlake.
+Depiction: https://repo.ipamod.com/depictions/?p=cozybadges

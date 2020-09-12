@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.cozybadges</id>
+	<name>CozyBadges</name>
+	<version>1.2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 13.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.7)</package>
+	</dependencies>
+	<shortDescription> Notification badges instead of app names.
+</shortDescription>
+	<descriptionlist>
+		<description> Available options:
+• Hide application names without notifications
+• Hide or show application names in the dock menu
+• Change the background color of notifications
+• Change the color of the notification text
+• Customize the display of notifications to your liking.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>cozybadges1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>copypasta2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
