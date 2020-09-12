@@ -2509,3 +2509,19 @@ MD5sum: 96ef1c7ea15f05d4f82fc7dc6391567d
 SHA1: d83b3bf40f5c819856c1b8684cdbe2c50bb88d0d
 SHA256: 7b03aac0c6efedaf81c3a20a19a71629733f3628123b3c308298dbbf9587e99d
 Depiction: https://repo.ipamod.com/depictions/?p=dictmojix
+
+Package: com.ipamod.daple
+Name: Dapple.
+Version: 1.0.9k
+Description: Modernization of X-status bars
+Author: dpkg_.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.daple_1.0.9k.deb
+Size: 80058
+MD5sum: 2bd9f06504b1afa175374178eedc72c6
+SHA1: 86b3e6f9278eddb852b918c0550279685fd31962
+SHA256: 108aedc49037909e76b1242cbdafb8a7753b7a47bcea8e66a83572d5d5b2aa6e
+Depiction: https://repo.ipamod.com/depictions/?p=daple
