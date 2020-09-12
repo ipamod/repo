@@ -2285,3 +2285,19 @@ Description: Hack PUBG Mobile MENU FULL FOR KR-TW
 Name: Hack PUBG Mobile MENU FULL FOR KR-TW.
 Author: Baby Hack.
 Depiction: https://repo.ipamod.com/depictions/?p=pubgmkrtwdt
+
+Package: com.ipamod.copypasta
+Version: 0.1.4
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.copypasta_0.1.4.deb
+Size: 92584
+MD5sum: a6235ea3531add6596ba4d486f9e2613
+SHA1: 7587f8173b5662ae6a0ee08393c933f58bf7315c
+SHA256: 887b5c09ff6db5959ecd236652b180c00ba8e71d3bba528d61235f3e4a09b961
+Description: Minimalistic clipboard
+Name: Copypasta.
+Author: shepgoba <shepgoba@gmail.com>.
+Depiction: https://repo.ipamod.com/depictions/?p=copypasta
