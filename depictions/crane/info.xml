@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.crane</id>
+	<name>Crane</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> Multi-containers (multi-accounts) for applications.
+</shortDescription>
+	<descriptionlist>
+		<description> Want to have “duplicate” iOS apps?
+Crane allows you to create multiple containers for each application!
+But what does container mean in this context?
+The container contains all the data stored in the application.
+Basically, this means that you can switch between multiple instances of the application..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>crane1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>crane2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
