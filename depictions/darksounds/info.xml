@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.darksounds</id>
+	<name>DarkSounds</name>
+	<version>1.3.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack</package>
+	</dependencies>
+	<shortDescription> Dark Mode for Apple Music.
+</shortDescription>
+	<descriptionlist>
+		<description> Dark Mode for Apple Music.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>darksounds1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>copypasta2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

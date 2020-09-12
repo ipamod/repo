@@ -2301,3 +2301,19 @@ Description: Minimalistic clipboard
 Name: Copypasta.
 Author: shepgoba <shepgoba@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=copypasta
+
+Package: com.ipamod.darksounds
+Version: 1.3.0k
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darksounds_1.3.0k.deb
+Size: 273070
+MD5sum: e373b12a01e29b724d9febdc917f31de
+SHA1: 2194a0d01b3a0916a9d37a2094f8eed5dece4a44
+SHA256: e8e398a2e44037f210f778bc1f415e961861f4a3a5c756143734b516180a6388
+Description: Dark Mode for Apple Music
+Name: DarkSounds.
+Author: FoxfortMobile.
+Depiction: https://repo.ipamod.com/depictions/?p=darksounds
