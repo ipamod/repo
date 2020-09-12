@@ -2365,3 +2365,19 @@ MD5sum: 4e49b5fb6185056272fa1cbfb8a464d9
 SHA1: c6599c2bce5aeeade38b6e04bf77a4d4aefe6e6d
 SHA256: aa06fab05976edfaf6b7f1e5bccc6b69b9636290800bdaecad0c379990975809
 Depiction: https://repo.ipamod.com/depictions/?p=crane
+
+Package: com.ipamod.dayn
+Name: Dayn.
+Version: 1.2.1
+Description: New kind of notifications
+Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>.
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dayn_1.2.1.deb
+Size: 563470
+MD5sum: 24ca2b023721d8211a7f9d8a04e2dd55
+SHA1: 0a4dbc2e7509eae902de6f6345d763a5fae5c3d8
+SHA256: 9e7ec704194239e6891d24bff97cb03b0ea26cbb59d0a03d18ae127963429dc6
+Depiction: https://repo.ipamod.com/depictions/?p=dayn

@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.dayn</id>
+	<name>Dayn</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)</package>
+	</dependencies>
+	<shortDescription> New kind of notifications.
+</shortDescription>
+	<descriptionlist>
+		<description> One of the many features Dayn has to offer is profile images right in the banner for apps like WhatsApp, Slack, Twitter, Discord and many more. All these applications are configured individually in the settings.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dayn1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dayn2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
