@@ -2557,3 +2557,19 @@ MD5sum: cf39731e935926f2af6b6ab32b7491ac
 SHA1: 3228f3c9beaa95efc0df30dd95599637576cf319
 SHA256: 97b72dc9c3ba9b7131be808e94908ed684198e5f8ca798c079148a35507c0dc0
 Depiction: https://repo.ipamod.com/depictions/?p=darkgmaps
+
+Package: com.ipamod.dleasy
+Name: DLEasy.
+Version: 2.8.6-2k
+Description: Download images and videos from social networks
+Author: AhmedBafkir <prooxy0@gmail.com>.
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dleasy_2.8.6-2k.deb
+Size: 4812932
+MD5sum: 9106da0d3576e1fcfa79c0ad0c0dde49
+SHA1: 06dca1efc0292415d1cd8fa00548f121dc1b63e7
+SHA256: 972a67a58e9d5d1912a828b75aaa352ca4cfe6ca63b9d58b4790edd5dc0597b3
+Depiction: https://repo.ipamod.com/depictions/?p=dleasy

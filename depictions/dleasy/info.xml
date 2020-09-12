@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.dleasy</id>
+	<name>DLEasy.</name>
+	<version>2.8.6-2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl</package>
+	</dependencies>
+	<shortDescription> Download images and videos from social networks.
+</shortDescription>
+	<descriptionlist>
+		<description> Download images and videos from social networks. Hack from @pulandres.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dleasy1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>macosnotifications2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
