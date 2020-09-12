@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.dimage</id>
+	<name>Dimage</name>
+	<version>1.0.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate,com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, ru.rejail.foxforthack</package>
+	</dependencies>
+	<shortDescription> Smart image dimming.
+</shortDescription>
+	<descriptionlist>
+		<description> Smart image dimming.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dimage1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>macosnotifications2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

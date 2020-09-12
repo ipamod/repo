@@ -2525,3 +2525,19 @@ MD5sum: 2bd9f06504b1afa175374178eedc72c6
 SHA1: 86b3e6f9278eddb852b918c0550279685fd31962
 SHA256: 108aedc49037909e76b1242cbdafb8a7753b7a47bcea8e66a83572d5d5b2aa6e
 Depiction: https://repo.ipamod.com/depictions/?p=daple
+
+Package: com.ipamod.dimage
+Name: Dimage.
+Version: 1.0.1k
+Description: Smart image dimming
+Author: FoxfortMobile.
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, ru.rejail.foxforthack
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dimage_1.0.1k.deb
+Size: 231572
+MD5sum: f5ae5f1868427b7e540d03cb0dcd9abb
+SHA1: 7bc9e91b998bd0094641b77290af198ec868f9ee
+SHA256: 1f691974a8fa0972ad432f4895a5c127639df64f96a1b26255ee534d155ce1d9
+Depiction: https://repo.ipamod.com/depictions/?p=dimage
