@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.cydown</id>
+	<name>CyDown</name>
+	<version>7.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> coreutils-bin, coreutils, mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Installing paid packages in Cydia for free!.
+</shortDescription>
+	<descriptionlist>
+		<description> With this tweak, you can download paid tweaks from the bigboss repository and others for free.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>cydown1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>deletecontact102.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

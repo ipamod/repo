@@ -2413,3 +2413,19 @@ MD5sum: e7920d6d1e96d0a6cdab424bf2354fb3
 SHA1: 77f6275ac787ffbc9afc64c14bd185ce509f6238
 SHA256: 3c001eb2cb3264a1e61cbeb3f4767f538d9d710485d5f38a49858b9cc8e4dc87
 Depiction: https://repo.ipamod.com/depictions/?p=deletecontact10
+
+Package: com.ipamod.cydown
+Name: CyDown.
+Version: 7.1.0
+Description: Installing paid packages in Cydia for free!
+Author: julioverne <julioverne@me.com>.
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cydown_7.1.0.deb
+Size: 4324516
+MD5sum: 75b1ad6c86aa80d583e8886d4c7e7544
+SHA1: 85ebcfe8f38ba1e6ed58edcef4d177b16cfb651b
+SHA256: cd80ba9a855306fab679e30c35d9e5737dc2d8c8bfd59baef074579214caa6a2
+Depiction: https://repo.ipamod.com/depictions/?p=cydown
