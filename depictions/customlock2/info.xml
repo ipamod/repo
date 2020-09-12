@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.customlock2</id>
+	<name>CustomLock 2</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.13), com.creaturecoding.libcspreferences (>=1.2.0)</package>
+	</dependencies>
+	<shortDescription> Lock screen customization.
+</shortDescription>
+	<descriptionlist>
+		<description> CustomLock 2 is a tweak that allows users to customize their lock screen in new ways. This tweak works well with Modernize13 as they both change UI elements that basically had the same design as iOS 7.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>customlock21.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dayn2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
