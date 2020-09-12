@@ -2477,3 +2477,19 @@ MD5sum: eb290e30edc26fcf2ec2ab2304b0ca98
 SHA1: a90415805938ff4de11c1281f1418ab59df4e348
 SHA256: fcc5c2eff330f6ca1e3568fdd4b83bcd4bbaab08a3c8a018666e7d7c87b14248
 Depiction: https://repo.ipamod.com/depictions/?p=macosnotifications
+
+Package: com.ipamod.cypush2
+Name: CyPush2.
+Version: 1.1
+Description: Cydia push notifications
+Author: julioverne.
+Depends: firmware (>= 7.0), firmware (<< 13.0), cydia, mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cypush2_1.1.deb
+Size: 114886
+MD5sum: 96b81060f3f41eab76e2f9716eab24b8
+SHA1: 51176567f304a89db2dd3d81ebccb42fc96033bc
+SHA256: 253611ffbf4c9e390ce2b64502c4199e7a34a2ce322028687ea50cc608c12e28
+Depiction: https://repo.ipamod.com/depictions/?p=cypush2
