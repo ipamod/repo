@@ -2461,3 +2461,19 @@ MD5sum: 90db0fc36e2eb831802c93be5c413f91
 SHA1: 15e92ae80873d11afc126aaf538e9f5c3deb689d
 SHA256: 3827e335c7556664b9186708053d3a39d53edc28e7836e73c99aefe51d094c13
 Depiction: https://repo.ipamod.com/depictions/?p=cylinder
+
+Package: com.ipamod.macosnotifications
+Name: Destra.
+Version: 1.0.0
+Description: MacOS style notifications
+Author: Jax Roth.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.macosnotifications_1.0.0.deb
+Size: 64088
+MD5sum: eb290e30edc26fcf2ec2ab2304b0ca98
+SHA1: a90415805938ff4de11c1281f1418ab59df4e348
+SHA256: fcc5c2eff330f6ca1e3568fdd4b83bcd4bbaab08a3c8a018666e7d7c87b14248
+Depiction: https://repo.ipamod.com/depictions/?p=macosnotifications

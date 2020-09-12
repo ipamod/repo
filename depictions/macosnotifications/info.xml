@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.macosnotifications</id>
+	<name>Destra</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> MacOS style notifications.
+</shortDescription>
+	<descriptionlist>
+		<description> New look and feel of notifications similar to MacOS.
+The tweak allows you to completely remove background blur, which makes notifications more integrated and gives you a real desktop feel.
+Lets you choose the left or right position of the notifications.
+Allows you to select the size of notifications.
+Allows you to select the percentage of the screen occupied (33% by default).</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>macosnotifications1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>macosnotifications2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
