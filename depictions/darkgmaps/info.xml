@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.darkgmaps</id>
+	<name>Dark GMaps.</name>
+	<version>2.0.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack</package>
+	</dependencies>
+	<shortDescription> Dark Mode for Google Maps.
+</shortDescription>
+	<descriptionlist>
+		<description> Dark Mode for Google Maps.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>darkgmaps1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>macosnotifications2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

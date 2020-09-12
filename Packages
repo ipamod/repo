@@ -2541,3 +2541,19 @@ MD5sum: f5ae5f1868427b7e540d03cb0dcd9abb
 SHA1: 7bc9e91b998bd0094641b77290af198ec868f9ee
 SHA256: 1f691974a8fa0972ad432f4895a5c127639df64f96a1b26255ee534d155ce1d9
 Depiction: https://repo.ipamod.com/depictions/?p=dimage
+
+Package: com.ipamod.darkgmaps
+Name: Dark GMaps.
+Version: 2.0.2k
+Description: Dark Mode for Google Maps
+Author: FoxfortMobile.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.darkgmaps_2.0.2k.deb
+Size: 252342
+MD5sum: cf39731e935926f2af6b6ab32b7491ac
+SHA1: 3228f3c9beaa95efc0df30dd95599637576cf319
+SHA256: 97b72dc9c3ba9b7131be808e94908ed684198e5f8ca798c079148a35507c0dc0
+Depiction: https://repo.ipamod.com/depictions/?p=darkgmaps
