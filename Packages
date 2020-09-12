@@ -2445,3 +2445,19 @@ MD5sum: 4a7f1909890324b0d7b0d7e8988df76a
 SHA1: 2b7685c0956c53e3859a48a3e92a05c1a6637602
 SHA256: 36fc08b0104d249d08faec85101f32b56449eb2183a89199484152444b1f5095
 Depiction: https://repo.ipamod.com/depictions/?p=deluminator
+
+Package: com.ipamod.cylinder
+Name: Cylinder.
+Version: 1.1
+Description: Animations for swipes on the home screen
+Author: Reed Weichler <rweichler+cydia@gmail.com>.
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cylinder_1.1.deb
+Size: 503564
+MD5sum: 90db0fc36e2eb831802c93be5c413f91
+SHA1: 15e92ae80873d11afc126aaf538e9f5c3deb689d
+SHA256: 3827e335c7556664b9186708053d3a39d53edc28e7836e73c99aefe51d094c13
+Depiction: https://repo.ipamod.com/depictions/?p=cylinder

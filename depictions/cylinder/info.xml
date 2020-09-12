@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.cylinder</id>
+	<name>Cylinder</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Animations for swipes on the home screen.
+</shortDescription>
+	<descriptionlist>
+		<description> Dark mode for web pages.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>cylinder1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>cylinder2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
