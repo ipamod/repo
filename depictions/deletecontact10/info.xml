@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.deletecontact10</id>
+	<name>Delete Contact</name>
+	<version>1.5.1-beta-5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ru.rejail.libiarrays1</package>
+	</dependencies>
+	<shortDescription> Easily delete contacts.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak will add the ability to group deletion of your contacts, which makes life much easier :)
+
+After installation, click the Activate button and do the respring.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>deletecontact101.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>deletecontact102.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

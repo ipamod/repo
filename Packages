@@ -2397,3 +2397,19 @@ MD5sum: 07e95797d307f6614530ae5ef9b8c294
 SHA1: ca396b7ab067b95268db03fa9939ed2ab47501d2
 SHA256: f74e7ef9a27cde934f3fd68f2427b62f4c421b7456b330cab4aba8062c1b86ee
 Depiction: https://repo.ipamod.com/depictions/?p=customlock2
+
+Package: com.ipamod.deletecontact10
+Name: Delete Contact.
+Version: 1.5.1-beta-5
+Description: Easily delete contacts
+Author: IArrays <support@iarrays.com>.
+Depends: mobilesubstrate, preferenceloader, ru.rejail.libiarrays1
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.deletecontact10_1.5.1-beta-5.deb
+Size: 312182
+MD5sum: e7920d6d1e96d0a6cdab424bf2354fb3
+SHA1: 77f6275ac787ffbc9afc64c14bd185ce509f6238
+SHA256: 3c001eb2cb3264a1e61cbeb3f4767f538d9d710485d5f38a49858b9cc8e4dc87
+Depiction: https://repo.ipamod.com/depictions/?p=deletecontact10
