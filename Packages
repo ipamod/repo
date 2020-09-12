@@ -2333,3 +2333,19 @@ Description: Notification badges instead of app names
 Name: CozyBadges.
 Author: NoisyFlake.
 Depiction: https://repo.ipamod.com/depictions/?p=cozybadges
+
+Package: com.ipamod.datameter
+Version: 1.4-3
+Section: Tweaks
+Maintainer: IPAMOD
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.datameter_1.4-3.deb
+Size: 336574
+MD5sum: 8fa22ca47ac881c713227e9c11529c9d
+SHA1: 6016339568f79862b5df2c23e3535011847f676a
+SHA256: 67fe2705ef4ed019648b961c4c015202d7dde48b6de0606b7f65b771111953fa
+Description: Internet traffic in a status bar or floating window
+Name: DataMeter.
+Author: Minuit.
+Depiction: https://repo.ipamod.com/depictions/?p=datameter

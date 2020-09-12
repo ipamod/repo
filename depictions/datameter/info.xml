@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.datameter</id>
+	<name>DataMeter</name>
+	<version>1.4-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)</package>
+	</dependencies>
+	<shortDescription> Internet traffic in a status bar or floating window.
+</shortDescription>
+	<descriptionlist>
+		<description> Internet traffic in a status bar or floating window.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>datameter1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>datameter2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
