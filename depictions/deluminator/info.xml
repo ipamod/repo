@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.deluminator</id>
+	<name>Deluminator</name>
+	<version>2.1.9k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, ru.rejail.foxforthack</package>
+	</dependencies>
+	<shortDescription> Dark mode for web pages.
+</shortDescription>
+	<descriptionlist>
+		<description> Dark mode for web pages.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>deluminator1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>deletecontact102.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
