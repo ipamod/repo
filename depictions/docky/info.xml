@@ -1,0 +1,32 @@
+<package>
+	<id>com.ipamod.docky</id>
+	<name>Docky.</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate</package>
+	</dependencies>
+	<shortDescription> Dock setup.
+</shortDescription>
+	<descriptionlist>
+		<description> Customize your dock however you like. It is possible to add 5 icons, or make an endless dock, with the ability to scroll, and so on.</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>docky1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>docky2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
