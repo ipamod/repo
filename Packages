@@ -2766,3 +2766,19 @@ SHA1: 71a38dfe5b628a29124fa8889702c375f4a5cddb
 SHA256: 5ff8712ea8883f66c417a75c19058e7ce6d0bc4ef8f58d06ca002442e74bba73
 Depiction: https://repo.ipamod.com/depictions/?p=excitant
 
+Package: com.ipamod.duo
+Name: Duo.
+Version: 1.0.5
+Description: Control Center second page
+Author: Muirey03.
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.duo_1.0.5.deb
+Size: 310150
+MD5sum: 9915d9f5a23e09161475791cda6e91eb
+SHA1: 8ccacc220ff8f2fa69c0aae01e41ef8903f03408
+SHA256: e6be7c4e87e473430885da1973d811a829aa5aa1d92f47ae58828553bc60a9db
+Depiction: https://repo.ipamod.com/depictions/?p=duo
+
