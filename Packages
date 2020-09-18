@@ -2814,3 +2814,19 @@ SHA1: 8c801f6e79d5c2e7ef6fc108612fad4d4c1e39ed
 SHA256: 794ce9bf62d6e17f94989091a5b2cc810235a9e901c207678151193dfb10054d
 Depiction: https://repo.ipamod.com/depictions/?p=dyadic
 
+Package: com.ipamod.extendedglyph
+Name: ExtendedGlyph.
+Version: 1.1.3k
+Description: Fingerprint glyph on lock screen
+Author: Geometric Software.
+Depends: mobilesubstrate, firmware(>=11.0), preferenceloader, ru.rejail.libgraphite(>=2.2.1)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.extendedglyph_1.1.3k.deb
+Size: 450574
+MD5sum: 5bd7b575dc08dbde2e2f8a779a12a79b
+SHA1: 628fd90c17a2e5df411a193b8d35939e752bdd11
+SHA256: 0f870957c2ff0d75f582271008c1eb90cce41508b0459f2b9f766d638ac6df04
+Depiction: https://repo.ipamod.com/depictions/?p=extendedglyph
+
