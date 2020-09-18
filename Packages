@@ -2798,3 +2798,19 @@ SHA1: 59fe89525e5fba2df4547a97645cac32a53a0d5b
 SHA256: 59b243ea2f4d659c03fe47683aa2ec821771e13035c3037185d70f21af05858d
 Depiction: https://repo.ipamod.com/depictions/?p=exsto11
 
+Package: com.ipamod.dyadic
+Name: Dyadic.
+Version: 1.2k
+Description: Today page in the control room
+Author: nicho1asdev <nicholasmusumeci@icloud.com>.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dyadic_1.2k.deb
+Size: 1435966
+MD5sum: 7e417c42eae7da47aa4f9add1d7e2e71
+SHA1: 8c801f6e79d5c2e7ef6fc108612fad4d4c1e39ed
+SHA256: 794ce9bf62d6e17f94989091a5b2cc810235a9e901c207678151193dfb10054d
+Depiction: https://repo.ipamod.com/depictions/?p=dyadic
+

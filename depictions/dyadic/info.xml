@@ -1,0 +1,38 @@
+<package>
+	<id>com.ipamod.dyadic</id>
+	<name>Dyadic.</name>
+	<version>1.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Today page in the control room.
+</shortDescription>
+	<descriptionlist>
+		<description> Dyadic features:
+• All available Today widgets in Control Center .
+• New gestures to call the control center.
+• Adaptive designation of the place of call of the control point.
+• Turn off "Today" everywhere except Dyadic.
+• Small customization of widgets.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dyadic1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dyadic2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
