@@ -1,0 +1,41 @@
+<package>
+	<id>com.ipamod.dra1n</id>
+	<name>Dra1n.</name>
+	<version>1.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0),ws.hbang.common,preferenceloader,com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc</package>
+	</dependencies>
+	<shortDescription> Battery consumption monitor installed tweaks.
+</shortDescription>
+	<descriptionlist>
+		<description> Dra1n's goal is to help the user figure out which tweaks are causing increased battery drain.
+Dra1n collects various metrics on your phone, analyzes the data and compares it with information received by the server from other users.
+Dra1n runs in the background and will notify you if the battery drain dramatically increases after installing new tweaks.
+
+All information collected on your device is anonymized and will be sent for analysis to the server only if you agree to the terms of use when you first start the program.
+
+ATTENTION!
+Dra1n is just a handy utility to help you gather information and make a decision. Don't assume that Dra1n is 100% accurate.
+Use your common sense.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dra1n1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dra1n1.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

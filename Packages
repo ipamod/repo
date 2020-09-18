@@ -2669,3 +2669,19 @@ MD5sum: c6928f8be6a81fed44fdbaff501e2299
 SHA1: 6bce12310c2ed3ff7bc1b1f778ec77590476380b
 SHA256: 212834d831df99eaae363b11e1fcbd5383ea79cf7590cd67d2b243a8d490dd1a
 Depiction: https://repo.ipamod.com/depictions/?p=simplus
+
+Package: com.ipamod.dra1n
+Name: Dra1n.
+Version: 1.3k
+Description: Battery consumption monitor installed tweaks
+Author: MegaDev & Charlie While.
+Depends: mobilesubstrate, firmware (>= 11.0),ws.hbang.common,preferenceloader,com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dra1n_1.3k.deb
+Size: 7410112
+MD5sum: ba4bc308b88f2170b9b77c737e18dce7
+SHA1: 1671491064b25ecf1a88270b23da907ee1f9b465
+SHA256: dd9f2c0c141787043dc51850160b529cc0f78b6e9e0fb006cffdff23045a6500
+Depiction: https://repo.ipamod.com/depictions/?p=dra1n
