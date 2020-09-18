@@ -2733,3 +2733,20 @@ MD5sum: d0e93bc811cacc3d2aea104e2fd377ae
 SHA1: 88dd0d2c60ffefebea826164d2bac89236fc1c31
 SHA256: 5adc17682b3518b62ade8f5a3d4be8ce1ff548fb609028a703778de62e8553b8
 Depiction: https://repo.ipamod.com/depictions/?p=exacttimephone
+
+Package: com.ipamod.dune
+Name: Dune.
+Version: 1.2.1
+Description: IOS Dark Mode
+Author: Skitty.
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dune_1.2.1.deb
+Size: 590728
+MD5sum: 1c6610db03d2e26196e208d333a3a70c
+SHA1: a1c6339c8fb560ced8d17eada189638342c4b60b
+SHA256: c8579b02c59411532553e6dc9e80fba2cc0cf084cbe61ee4fc2a2269eeea84a6
+Depiction: https://repo.ipamod.com/depictions/?p=dune
+
