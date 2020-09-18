@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.exsto11</id>
+	<name>Exsto (iOS 11).</name>
+	<version>0.0.1.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 8.0), preferenceloader</package>
+	</dependencies>
+	<shortDescription> New kind of folders.
+</shortDescription>
+	<descriptionlist>
+		<description> Opening folders on the home screen.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>exsto112.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>duo2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

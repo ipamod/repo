@@ -2782,3 +2782,19 @@ SHA1: 8ccacc220ff8f2fa69c0aae01e41ef8903f03408
 SHA256: e6be7c4e87e473430885da1973d811a829aa5aa1d92f47ae58828553bc60a9db
 Depiction: https://repo.ipamod.com/depictions/?p=duo
 
+Package: com.ipamod.exsto11
+Name: Exsto (iOS 11).
+Version: 0.0.1.2-1
+Description: New kind of folders
+Author: Zachary Russell, julioverne.
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.exsto11_0.0.1.2-1.deb
+Size: 117308
+MD5sum: 3927527be52abdd2edcc2440876318c0
+SHA1: 59fe89525e5fba2df4547a97645cac32a53a0d5b
+SHA256: 59b243ea2f4d659c03fe47683aa2ec821771e13035c3037185d70f21af05858d
+Depiction: https://repo.ipamod.com/depictions/?p=exsto11
+
