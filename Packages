@@ -2750,3 +2750,19 @@ SHA1: a1c6339c8fb560ced8d17eada189638342c4b60b
 SHA256: c8579b02c59411532553e6dc9e80fba2cc0cf084cbe61ee4fc2a2269eeea84a6
 Depiction: https://repo.ipamod.com/depictions/?p=dune
 
+Package: com.ipamod.excitant
+Name: Excitant.
+Version: 0.0.2
+Description: A small analogue of the activator
+Author: Auxilium.
+Depends: mobilesubstrate, applist, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.excitant_0.0.2.deb
+Size: 126024
+MD5sum: 2fb6049569488a16184b2072209063ff
+SHA1: 71a38dfe5b628a29124fa8889702c375f4a5cddb
+SHA256: 5ff8712ea8883f66c417a75c19058e7ce6d0bc4ef8f58d06ca002442e74bba73
+Depiction: https://repo.ipamod.com/depictions/?p=excitant
+
