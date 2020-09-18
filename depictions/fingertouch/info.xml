@@ -1,0 +1,60 @@
+<package>
+	<id>com.ipamod.fingertouch</id>
+	<name>FingerTouch.</name>
+	<version>0.0.6b2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware (>= 10.0)</package>
+	</dependencies>
+	<shortDescription> Gestures for Touch ID.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak will allow you to use the Touch ID sensor for gestures.
+
+Current gestures:
+- Tap
+- Hold
+- Double tap
+- Triple tap
+- Tap and hold
+
+Current actions:
+- Lock
+- Home
+- Multitask
+- Flashlight
+- Screenshot
+- Release screen
+- Go to last app
+- Siri
+- Orientation lock
+- Control
+Center
+- Action Center - Close the current app
+
+If your device turns off, you don't lift your finger fast enough. Set a higher timeout or change the touch action.
+
+If there is no vibration, make sure you enable it in Settings -> Sounds.
+
+Currently Bioprotect does not work correctly with this tweak, it will be fixed soon.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>fingertouch1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>edge2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
