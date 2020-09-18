@@ -2956,3 +2956,19 @@ MD5sum: 61db77f5d01352de76f3e272bb0f29a9
 SHA1: b85af7a0cb30a24d30c8d3c33122e16981986411
 SHA256: cd5855c2e9b088df44bbefbed66b43eceb27d2113ee644d0a9549eef9982f27d
 Depiction: https://repo.ipamod.com/depictions/?p=foxforthack
+
+Package: com.ipamod.facespro
+Name: Faces Pro.
+Version: 1.2
+Description: Setting up the password input screen
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.facespro_1.2.deb
+Size: 147626
+MD5sum: 5a4e72db533c05e13d971f0086b8f9b4
+SHA1: 677ea9aa42d63e7ef3b3efa069902dc00905672b
+SHA256: d6a8c931f4e20e983e259ed5cc30638c3370eb0785951746b2747c29eec18808
+Depiction: https://repo.ipamod.com/depictions/?p=facespro
