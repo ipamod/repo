@@ -1,0 +1,41 @@
+<package>
+	<id>com.ipamod.simplus</id>
+	<name>eSim+.</name>
+	<version>1.0.3-beta-6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), ru.rejail.libiarrays1 (>= 1.0.11), com.rpetrich.rocketbootstrap, com.opa334.ccsupport</package>
+	</dependencies>
+	<shortDescription> Detailed settings for eSIM / iPhones with dual SIM cards.
+</shortDescription>
+	<descriptionlist>
+		<description> Apple would have to provide an enhanced calling and text message menu for dual SIM phones as standard.
+Unfortunately, this has not happened.
+This tweak will correct the situation and allow:
+-Select the SIM on which you want to make a voice call
+-Select the SIM to which you want to send a text message
+-Experimental function to send SMS messages from the iMessages program
+Excellent tweak with many settings.
+
+ATTENTION! Exclusively for devices supporting eSIM / SIM (iPhone XS, XS Max, XR, 11, 11PRO, 11PRO MAX)
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>simplus1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>simplus2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -2653,3 +2653,19 @@ MD5sum: 17f18498238e1c7c398f928dbcd8c49b
 SHA1: 18e9aabfb2c0c6ddb1f546b6b5efa114f5bf52b7
 SHA256: aecfad3b33a393beb281cb78afba6640dec4102c38514e756a11bbde89b780f1
 Depiction: https://repo.ipamod.com/depictions/?p=doubletaplock
+
+Package: com.ipamod.simplus
+Name: eSim+.
+Version: 1.0.3-beta-6
+Description: Detailed settings for eSIM / iPhones with dual SIM cards
+Author: IArrays <support@iarrays.com>.
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), ru.rejail.libiarrays1 (>= 1.0.11), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.simplus_1.0.3-beta-6.deb
+Size: 679250
+MD5sum: c6928f8be6a81fed44fdbaff501e2299
+SHA1: 6bce12310c2ed3ff7bc1b1f778ec77590476380b
+SHA256: 212834d831df99eaae363b11e1fcbd5383ea79cf7590cd67d2b243a8d490dd1a
+Depiction: https://repo.ipamod.com/depictions/?p=simplus
