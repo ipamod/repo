@@ -2909,3 +2909,19 @@ MD5sum: 2ccf5eb5aa6a68de6cfacd8de41463ab
 SHA1: 482f54e346e8c7bf6596c0fdea556852734bca62
 SHA256: ae6ed73ce25b7260fc06ad943d6fb75053d56f95c32968916051f58378d8b956
 Depiction: https://repo.ipamod.com/depictions/?p=easyswitcherx
+
+Package: com.ipamod.facebookdarkmode
+Name: FacebookDarkMode.
+Version: 2.3.4k
+Description: Dark Mode for Facebook
+Author: FoxfortMobile.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.facebookdarkmode_2.3.4k.deb
+Size: 429224
+MD5sum: fced8b1ec6b1b1f06c7860b19dfd8980
+SHA1: 80cba5a058026b075f3596a1b3e8791b52c0b839
+SHA256: 27e0962e3c5dcad07931d94e922eee55799672518f657398c8a2b1f98a34adb7
+Depiction: https://repo.ipamod.com/depictions/?p=facebookdarkmode
