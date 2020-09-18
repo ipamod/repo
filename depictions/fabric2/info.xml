@@ -1,0 +1,48 @@
+<package>
+	<id>com.ipamod.fabric2</id>
+	<name>Fabric 2.</name>
+	<version>1.1.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> xyz.royalapps.jellyfish, com.level3tjg.hometime, hi.my.name.is.ubik.kalm, com.creaturecoding.fabric</package>
+	</dependencies>
+	<shortDescription> Lock screen customization manager for iOS 13.
+</shortDescription>
+	<descriptionlist>
+		<description> Fabric 2 will help you customize the display of time, date and weather on the lock screen.
+It is written exclusively for iOS13 and contains about 80 user settings.
+Key features:
+-Custom alignment.
+-Use of capital letters.
+-Customized size.
+-Hiding shortcuts.
+-Add a weather icon.
+-Custom interval.
+-Custom colors.
+-Dynamic colors (based on wallpaper color).
+-Quick color customization from the lock screen.
+-Custom format (also includes weather and device information).
+-Custom fonts (you can also add your own fonts).
+-Position of elements.
+-Respring is not required to change settings..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>fabric21.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>fabric22.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

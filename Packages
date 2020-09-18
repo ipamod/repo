@@ -2877,3 +2877,19 @@ MD5sum: 41c4605e439e07d1c2fa09dfc43a8f80
 SHA1: 5a1c5957ed1512613a39704a2ddf67123af88f33
 SHA256: 0f9e8176d7fcf8e8a1726e4583057c83be93df3ce29fd98598767916bb254ed0
 Depiction: https://repo.ipamod.com/depictions/?p=easyaccess
+
+Package: com.ipamod.fabric2
+Name: Fabric 2.
+Version: 1.1.2k
+Description: Lock screen customization manager for iOS 13
+Author: CreatureSurvive <support@creaturecoding.com>.
+Depends: xyz.royalapps.jellyfish, com.level3tjg.hometime, hi.my.name.is.ubik.kalm, com.creaturecoding.fabric
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.fabric2_1.1.2k.deb
+Size: 756096
+MD5sum: 15b429b4398fbea1dd48b70ec95cf194
+SHA1: 9498b75d687790a4dd31fb7a833fe978066989b8
+SHA256: 24bb48637d72596b772a1901e408f21a5e52a6af1c376bc2c2a12e78f27b862f
+Depiction: https://repo.ipamod.com/depictions/?p=fabric2
