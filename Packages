@@ -2701,3 +2701,19 @@ MD5sum: ea7486a3e9500a012055a23a36f21dff
 SHA1: d82b9169b6f774c6800c00263c28c3f0277852bd
 SHA256: 380e133032aeb9dae55cbd82c515366d2284caada67accde46d7445846d1c57a
 Depiction: https://repo.ipamod.com/depictions/?p=essentials
+
+Package: com.ipamod.dragspring
+Name: Dragspring.
+Version: 1.2.1
+Description: Respring with a swipe down through Settings
+Author: ConorTheDev.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dragspring_1.2.1.deb
+Size: 24642
+MD5sum: f4d130ec6d08621bdea8d3c4739ba1e7
+SHA1: 1bfdc6e1024290cedecd9213c5e2c3856fd99579
+SHA256: 34d268a78438cbfac97acf60ee18c544f90ff45efe36da13d316224d2e476a2d
+Depiction: https://repo.ipamod.com/depictions/?p=dragspring
