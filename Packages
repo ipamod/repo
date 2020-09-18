@@ -2988,3 +2988,19 @@ MD5sum: f93f62d659327f2ebe9dccddc012df0d
 SHA1: 4526df9cfceabff2ff95fec771fbe5c82e0e09c3
 SHA256: bc8a05f5d6cb73e4b43da6d06eb94eadcb72000a78b7a13fb2cd59824214200e
 Depiction: https://repo.ipamod.com/depictions/?p=eclipse13
+
+Package: com.ipamod.fastdel
+Name: FastDel.
+Version: 0.5
+Description: Settings for text input
+Author: CreatureSurvive <support@creaturecoding.com>.
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.fastdel_0.5.deb
+Size: 76498
+MD5sum: fd99bac98f869e31108f07fa85c9d214
+SHA1: 19e6e3f95a051a541257b97a0cc9b29d88fc8488
+SHA256: 57c8ba5097524f50894a3cabc049a7730048b2b1c158c412c7279f9c4811ccee
+Depiction: https://repo.ipamod.com/depictions/?p=fastdel
