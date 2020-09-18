@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.eclipsex</id>
+	<name>Eclipse X (iOS 11).</name>
+	<version>5.1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, applist, com.creaturesurvive.libcscolorpicker, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> Dark Mode for iOS 11.
+</shortDescription>
+	<descriptionlist>
+		<description> Eclipse X allows you to change the color scheme of (most) applications, including the all-new "Midnight mode"!
+
+Settings Russified.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>eclipsex1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>eclipse132.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
