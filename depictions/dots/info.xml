@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.dots</id>
+	<name>Dots.</name>
+	<version>1.2.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate (>= 0.9.5.000), preferenceloader</package>
+	</dependencies>
+	<shortDescription> ots instead of lock screen notifications.
+</shortDescription>
+	<descriptionlist>
+		<description> Dots is ideal for OLED screens.
+It is possible to customize the size of the points and the pulse radius.
+
+Possible incompatibility with lock screen tweaks..</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>https://rejail.ru/screenshot/dots1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>https://rejail.ru/screenshot/dots2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
