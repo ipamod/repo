@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.eztweaklist</id>
+	<name>EZTweakList.</name>
+	<version>1.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 9.0), mobilesubstrate, dpkg, cydia</package>
+	</dependencies>
+	<shortDescription> Export a list of your tweaks.
+</shortDescription>
+	<descriptionlist>
+		<description> Easily export and share a list of all tweaks on your device with EZTweakList!
+To use EZTweakList, simply open Cydia, tap the Installed tab, and then click the export / share button (located on the top navigation bar).
+After installing the tweak, you need to respring so that the export button appears in Cydia.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dynawall1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dynawall2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

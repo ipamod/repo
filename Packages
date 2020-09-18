@@ -2845,3 +2845,19 @@ MD5sum: 984e05085e2ee71e24be6a4881b97960
 SHA1: 521172c397732d4930b4a9600fd8dc54597eb950
 SHA256: 25ca462cea19ca05d9c1fe34ff8cc095b8fde6f9c2b23990e7e03b97c62ab814
 Depiction: https://repo.ipamod.com/depictions/?p=dynawall
+
+Package: com.ipamod.eztweaklist
+Name: EZTweakList.
+Version: 1.0.1-1
+Description: Export a list of your tweaks
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>.
+Depends: firmware (>= 9.0), mobilesubstrate, dpkg, cydia
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.eztweaklist_1.0.1-1.deb
+Size: 24400
+MD5sum: 2f00ab6ffb9f49dbbddcd437c2f0e20c
+SHA1: ff08d14f8fb583bd6acd91b1d019955d2658989b
+SHA256: d77c7562899fc2187491acbf335955ab76ed90bdf14e7e67737c34d550c0b4bb
+Depiction: https://repo.ipamod.com/depictions/?p=eztweaklist
