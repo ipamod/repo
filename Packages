@@ -2589,3 +2589,19 @@ MD5sum: 7c2263376deeb6de9155ec90d7ed8d4c
 SHA1: 36558d730e58d286436772cdfc3aef13b7bf5caa
 SHA256: 0de3880402fddec8dea4e6657e4db6813db42944a68d28f2cc188ff63d703cf2
 Depiction: https://repo.ipamod.com/depictions/?p=docky
+
+Package: com.ipamod.emojikey
+Name: EmojiKey.
+Version: 1.4
+Description: Replace the Spelling button with the Emoji key 😃
+Author: fidele007 <kforcefidele@yahoo.com>.
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.emojikey_1.4.deb
+Size: 56878
+MD5sum: f4d563ef2e604809e06b875397c98a30
+SHA1: 8bef7d79d96eb1b4695fd0c515fbb4c809114ae7
+SHA256: b45be988f97f98949a5f542c8a603eb328fa67fa18dc26595a7a1ff1ed6b523e
+Depiction: https://repo.ipamod.com/depictions/?p=emojikey
