@@ -2893,3 +2893,19 @@ MD5sum: 15b429b4398fbea1dd48b70ec95cf194
 SHA1: 9498b75d687790a4dd31fb7a833fe978066989b8
 SHA256: 24bb48637d72596b772a1901e408f21a5e52a6af1c376bc2c2a12e78f27b862f
 Depiction: https://repo.ipamod.com/depictions/?p=fabric2
+
+Package: com.ipamod.easyswitcherx
+Name: EasySwitcherX.
+Version: 0.0.4-5.1
+Description: Convenient multitasking on the iPX
+Author: Spark.
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.easyswitcherx_0.0.4-5.1.deb
+Size: 64530
+MD5sum: 2ccf5eb5aa6a68de6cfacd8de41463ab
+SHA1: 482f54e346e8c7bf6596c0fdea556852734bca62
+SHA256: ae6ed73ce25b7260fc06ad943d6fb75053d56f95c32968916051f58378d8b956
+Depiction: https://repo.ipamod.com/depictions/?p=easyswitcherx

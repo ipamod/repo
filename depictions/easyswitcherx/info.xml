@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.easyswitcherx</id>
+	<name>EasySwitcherX.</name>
+	<version>0.0.4-5.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Convenient multitasking on the iPX.
+</shortDescription>
+	<descriptionlist>
+		<description> Want to close all applications from multitasking? Respring or rebooting the device? Just swipe down in multitasking and select the function you want.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>easyswitcherx1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>easyswitcherx2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
