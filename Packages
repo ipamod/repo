@@ -2637,3 +2637,19 @@ MD5sum: 45c68ff4d65f3e1820ff4c078378662b
 SHA1: f33fcb3c7b2e3353464447b0a961bad7a54cc23b
 SHA256: 326425df18604d7da380e32205be9235a2ce96b1e1bc308fb19dff00e20c17d2
 Depiction: https://repo.ipamod.com/depictions/?p=lowlightenhancement
+
+Package: com.ipamod.doubletaplock
+Name: DoubleTapLock.
+Version: 0.0.3
+Description: Lock the screen with a double tap
+Author: Spark.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.doubletaplock_0.0.3.deb
+Size: 26952
+MD5sum: 17f18498238e1c7c398f928dbcd8c49b
+SHA1: 18e9aabfb2c0c6ddb1f546b6b5efa114f5bf52b7
+SHA256: aecfad3b33a393beb281cb78afba6640dec4102c38514e756a11bbde89b780f1
+Depiction: https://repo.ipamod.com/depictions/?p=doubletaplock
