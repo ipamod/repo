@@ -2861,3 +2861,19 @@ MD5sum: 2f00ab6ffb9f49dbbddcd437c2f0e20c
 SHA1: ff08d14f8fb583bd6acd91b1d019955d2658989b
 SHA256: d77c7562899fc2187491acbf335955ab76ed90bdf14e7e67737c34d550c0b4bb
 Depiction: https://repo.ipamod.com/depictions/?p=eztweaklist
+
+Package: com.ipamod.easyaccess
+Name: EasyAccess.
+Version: 0.1.2
+Description: Easy access to apps from anywhere
+Author: Kane Buckthorpe.
+Depends: mobilesubstrate, com.kaneb.kbapplist, com.kaneb.kbpreferences
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.easyaccess_0.1.2.deb
+Size: 209680
+MD5sum: 41c4605e439e07d1c2fa09dfc43a8f80
+SHA1: 5a1c5957ed1512613a39704a2ddf67123af88f33
+SHA256: 0f9e8176d7fcf8e8a1726e4583057c83be93df3ce29fd98598767916bb254ed0
+Depiction: https://repo.ipamod.com/depictions/?p=easyaccess

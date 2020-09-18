@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.easyaccess</id>
+	<name>EasyAccess.</name>
+	<version>0.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.kaneb.kbapplist, com.kaneb.kbpreferences</package>
+	</dependencies>
+	<shortDescription> Easy access to apps from anywhere.
+</shortDescription>
+	<descriptionlist>
+		<description> EasyAccess will add an imitation of a dock menu to your background, with which you can get quick access to the applications you need, including opening them in a separate window..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>easyaccess1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dynawall2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
