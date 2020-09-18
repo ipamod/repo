@@ -8,9 +8,9 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate (>= 0.9.5.000), preferenceloader</package>
+		<package> mobilesubstrate (>= 0.9.5.000), preferenceloader</package>
 	</dependencies>
-	<shortDescription> ots instead of lock screen notifications.
+	<shortDescription> Dots instead of lock screen notifications.
 </shortDescription>
 	<descriptionlist>
 		<description> Dots is ideal for OLED screens.
@@ -21,11 +21,11 @@ Possible incompatibility with lock screen tweaks..</description>
 	<screenshots>
 	<screenshot>
 			<description>Screenshot 1.</description>
-			<image>https://rejail.ru/screenshot/dots1.jpeg</image>
+			<image>dots1.jpeg</image>
 		</screenshot>
 		<screenshot>
 			<description>Screenshot 2.</description>
-			<image>https://rejail.ru/screenshot/dots2.jpeg</image>
+			<image>dots2.jpeg</image>
 		</screenshot>
 											</screenshots>
 	<changelog>

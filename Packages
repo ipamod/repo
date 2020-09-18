@@ -2621,3 +2621,19 @@ MD5sum: 70b0cf83620691ceb93b1fb8953f445d
 SHA1: e84cfb7a649c89c5cc59862452d8ae93bacfb4bd
 SHA256: 66d6491aa7738701d8f74a215e629439b6e860ecb8d5aca231ce817951473933
 Depiction: https://repo.ipamod.com/depictions/?p=dots
+
+Package: com.ipamod.lowlightenhancement
+Name: Enlighten.
+Version: 1.0.1-b9-1
+Description: Low light mode for camera
+Author: XCXiao.
+Depends: mobilesubstrate, opencv
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lowlightenhancement_1.0.1-b9-1.deb
+Size: 3109212
+MD5sum: 45c68ff4d65f3e1820ff4c078378662b
+SHA1: f33fcb3c7b2e3353464447b0a961bad7a54cc23b
+SHA256: 326425df18604d7da380e32205be9235a2ce96b1e1bc308fb19dff00e20c17d2
+Depiction: https://repo.ipamod.com/depictions/?p=lowlightenhancement
