@@ -3021,3 +3021,19 @@ SHA1: c3d56a67da6c5a5dc02fd76969086a81555c945a
 SHA256: 466df9743446a5d8554d6b46e5d5cc6c07200b4c9324fd25ef2a9a04c14dca13
 Depiction: https://repo.ipamod.com/depictions/?p=eclipsex
 
+Package: com.ipamod.fingerlock
+Name: FingerLock.
+Version: 2.0.3
+Description: Add awesome features to your lock screen
+Author: MTAC <mtactheming@gmail.com>.
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, firmware (>= 13.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.fingerlock_2.0.3.deb
+Size: 160130
+MD5sum: e010bccc876c98fb24ad766274942d7b
+SHA1: cce1974c3ee0894583a8e9bb6c61397dec6b86d3
+SHA256: 9bf00b43bcbde7015551fbf703b889d756e3572820c19712ec0aee17dd0d644f
+Depiction: https://repo.ipamod.com/depictions/?p=fingerlock
+

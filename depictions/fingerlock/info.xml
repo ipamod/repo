@@ -1,0 +1,42 @@
+<package>
+	<id>com.ipamod.fingerlock</id>
+	<name>FingerLock.</name>
+	<version>2.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, firmware (>= 13.0)</package>
+	</dependencies>
+	<shortDescription> Add awesome features to your lock screen.
+</shortDescription>
+	<descriptionlist>
+		<description> FingerLock - add awesome features to your lock screen
+• Customizable unlock button
+Long press or press to unlock
+Change X and Y position buttons
+4 tactile feedback options when unlocking
+Full color customization
+• Skip password screen after respring
+• Hide lock screen dots
+• Hide text "Press home to unlock" or "Swipe up to unlock"
+Custom images button
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>fingerlock1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>fingerlock2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
