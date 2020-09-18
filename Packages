@@ -2685,3 +2685,19 @@ MD5sum: ba4bc308b88f2170b9b77c737e18dce7
 SHA1: 1671491064b25ecf1a88270b23da907ee1f9b465
 SHA256: dd9f2c0c141787043dc51850160b529cc0f78b6e9e0fb006cffdff23045a6500
 Depiction: https://repo.ipamod.com/depictions/?p=dra1n
+
+Package: com.ipamod.essentials
+Name: Essentials.
+Version: 1.2.1k
+Description: A large number of settings for your device
+Author: Adam Seiter.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.chpwn.iconsupport, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.essentials_1.2.1k.deb
+Size: 86800
+MD5sum: ea7486a3e9500a012055a23a36f21dff
+SHA1: d82b9169b6f774c6800c00263c28c3f0277852bd
+SHA256: 380e133032aeb9dae55cbd82c515366d2284caada67accde46d7445846d1c57a
+Depiction: https://repo.ipamod.com/depictions/?p=essentials
