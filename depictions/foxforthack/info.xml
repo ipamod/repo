@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.foxforthack</id>
+	<name>FoxfortHack.</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+	<shortDescription> Hack for all Foxfort tweaks.
+</shortDescription>
+	<descriptionlist>
+		<description> Hack for all Foxfort tweaks.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>eclipse121.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>eclipse122.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

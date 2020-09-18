@@ -2915,15 +2915,15 @@ Name: FacebookDarkMode.
 Version: 2.3.4k
 Description: Dark Mode for Facebook
 Author: FoxfortMobile.
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, ru.rejail.foxforthack
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.ipamod.foxforthack
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.facebookdarkmode_2.3.4k.deb
-Size: 429224
-MD5sum: fced8b1ec6b1b1f06c7860b19dfd8980
-SHA1: 80cba5a058026b075f3596a1b3e8791b52c0b839
-SHA256: 27e0962e3c5dcad07931d94e922eee55799672518f657398c8a2b1f98a34adb7
+Size: 429216
+MD5sum: ffc48805a930e58e07df4a84037130d4
+SHA1: 61325b3f456bf60d0ee61b4db60e256ced7b54ac
+SHA256: dbead87f2cb82ed56dfe09ca44c6fdc439cb54c3e69043ef8f0c1d33a0587876
 Depiction: https://repo.ipamod.com/depictions/?p=facebookdarkmode
 
 Package: com.ipamod.eclipse12
@@ -2941,3 +2941,18 @@ MD5sum: b707a6a762aeef446257a7ed54545c14
 SHA1: 2c88d5885af2bf418943e9c86d2abc94a52edd9d
 SHA256: ce4cb7b6009d15d4080310b02ec8c90335bfef53ab8e28ded3f282dc43ceddd1
 Depiction: https://repo.ipamod.com/depictions/?p=eclipse12
+
+Package: com.ipamod.foxforthack
+Name: FoxfortHack.
+Version: 0.0.2
+Description: Hack for all Foxfort tweaks
+Author: ReJail <rejail@rejail.ru>.
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.foxforthack_0.0.2.deb
+Size: 69990
+MD5sum: 61db77f5d01352de76f3e272bb0f29a9
+SHA1: b85af7a0cb30a24d30c8d3c33122e16981986411
+SHA256: cd5855c2e9b088df44bbefbed66b43eceb27d2113ee644d0a9549eef9982f27d
+Depiction: https://repo.ipamod.com/depictions/?p=foxforthack
