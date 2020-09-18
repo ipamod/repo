@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.edge</id>
+	<name>Edge.</name>
+	<version>1.0b3-10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.13)</package>
+	</dependencies>
+	<shortDescription> EDGE setting.
+</shortDescription>
+	<descriptionlist>
+		<description> [Beta] version. Edge around the entire screen.
+Random gradient (animation) when changing home table pages.
+Edge around monobrow for iPhone X.
+Rounded corners for iPhone and iPhoneX devices.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>edge1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>edge2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

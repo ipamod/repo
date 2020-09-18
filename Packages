@@ -3037,3 +3037,19 @@ SHA1: cce1974c3ee0894583a8e9bb6c61397dec6b86d3
 SHA256: 9bf00b43bcbde7015551fbf703b889d756e3572820c19712ec0aee17dd0d644f
 Depiction: https://repo.ipamod.com/depictions/?p=fingerlock
 
+Package: com.ipamod.edge
+Name: Edge.
+Version: 1.0b3-10
+Description: EDGE setting
+Author: Various.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.edge_1.0b3-10.deb
+Size: 233630
+MD5sum: 91fca69cc9043a12c7062592a6851ace
+SHA1: 446b0cd67ecc6c56c59c026712039e612629c136
+SHA256: c28905b5df706894b6a97aa0af8e3771e934e3209ae449fc3256f738d978cd11
+Depiction: https://repo.ipamod.com/depictions/?p=edge
+
