@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipamod.eclipse13</id>
+	<name>Eclipse for iOS 13.</name>
+	<version>7.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, applist, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription> Change and improve the stock Dark Mode.
+</shortDescription>
+	<descriptionlist>
+		<description> IOS13's stock dark mode leaves a lot to be desired.
+It is not very beautiful, it cannot be changed and adjusted to suit your needs, but even worse, not all programs support it.
+Eclipse 13 has been completely rewritten to bring you a more enjoyable use of dark mode. Eclipse 13 is fully integrated into stock dark mode for optimal performance and compatibility.
+Features of the package:
+-Dark mode for all programs
+-Custom colors
+-OLED Dark mode
+-Adaptive theming
+mode -Dark mode for web pages
+-Support iPad
+-Without stress on the battery of your device.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>eclipse131.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>eclipse132.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
