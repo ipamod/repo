@@ -2717,3 +2717,19 @@ MD5sum: f4d130ec6d08621bdea8d3c4739ba1e7
 SHA1: 1bfdc6e1024290cedecd9213c5e2c3856fd99579
 SHA256: 34d268a78438cbfac97acf60ee18c544f90ff45efe36da13d316224d2e476a2d
 Depiction: https://repo.ipamod.com/depictions/?p=dragspring
+
+Package: com.ipamod.exacttimephone
+Name: ExactTimePhone.
+Version: 1.0-1+debug
+Description: Adds accurate time to call log in phone app
+Author: gilshahar7.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.exacttimephone_1.0-1+debug.deb
+Size: 11906
+MD5sum: d0e93bc811cacc3d2aea104e2fd377ae
+SHA1: 88dd0d2c60ffefebea826164d2bac89236fc1c31
+SHA256: 5adc17682b3518b62ade8f5a3d4be8ce1ff548fb609028a703778de62e8553b8
+Depiction: https://repo.ipamod.com/depictions/?p=exacttimephone

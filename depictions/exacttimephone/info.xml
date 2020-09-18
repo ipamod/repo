@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.exacttimephone</id>
+	<name>ExactTimePhone.</name>
+	<version>1.0-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Adds accurate time to call log in phone app.
+</shortDescription>
+	<descriptionlist>
+		<description> Adds accurate time to the call log in the phone app..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>exacttimephone1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dragspring2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
