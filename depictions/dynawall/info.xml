@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.dynawall</id>
+	<name>DynaWall.</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> wallpaperloader, firmware (>=13.0)</package>
+	</dependencies>
+	<shortDescription> Dynamic Wallpaper Generator.
+</shortDescription>
+	<descriptionlist>
+		<description> Create your own dynamic wallpaper that will change depending on the theme you choose.
+
+ATTENTION!
+
+To apply your wallpaper, you need a WallpaperLoader from the Skitty's Repo
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>dynawall1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>dynawall2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

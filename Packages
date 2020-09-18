@@ -2830,3 +2830,18 @@ SHA1: 628fd90c17a2e5df411a193b8d35939e752bdd11
 SHA256: 0f870957c2ff0d75f582271008c1eb90cce41508b0459f2b9f766d638ac6df04
 Depiction: https://repo.ipamod.com/depictions/?p=extendedglyph
 
+Package: com.ipamod.dynawall
+Name: DynaWall.
+Version: 3.0
+Description: Dynamic Wallpaper Generator
+Author: The_Lucifer <mmshivesh@gmail.com>.
+Depends: wallpaperloader, firmware (>=13.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.dynawall_3.0.deb
+Size: 3383882
+MD5sum: 984e05085e2ee71e24be6a4881b97960
+SHA1: 521172c397732d4930b4a9600fd8dc54597eb950
+SHA256: 25ca462cea19ca05d9c1fe34ff8cc095b8fde6f9c2b23990e7e03b97c62ab814
+Depiction: https://repo.ipamod.com/depictions/?p=dynawall
