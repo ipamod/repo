@@ -3085,3 +3085,19 @@ Name: Hack PUBG MENU Ibrahemv1.2.
 Author: shepgoba <shepgoba@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=pubgmgbdt
 
+Package: com.ipamod.floatingdock
+Name: FloatingDock.
+Version: 1.5.1
+Description: Dock from iPad to iPhone
+Author: Kiran Patil.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.floatingdock_1.5.1.deb
+Size: 45080
+MD5sum: d85e0dac534865a8dafd67d962b9975c
+SHA1: 82ed84563248f567b33425c04944c9ed7733fb8c
+SHA256: 909a5bbcf90d495ce2485377fd2d47fd51ad578eee38091b84f5b9f6f06ed63f
+Depiction: https://repo.ipamod.com/depictions/?p=floatingdock
+
