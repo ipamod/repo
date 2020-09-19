@@ -2563,7 +2563,7 @@ Name: DLEasy.
 Version: 2.9.3.2k
 Description: Download images and videos from social networks
 Author: AhmedBafkir <prooxy0@gmail.com>.
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, org.mr.crux | com.creaturecoding.crux
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ipamod.crux | com.creaturecoding.crux
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
