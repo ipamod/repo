@@ -3148,3 +3148,20 @@ MD5sum: dac99ec879e82160c881f6a80b188567
 SHA1: e531cddde8d00d3c59e724f87c65c370ed328da5
 SHA256: 50189f628ef380080453bd7a02bd12463d902bc0c00aaecd89203d4ef1e62450
 Depiction: https://repo.ipamod.com/depictions/?p=crux
+
+Package: com.ipamod.glowy
+Name: Glowy.
+Version: 1.0.1
+Description: Custom colors for highlight shadows in Springboard
+Author: CydiaGeek <lucaluca86@aol.com>.
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.glowy_1.0.1.deb
+Size: 85872
+MD5sum: 93325eaafd189084a6b99f20480e3536
+SHA1: bb88ead14f52ae2ce25d73d2317e2f4b1f01aa75
+SHA256: f055a91dfde498784519deb88b2f8b1bcd0f5021d93da78eeb16d72806030092
+Depiction: https://repo.ipamod.com/depictions/?p=glowy
+

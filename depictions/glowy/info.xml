@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.glowy</id>
+	<name>Glowy.</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> Custom colors for highlight shadows in Springboard.
+</shortDescription>
+	<descriptionlist>
+		<description> Custom colors for highlights and shadows in Springboard, PU, ​​status bar, badges, multitasking, etc.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>glowy1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>glowy2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
