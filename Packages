@@ -3116,3 +3116,19 @@ MD5sum: 325f0c42007decf88b789fafc3cc98ee
 SHA1: d4b100919ef09752f749e7e8f9c18979a1f768b4
 SHA256: 92c4418524b5f8737f9be465fd7f7b5cfa9e9fbeaba561b544d7690e9e9fdbb7
 Depiction: https://repo.ipamod.com/depictions/?p=glow
+
+Package: com.ipamod.floatingdockplus
+Name: FloatingDockPlus.
+Version: 1.3.4.1
+Description: The Dock you always Wanted!
+Author: P2KDev <p2kdev@gmail.com>.
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.floatingdockplus_1.3.4.1.deb
+Size: 96808
+MD5sum: 7758835cf937a4202462c42cddaf6997
+SHA1: 004a84a3196808ddb0c08c9837c2f6879303b261
+SHA256: f13de5c78a037c0f8551bd61b4293c9c36cb9328c3bd5dbeef29186d5fe66dbf
+Depiction: https://repo.ipamod.com/depictions/?p=floatingdockplus
