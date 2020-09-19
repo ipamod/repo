@@ -3165,3 +3165,19 @@ SHA1: bb88ead14f52ae2ce25d73d2317e2f4b1f01aa75
 SHA256: f055a91dfde498784519deb88b2f8b1bcd0f5021d93da78eeb16d72806030092
 Depiction: https://repo.ipamod.com/depictions/?p=glowy
 
+Package: com.ipamod.floatingdockplus13
+Name: FloatingDockPlus13.
+Version: 1.1.7
+Description:  Use your Dock like a PRO!
+Author: P2KDev <p2kdev@gmail.com>.
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.floatingdockplus13_1.1.7.deb
+Size: 119378
+MD5sum: f23cb6b33e9502cd9cc0b84c7a177822
+SHA1: cc620b7b6b8f037222977330c93d288557c2a77f
+SHA256: 8704a3b5d672f6d0b50e2a1e4eca09193083679a6f1c0404b81cecf92eed90a6
+Depiction: https://repo.ipamod.com/depictions/?p=floatingdockplus13
+

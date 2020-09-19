@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.floatingdockplus13</id>
+	<name>FloatingDockPlus13.</name>
+	<version>1.1.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Use your Dock like a PRO.
+</shortDescription>
+	<descriptionlist>
+		<description> FloatingDockPlus13 features:
+• iPad style
+dock menu • Dock menu in multitasking
+• Split screen mode
+• Change the number of icons in the dock menu
+• Recent / suggested apps in the dock menu
+• Blacklist of suggested apps
+• Option to make the dock menu transparent
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>floatingdockplus131.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>glowy2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
