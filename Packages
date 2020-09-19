@@ -3191,10 +3191,10 @@ Section: Utilities
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.icleanerpro_7.8.3k.deb
-Size: 9543706
-MD5sum: 0b12434a57dbe8edfe9895216eb306a7
-SHA1: 1274fec59774d185fb4a516e76ae4c41f7bd60a8
-SHA256: 76c5746e6ec5f965f348aaa81a6688c9345fb0128f4b1afcb3984fedd38d6188
+Size: 9550798
+MD5sum: a53dbc868c86aeb68810e30bcda6b1d1
+SHA1: 3a6566c462f6ec3aad11d2ba93bb7049afdc3a64
+SHA256: 3a1b5f7ba1c6022bf8e57ccf5bb650ac92986edc4da3ae31d70faf4e70108f68
 Depiction: https://repo.ipamod.com/depictions/?p=icleanerpro
 
 Package: com.ipamod.localiapstore
