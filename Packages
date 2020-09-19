@@ -3168,7 +3168,7 @@ Depiction: https://repo.ipamod.com/depictions/?p=glowy
 Package: com.ipamod.floatingdockplus13
 Name: FloatingDockPlus13.
 Version: 1.1.7
-Description:  Use your Dock like a PRO!
+Description: Use your Dock like a PRO!
 Author: P2KDev <p2kdev@gmail.com>.
 Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
 Section: Tweaks
@@ -3180,4 +3180,20 @@ MD5sum: f23cb6b33e9502cd9cc0b84c7a177822
 SHA1: cc620b7b6b8f037222977330c93d288557c2a77f
 SHA256: 8704a3b5d672f6d0b50e2a1e4eca09193083679a6f1c0404b81cecf92eed90a6
 Depiction: https://repo.ipamod.com/depictions/?p=floatingdockplus13
+
+Package: com.ipamod.icleanerpro
+Name: iCleaner Pro.
+Version: 7.8.3k
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>.
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Section: Utilities
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.icleanerpro_7.8.3k.deb
+Size: 9543706
+MD5sum: 0b12434a57dbe8edfe9895216eb306a7
+SHA1: 1274fec59774d185fb4a516e76ae4c41f7bd60a8
+SHA256: 76c5746e6ec5f965f348aaa81a6688c9345fb0128f4b1afcb3984fedd38d6188
+Depiction: https://repo.ipamod.com/depictions/?p=icleanerpro
 

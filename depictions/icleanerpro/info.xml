@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.icleanerpro</id>
+	<name>iCleaner Pro.</name>
+	<version>7.8.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 4.0), findutils, apt | apt7</package>
+	</dependencies>
+	<shortDescription> The first real iOS system cleaner & optimizer.
+</shortDescription>
+	<descriptionlist>
+		<description> Remove unused languages, keyboards and voice assets.
+Remove definition dictionaries.
+Delete unused application assets.
+Delete wallpapers.
+Reset preferences of apps and tweaks.
+Move the Fonts folder from/to the system partition. (iOS 6 and below)
+Launch it via its shortcuts, URL schemes or from the command line.
+Much, much more. Check the website and user guide to learn more.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>show.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>show1.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
