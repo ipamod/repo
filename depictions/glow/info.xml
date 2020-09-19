@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.glow</id>
+	<name>Glow.</name>
+	<version>0.4-24k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware ( >= 12), ru.rejail.limneosos</package>
+	</dependencies>
+	<shortDescription> New AOD for any device.
+</shortDescription>
+	<descriptionlist>
+		<description> Customizable AOD for any device, OLED and LCD. There are also different widgets that you can customize as you like. More widgets will be added in future updates.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>glow1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>glow2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

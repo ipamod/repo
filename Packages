@@ -3101,3 +3101,18 @@ SHA1: 82ed84563248f567b33425c04944c9ed7733fb8c
 SHA256: 909a5bbcf90d495ce2485377fd2d47fd51ad578eee38091b84f5b9f6f06ed63f
 Depiction: https://repo.ipamod.com/depictions/?p=floatingdock
 
+Package: com.ipamod.glow
+Name: Glow.
+Version: 0.4-24k
+Description: New AOD for any device
+Author: Elias Limneos <limneoselias@gmail.com>.
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12), ru.rejail.limneosos
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.glow_0.4-24k.deb
+Size: 335470
+MD5sum: 325f0c42007decf88b789fafc3cc98ee
+SHA1: d4b100919ef09752f749e7e8f9c18979a1f768b4
+SHA256: 92c4418524b5f8737f9be465fd7f7b5cfa9e9fbeaba561b544d7690e9e9fdbb7
+Depiction: https://repo.ipamod.com/depictions/?p=glow
