@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.localiapstore</id>
+	<name>LocalIAPStore.</name>
+	<version>1.4-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 5.1.1), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Hacking in-game purchases.
+</shortDescription>
+	<descriptionlist>
+		<description> Hacking in-game purchases.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>show.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>show1.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

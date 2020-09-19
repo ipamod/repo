@@ -3197,19 +3197,19 @@ SHA1: 1274fec59774d185fb4a516e76ae4c41f7bd60a8
 SHA256: 76c5746e6ec5f965f348aaa81a6688c9345fb0128f4b1afcb3984fedd38d6188
 Depiction: https://repo.ipamod.com/depictions/?p=icleanerpro
 
-Package: com.ipamod.icleanerpro
-Name: iCleaner Pro.
-Version: 7.8.3k
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>.
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Section: Utilities
+Package: com.ipamod.localiapstore
+Name: LocalIAPStore.
+Version: 1.4-2
+Description: Hacking in-game purchases
+Author: anondev.
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.icleanerpro_7.8.3k.deb
-Size: 9543706
-MD5sum: 0b12434a57dbe8edfe9895216eb306a7
-SHA1: 1274fec59774d185fb4a516e76ae4c41f7bd60a8
-SHA256: 76c5746e6ec5f965f348aaa81a6688c9345fb0128f4b1afcb3984fedd38d6188
-Depiction: https://repo.ipamod.com/depictions/?p=icleanerpro
+Filename: ./debs/com.ipamod.localiapstore_1.4-2.deb
+Size: 71166
+MD5sum: b85f3aff2d981a21c1aba4e057db6ea2
+SHA1: fb06c4ff1f501368fc2b237a762f0e906b88ceb2
+SHA256: 60a72ab100235faf65bd8cc75a8ae54d607360a78a317ff8204985d3fcc61bdc
+Depiction: https://repo.ipamod.com/depictions/?p=localiapstore
 
