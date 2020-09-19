@@ -3213,3 +3213,19 @@ SHA1: fb06c4ff1f501368fc2b237a762f0e906b88ceb2
 SHA256: 60a72ab100235faf65bd8cc75a8ae54d607360a78a317ff8204985d3fcc61bdc
 Depiction: https://repo.ipamod.com/depictions/?p=localiapstore
 
+Package: com.ipamod.floatytab
+Name: FloatyTab.
+Version: 1.0.5
+Description: Make your tab bar floaty...
+Author: Dylan West <iosthemem0d@gmail.com>.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.floatytab_1.0.5.deb
+Size: 5402048
+MD5sum: d24cea4a93f1c92765472ff4b1638194
+SHA1: f9aed44647d0d1e84edf915eefb3659087d245e4
+SHA256: 6b78bfb5112ab00df1b9d1b6cb311eb634dfb462ca75113fbe00ef2500359aed
+Depiction: https://repo.ipamod.com/depictions/?p=floatytab
+
