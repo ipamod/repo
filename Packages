@@ -2568,10 +2568,10 @@ Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.dleasy_2.9.3.2k.deb
-Size: 1196678
-MD5sum: 942b4ae6a9864caf8b27ca6ac7a9d56f
-SHA1: c5dba9cbaae8a3be4dd0f53c924d63ddda487a4d
-SHA256: 286d109962772812137f9789890e558c6acfd61387433a4b2bb2985fd50c8e02
+Size: 1196676
+MD5sum: 46eb5b9d83ccbd38e5c842b4a36da6de
+SHA1: ce3e14b9b29c7ff5033e043d493ab6fc38a82cbd
+SHA256: 2bac3f647a4d8ce7b03a4ce687451958bcd753ad0ea92ac9b6430807836f95fb
 Depiction: https://repo.ipamod.com/depictions/?p=dleasy
 
 Package: com.ipamod.docky
@@ -3132,3 +3132,19 @@ MD5sum: 7758835cf937a4202462c42cddaf6997
 SHA1: 004a84a3196808ddb0c08c9837c2f6879303b261
 SHA256: f13de5c78a037c0f8551bd61b4293c9c36cb9328c3bd5dbeef29186d5fe66dbf
 Depiction: https://repo.ipamod.com/depictions/?p=floatingdockplus
+
+Package: com.ipamod.crux
+Name: crux.
+Version: 1.0.0
+Description: run any command as root!
+Author: CreatureSurvive <support@creaturecoding.com>.
+Depends: firmware (>= 9.0)
+Section: System
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.crux_1.0.0.deb
+Size: 3070
+MD5sum: dac99ec879e82160c881f6a80b188567
+SHA1: e531cddde8d00d3c59e724f87c65c370ed328da5
+SHA256: 50189f628ef380080453bd7a02bd12463d902bc0c00aaecd89203d4ef1e62450
+Depiction: https://repo.ipamod.com/depictions/?p=crux
