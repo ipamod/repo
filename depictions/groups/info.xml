@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipamod.groups</id>
+	<name>Groups.</name>
+	<version>1.3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mmobilesubstrate, preferenceloader, ws.hbang.alderis, firmware (>= 12)</package>
+	</dependencies>
+	<shortDescription> Grouping dialogs in Messages.
+</shortDescription>
+	<descriptionlist>
+		<description> • Just swipe right.
+
+Easily add dialogs to one or more groups by swiping right. When you want to remove a dialog from the group, just swipe right again and delete it.
+
+• Personalize your groups.
+
+Don't like the default groups? Make them yours. Reset groups, change their names and more in the group settings.
+
+• Easy search for new messages ..
+
+Groups containing unread messages will display the red group name in the main submenu, rather than the usual blue name..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>groups1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>flow2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
