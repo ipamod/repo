@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.haystack</id>
+	<name>Haystack.</name>
+	<version>1.6.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> IOS 10 Control Center for iOS 11-12.
+</shortDescription>
+	<descriptionlist>
+		<description> IOS 10 Control Center for iOS 11-12.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>haystack1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>gif2ani22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

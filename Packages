@@ -3468,3 +3468,18 @@ SHA1: 63b05297efdf1c1cbf7c29c41f7bc2c4c96523cd
 SHA256: f5f60927fe87e101cdc5d5c6a80a3656f39781adaf2d7879589025acea480a1c
 Depiction: https://repo.ipamod.com/depictions/?p=gif2ani2
 
+Package: com.ipamod.haystack
+Name: Haystack.
+Version: 1.6.3
+Description: IOS 10 Control Center for iOS 11-12
+Author: LaughingQuoll.
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.haystack_1.6.3.deb
+Size: 230694
+MD5sum: 68abc4172d7e38c4b2fc3645394237c4
+SHA1: 3465fc489d62f4a2dc05c72361ed0ad3c6d1c1ca
+SHA256: 6c8776caf947f6feee348022ef463bf020dfdf2da42c037ca56316f61de34449
+Depiction: https://repo.ipamod.com/depictions/?p=haystack
