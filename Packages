@@ -3341,4 +3341,20 @@ SHA1: 7129512d27c67a712ca32ba4241921e8cf41f1ce
 SHA256: d385ccb6818809bb46cfee43eb3091213af075baea961175e0502207e2381e22
 Depiction: https://repo.ipamod.com/depictions/?p=grupi
 
+Package: com.ipamod.forcebuttons
+Name: ForceButtons.
+Version: 0.0.1-1
+Description: Decline and Reply buttons on the lock screen
+Author: Joe Merlino.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.forcebuttons_0.0.1-1.deb
+Size: 3786
+MD5sum: 7ffaff81c073aef43902f695868fc3da
+SHA1: 0c1a75c4e7d14b694167381e157b068e831704c5
+SHA256: 28e68c80c6d802e942e0f2980b02ae7162b863c69153ae924e7817593479969e
+Depiction: https://repo.ipamod.com/depictions/?p=forcebuttons
+
 
