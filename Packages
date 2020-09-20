@@ -3436,3 +3436,19 @@ SHA1: f9a01a3382639ff4eb55446119ea04d0255b00b1
 SHA256: 33d3234d9388942a6374badf913f03c626d488d498ea40fd7819a931e8dcd698
 Depiction: https://repo.ipamod.com/depictions/?p=genesis
 
+Package: com.ipamod.harbor2
+Name: Harbor 2.
+Version: 1.0.1-1
+Description: MacOS style dock menu
+Author: Evan Swick <eswick@eswick.com>.
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.harbor2_1.0.1-1.deb
+Size: 40550
+MD5sum: 87b2eff009e798c876a9d81b946e51bd
+SHA1: 2d93e0e6d75dca2cbc03128e681e33564da53aa5
+SHA256: 4d920ca9bbface499196198deb601b85c55897d169436b85d86e7fa8ec43736c
+Depiction: https://repo.ipamod.com/depictions/?p=harbor2
+
