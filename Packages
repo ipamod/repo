@@ -3357,4 +3357,20 @@ SHA1: 0c1a75c4e7d14b694167381e157b068e831704c5
 SHA256: 28e68c80c6d802e942e0f2980b02ae7162b863c69153ae924e7817593479969e
 Depiction: https://repo.ipamod.com/depictions/?p=forcebuttons
 
+Package: com.ipamod.gump
+Name: Gump.
+Version: 2.1.0k
+Description: Keeping music and apps running while respring
+Author: Kurrt <dev@kurrt.com>.
+Depends: mobilesubstrate, firmware (>= 13.0), applist, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.gump_2.1.0k.deb
+Size: 154762
+MD5sum: c9abf7c58badbc732a1e3a6fe54f44e4
+SHA1: 8351fa63c97f698379ea3d9a554088850f50b03e
+SHA256: a33296d3ca9167eb31c81caca4cb81199ad6c2d7d662ef68a9e69ff14eec4fcb
+Depiction: https://repo.ipamod.com/depictions/?p=gump
+
 

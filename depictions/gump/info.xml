@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.gump</id>
+	<name>Gump.</name>
+	<version>2.1.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 13.0), applist, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Keeping music and apps running while respring.
+</shortDescription>
+	<descriptionlist>
+		<description> Tired of the moments when you listen to music and decided to put some kind of tweak and respring stops playing music?
+
+This tweak will correct such an injustice. It will allow you to enjoy your music as you respring.
+
+WARNING: this tweak may not work well with devices that are jailbroken with unc0ver.
+
+ATTENTION: the "Restart Services" and "ldrestart" buttons may work incorrectly. It is better to do the last command through the terminal, or any other tweak that has this feature..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>gump1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>grupi2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
