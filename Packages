@@ -3531,3 +3531,19 @@ MD5sum: b632d7541b5b64a7732bb9f86f1d0308
 SHA1: 2562e4a6f85e228ede96666e5bd585edc06f6aa6
 SHA256: 695eca0870536ac531aac1081be724bdb20b8dabee471f4c0fba9187acde31b3
 Depiction: https://repo.ipamod.com/depictions/?p=glazbahack
+
+Package: com.ipamod.hidestatusbaritemsx
+Name: Hide Statusbar Items X(12).
+Version: 0.3.6
+Description: Hide items bar status
+Author: JunesiPhone <junesgraphics@gmail.com>.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.hidestatusbaritemsx_0.3.6.deb
+Size: 53450
+MD5sum: a48edf3e898027eba38edcfafdc99b53
+SHA1: ff4d266f842d58e7a5259e02d8b9865479652a52
+SHA256: e4bb9193ef8cc90549d1beef64b78bbc97ae0d341d2f516cda230926b65c7b3d
+Depiction: https://repo.ipamod.com/depictions/?p=hidestatusbaritemsx
