@@ -3325,4 +3325,20 @@ SHA1: 2210718e46f8623cfffc1d623e6b3d6077ce7ce5
 SHA256: 255298f4dfd5fe407fb4792061555749b59a36e8f2d68692bf1fc24c86ccb6bc
 Depiction: https://repo.ipamod.com/depictions/?p=foldercontroller
 
+Package: com.ipamod.grupi
+Name: Grupi.
+Version: 2.0
+Description: Grouping notifications
+Author: Soongyu Kwon & Timeloop.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.grupi_2.0.deb
+Size: 185340
+MD5sum: 83408838e163b9c6e023fb0fc854f457
+SHA1: 7129512d27c67a712ca32ba4241921e8cf41f1ce
+SHA256: d385ccb6818809bb46cfee43eb3091213af075baea961175e0502207e2381e22
+Depiction: https://repo.ipamod.com/depictions/?p=grupi
+
 
