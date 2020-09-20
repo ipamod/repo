@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.flowic</id>
+	<name>Flowic.</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0), applist, com.opa334.ccsupport, ws.hbang.common (>= 1.11), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Control your music from anywhere.
+</shortDescription>
+	<descriptionlist>
+		<description> Flowic lets you control your music from anywhere thanks to a floating widget that appears over the entire interface.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>flowic1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>flow2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
