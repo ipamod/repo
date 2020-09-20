@@ -3245,3 +3245,19 @@ SHA1: d5fc8feb1acf1bcfcb931392398e7817c9c94024
 SHA256: a28ec89c3d93336a60c917ce9c796c33fa7459b02e84acec7705a685a88afead
 Depiction: https://repo.ipamod.com/depictions/?p=goodges2
 
+Package: com.ipamod.flow
+Name: Flow.
+Version: 1.1.6
+Description: Cover Flow like never before!
+Author: Muirey03.
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.flow_1.1.6.deb
+Size: 262352
+MD5sum: 86d9e2ec41d7782b289d70c0bb466fd7
+SHA1: c658466e8289f98b4c6b61e645d82b92d82b2c56
+SHA256: 3d69b62fa31c978c08afe13031269ebaaa75d73d52a26327f53d5db09b345cea
+Depiction: https://repo.ipamod.com/depictions/?p=flow
+

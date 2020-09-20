@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipamod.flow</id>
+	<name>Flow.</name>
+	<version>1.1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)</package>
+	</dependencies>
+	<shortDescription> Cover Flow like never before!.
+</shortDescription>
+	<descriptionlist>
+		<description> Introducing Flow, the revolutionary, modern take on your music player! Inspired by the beloved Cover Flow tweaks from earlier versions of iOS, but refreshed with the new modern iOS design style, Flow really looks like a part of iOS.
+
+Flow lets you see all the songs in the queue and scroll through them to find exactly what you are looking for. Flow comes with amazing responsive wallpapers and supports all your favorite music apps, including:
+
+• Apple Music
+• Spotify
+• Deezer
+• SoundCloud
+• TIDAL
+• YouTube Music
+• Podcasts.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>flow1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>flow2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
