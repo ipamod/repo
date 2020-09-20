@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.goodges2</id>
+	<name>Goodges 2.</name>
+	<version>2.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker, applist</package>
+	</dependencies>
+	<shortDescription> Your badges instead of application names.
+</shortDescription>
+	<descriptionlist>
+		<description> Use app names as notification badges..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>goodges21.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>show1.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

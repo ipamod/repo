@@ -3229,3 +3229,19 @@ SHA1: f9aed44647d0d1e84edf915eefb3659087d245e4
 SHA256: 6b78bfb5112ab00df1b9d1b6cb311eb634dfb462ca75113fbe00ef2500359aed
 Depiction: https://repo.ipamod.com/depictions/?p=floatytab
 
+Package: com.ipamod.goodges2
+Name: Goodges 2.
+Version: 2.1.4
+Description: Your badges instead of application names
+Author: NoisyFlake.
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.goodges2_2.1.4.deb
+Size: 117438
+MD5sum: bad92d0a5cc59be012a117de324aa658
+SHA1: d5fc8feb1acf1bcfcb931392398e7817c9c94024
+SHA256: a28ec89c3d93336a60c917ce9c796c33fa7459b02e84acec7705a685a88afead
+Depiction: https://repo.ipamod.com/depictions/?p=goodges2
+
