@@ -3515,3 +3515,19 @@ MD5sum: a2d1dfa914b5c20bef0a548baba0b956
 SHA1: 1c93ff5f9c3c2eb6c87864eb4a8d3aa3d9da7a3d
 SHA256: 669f9d535dcd72addbf7d832c53154ccdbca3446bff0063ecd409b3653514091
 Depiction: https://repo.ipamod.com/depictions/?p=hexatechhack
+
+Package: com.ipamod.glazbahack
+Name: Glazba Hack.
+Version: 0.1-1+debug
+Description: Removes ads in the Glazba app
+Author: md.furman.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.glazbahack_0.1-1+debug.deb
+Size: 5204
+MD5sum: b632d7541b5b64a7732bb9f86f1d0308
+SHA1: 2562e4a6f85e228ede96666e5bd585edc06f6aa6
+SHA256: 695eca0870536ac531aac1081be724bdb20b8dabee471f4c0fba9187acde31b3
+Depiction: https://repo.ipamod.com/depictions/?p=glazbahack

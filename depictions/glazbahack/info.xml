@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.glazbahack</id>
+	<name>Glazba Hack.</name>
+	<version>0.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Removes ads in the Glazba app.
+</shortDescription>
+	<descriptionlist>
+		<description> Removes ads in the Glazba app.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>glance1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>gif2ani22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
