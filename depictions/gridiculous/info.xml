@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.gridiculous</id>
+	<name>Gridiculous.</name>
+	<version>0.2~beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.chpwn.iconsupport</package>
+	</dependencies>
+	<shortDescription> Arrangement of icons without restrictions.
+</shortDescription>
+	<descriptionlist>
+		<description> Analogue of the Anchor tweak. Please note, this is the first beta version of the tweak, so not everything may work the way you want..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>gridiculous1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>flow2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

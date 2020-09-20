@@ -3261,3 +3261,19 @@ SHA1: c658466e8289f98b4c6b61e645d82b92d82b2c56
 SHA256: 3d69b62fa31c978c08afe13031269ebaaa75d73d52a26327f53d5db09b345cea
 Depiction: https://repo.ipamod.com/depictions/?p=flow
 
+Package: com.ipamod.gridiculous
+Name: gridiculous.
+Version: 0.2~beta1
+Description: Arrangement of icons without restrictions
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>.
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.gridiculous_0.2~beta1.deb
+Size: 14264
+MD5sum: 42d383ef832929c1dcca73860e645189
+SHA1: 12dbad5cb50df60e0a34a42ac8a99520dcab42a3
+SHA256: 60430364d96f0a5742787637b629c7f8ae878b24461c8517042083f03e1c4298
+Depiction: https://repo.ipamod.com/depictions/?p=gridiculous
+
