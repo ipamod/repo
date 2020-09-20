@@ -3420,3 +3420,19 @@ SHA1: 4a4accf24ccd9f5ae7d405f610f8789383a796e5
 SHA256: 51a6dadc3a69f10ef36d2dc33b71f7d416664cfccf91d7d89c711f6c5d49bc20
 Depiction: https://repo.ipamod.com/depictions/?p=haptigram
 
+Package: com.ipamod.genesis
+Name: Genesis.
+Version: 1.2.1
+Description: Many settings for your device
+Author: TylerD3V <tyler.norman@shaw.ca>.
+Depends: mobilesubstrate, firmware (>=13.0), ws.hbang.common (>= 1.14), applist, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.genesis_1.2.1.deb
+Size: 316086
+MD5sum: d38d607c694d37b28efa240a9456882c
+SHA1: f9a01a3382639ff4eb55446119ea04d0255b00b1
+SHA256: 33d3234d9388942a6374badf913f03c626d488d498ea40fd7819a931e8dcd698
+Depiction: https://repo.ipamod.com/depictions/?p=genesis
+

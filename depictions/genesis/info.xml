@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.genesis</id>
+	<name>Genesis.</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=13.0), ws.hbang.common (>= 1.14), applist, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> Many settings for your device.
+</shortDescription>
+	<descriptionlist>
+		<description> Lots of settings to transform your device.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>genesis1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>haptickeys2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
