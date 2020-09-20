@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.haptigram</id>
+	<name>HaptiGram.</name>
+	<version>2.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> Tactile feedback on Instagram actions.
+</shortDescription>
+	<descriptionlist>
+		<description> Tactile feedback on Instagram actions.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>haptigram1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>haptickeys2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

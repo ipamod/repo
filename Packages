@@ -3404,3 +3404,19 @@ SHA1: ceb431f15cfb9850e8767da655af2860fc65e181
 SHA256: f1e6f2ea3c1fbceab2dd95d9495c1a1c3de2090872af00295450ad29ef2c7f49
 Depiction: https://repo.ipamod.com/depictions/?p=gameplayer
 
+Package: com.ipamod.haptigram
+Name: HaptiGram.
+Version: 2.3
+Description: Tactile feedback on Instagram actions
+Author: iCraze.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.haptigram_2.3.deb
+Size: 72924
+MD5sum: 2c60f96f9b5eba11e21f8be17c3348fd
+SHA1: 4a4accf24ccd9f5ae7d405f610f8789383a796e5
+SHA256: 51a6dadc3a69f10ef36d2dc33b71f7d416664cfccf91d7d89c711f6c5d49bc20
+Depiction: https://repo.ipamod.com/depictions/?p=haptigram
+
