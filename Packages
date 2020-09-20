@@ -3452,3 +3452,19 @@ SHA1: 2d93e0e6d75dca2cbc03128e681e33564da53aa5
 SHA256: 4d920ca9bbface499196198deb601b85c55897d169436b85d86e7fa8ec43736c
 Depiction: https://repo.ipamod.com/depictions/?p=harbor2
 
+Package: com.ipamod.gif2ani2
+Name: Gif2Ani V2.
+Version: 2.1.1
+Description: Gif animation for respring
+Author: wizages, MidnightChips.
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.gif2ani2_2.1.1.deb
+Size: 60788
+MD5sum: 2f472eb6969a24644455156e6cdf49fd
+SHA1: 63b05297efdf1c1cbf7c29c41f7bc2c4c96523cd
+SHA256: f5f60927fe87e101cdc5d5c6a80a3656f39781adaf2d7879589025acea480a1c
+Depiction: https://repo.ipamod.com/depictions/?p=gif2ani2
+
