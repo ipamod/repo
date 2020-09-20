@@ -3483,3 +3483,19 @@ MD5sum: 68abc4172d7e38c4b2fc3645394237c4
 SHA1: 3465fc489d62f4a2dc05c72361ed0ad3c6d1c1ca
 SHA256: 6c8776caf947f6feee348022ef463bf020dfdf2da42c037ca56316f61de34449
 Depiction: https://repo.ipamod.com/depictions/?p=haystack
+
+Package: com.ipamod.glance
+Name: Glance.
+Version: 2.2k
+Description: Lock screen redesign
+Author: kushy.
+Depends: mobilesubstrate,ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.glance_2.2k.deb
+Size: 1366656
+MD5sum: 329ab126e3e8fd718cbdcce0b0c19e3d
+SHA1: a416cc5447116881aa8b797baf83adb6c7aa012e
+SHA256: cbba645f9399cdd700314e3abd7db979c99b67afaf55ffd1a674cb07457a56db
+Depiction: https://repo.ipamod.com/depictions/?p=glance

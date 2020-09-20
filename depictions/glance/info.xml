@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.glance</id>
+	<name>Glance.</name>
+	<version>2.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate,ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Lock screen redesign.
+</shortDescription>
+	<descriptionlist>
+		<description> OLED compatible lock screen with customizable clock and music widgets and charging animations.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>glance1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>gif2ani22.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
