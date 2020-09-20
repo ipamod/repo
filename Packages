@@ -3389,3 +3389,18 @@ SHA1: 6978fcb355f9198b30ed822122a867b6de075026
 SHA256: a8b5d6330a665a069e23b7df43eadccc6bfd672660850bf6233a0f92ecbb25a1
 Depiction: https://repo.ipamod.com/depictions/?p=haptickeys
 
+Package: com.ipamod.gameplayer
+Name: GamePlayer.
+Version: 3.4
+Description: A tweak for hacking in-app purchases. An analogue of LocalAppStore, only more modified; it has no screenshots.
+Author: nkod.
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.gameplayer_3.4.deb
+Size: 1502766
+MD5sum: 7cdccdbd1532ac0390f71898d421a740
+SHA1: ceb431f15cfb9850e8767da655af2860fc65e181
+SHA256: f1e6f2ea3c1fbceab2dd95d9495c1a1c3de2090872af00295450ad29ef2c7f49
+Depiction: https://repo.ipamod.com/depictions/?p=gameplayer
+

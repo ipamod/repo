@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.gameplayer</id>
+	<name>GamePlayer.</name>
+	<version>3.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<shortDescription> A tweak for hacking in-app purchases. An analogue of LocalAppStore, only more modified; it has no screenshots.
+</shortDescription>
+	<descriptionlist>
+		<description> A tweak for hacking in-app purchases. An analogue of LocalAppStore, only more modified; it has no screenshots.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>haptickeys1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>haptickeys2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
