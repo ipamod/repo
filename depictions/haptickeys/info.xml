@@ -1,0 +1,38 @@
+<package>
+	<id>com.ipamod.haptickeys</id>
+	<name>HapticKeys.</name>
+	<version>4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, applist, ws.hbang.common, firmware (>= 10.0)</package>
+	</dependencies>
+	<shortDescription> Tactile feedback from keyboard and desktop icons.
+</shortDescription>
+	<descriptionlist>
+		<description> Tactile feedback from keyboard and desktop icons.
+-5 response styles for ios13
+-3 response styles for ios12
+-2 response styles for older devices
+-Application exclusion option -Adjust the response
+strength.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>haptickeys1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>haptickeys2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
