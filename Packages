@@ -3722,3 +3722,19 @@ MD5sum: 22a67f9607ee4c28614cb380e4f0c637
 SHA1: 2ab07327f3373c10986133d73dbbe0e31543a71d
 SHA256: 24eb515c3cb40878dabe6fd844d3c2b1fb90656fcd7b77f4215af03c3bb121ac
 Depiction: https://repo.ipamod.com/depictions/?p=cracktool4
+
+Package: com.ipamod.cracktool43
+Name: CrackTool4 iOS12-iOS13.5.1
+Version: 4.0~beta9d
+Description: Crack Tweaks on one click
+Author: julioverne.
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cracktool43_4.0~beta9d.deb
+Size: 695794
+MD5sum: dba7f0d42a7356b743f4d1c217016d23
+SHA1: a0bc5b0c6b694ec74029bdad74ba5242b15cb01e
+SHA256: c7d88339ab3882ec1853cc9a4b5a7cd922c31d73a944f18f6cfc9cb459d2aa1f
+Depiction: https://repo.ipamod.com/depictions/?p=cracktool43
