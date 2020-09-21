@@ -3594,3 +3594,19 @@ MD5sum: 1079e72b36812be6755cc192aa6bb216
 SHA1: d4e95890471b3d6560590cd2c7940c56219ba018
 SHA256: fb3cc7464127a18a46db18b7ec25694f3213e70f73888ff9afeb55a2849b3442
 Depiction: https://repo.ipamod.com/depictions/?p=imagecorrect
+
+Package: com.ipamod.homebarthemer
+Name: HomebarThemer.
+Version: 0.4
+Description: Home Bar Theme on iPX
+Author: JunesiPhone <junesgraphics@gmail.com>.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.homebarthemer_0.4.deb
+Size: 31378
+MD5sum: 3f2e5a2607269d07556afbb5a8684e88
+SHA1: 84486a37de0f86a546d1df49795a35cc6ad7c5b3
+SHA256: 9761dad0c0dd1b81f123502d1804fbe1bb48457ca1c0750a914006258f4a01bd
+Depiction: https://repo.ipamod.com/depictions/?p=homebarthemer
