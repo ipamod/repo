@@ -1103,16 +1103,16 @@ Author: Soongyu Kwon.
 Depiction: https://repo.ipamod.com/depictions/?p=boardbanners
 
 Package: com.ipamod.betteralarm
-Version: 1.2.1
+Version: 1.2.3
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.betteralarm_1.2.1.deb
-Size: 72030
-MD5sum: 864c382b6a16a9461c7bfa25db718f74
-SHA1: 363df09fba52b410083cb6035b8ee2e7663487fa
-SHA256: 48c90d549251d91e8c8a00d9700f569de780139d148f5c19b77570494340c26e
+Filename: ./debs/com.ipamod.betteralarm_1.2.3.deb
+Size: 74302
+MD5sum: 630ba021f0ca8a147b5336d03ddca673
+SHA1: f4bc797ac518fdca53439f3982ab9cda7aa3b343
+SHA256: be60fb022be978d39666a06cb9194fc2d7e373ecfbc7e5bb825fb12887dc8107
 Description: Redesigned alarm and timer screens.
 Name: BetterAlarm
 Author: NoisyFlake <support@noisyflake.com>.
