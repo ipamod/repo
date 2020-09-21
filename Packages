@@ -3706,3 +3706,19 @@ MD5sum: fcd12f6a675abb07978e6b9819b8a272
 SHA1: 29f4470d7cae19e01b3d03a18a294682a6380cec
 SHA256: 5a4a2b1ec18d593975270f32e372f54a295f6e41a25cb4159c6988f9f972a934
 Depiction: https://repo.ipamod.com/depictions/?p=ccpatch10
+
+Package: com.ipamod.cracktool4
+Name: CrackTool4 (iOS 12).
+Version: 4.0~beta6
+Description: Crack Tweaks on one click
+Author: julioverne.
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Section: Utilities
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cracktool4_4.0~beta6.deb
+Size: 135756
+MD5sum: 22a67f9607ee4c28614cb380e4f0c637
+SHA1: 2ab07327f3373c10986133d73dbbe0e31543a71d
+SHA256: 24eb515c3cb40878dabe6fd844d3c2b1fb90656fcd7b77f4215af03c3bb121ac
+Depiction: https://repo.ipamod.com/depictions/?p=cracktool4
