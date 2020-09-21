@@ -3547,3 +3547,19 @@ MD5sum: a48edf3e898027eba38edcfafdc99b53
 SHA1: ff4d266f842d58e7a5259e02d8b9865479652a52
 SHA256: e4bb9193ef8cc90549d1beef64b78bbc97ae0d341d2f516cda230926b65c7b3d
 Depiction: https://repo.ipamod.com/depictions/?p=hidestatusbaritemsx
+
+Package: com.ipamod.veloxreloaded
+Name: Velox Reloaded.
+Version: 1.2.1k
+Description: Desktop widgets
+Author: ApexTweaks <support@apextweaks.com>.
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, com.chpwn.iconsupport
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.veloxreloaded_1.2.1k.deb
+Size: 14174686
+MD5sum: 76d1f945f336333a54fef56bcf1eeba9
+SHA1: d7ea80a85251d356c6d1739494c0eb0f9e2e7987
+SHA256: 2cd6d50c938981a5ab82807cfd8410d86869613eee8b154a5e3b66e01099f30e
+Depiction: https://repo.ipamod.com/depictions/?p=veloxreloaded
