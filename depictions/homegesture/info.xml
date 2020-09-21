@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.homegesture</id>
+	<name>HomeGesture.</name>
+	<version>2.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Turn your device into an iPhone X.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak adds gestures from the iPhone X to older devices..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>homegesture1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>imperium2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
