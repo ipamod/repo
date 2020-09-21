@@ -3563,3 +3563,18 @@ MD5sum: 76d1f945f336333a54fef56bcf1eeba9
 SHA1: d7ea80a85251d356c6d1739494c0eb0f9e2e7987
 SHA256: 2cd6d50c938981a5ab82807cfd8410d86869613eee8b154a5e3b66e01099f30e
 Depiction: https://repo.ipamod.com/depictions/?p=veloxreloaded
+
+Package: com.ipamod.hidestatusbars
+Name: Hide Statusbars.
+Version: 0.2
+Description: Hide status bar
+Author: JunesiPhone <junesgraphics@gmail.com>.
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.hidestatusbars_0.2.deb
+Size: 24746
+MD5sum: a20c0fb7c0a9e70cc78d5004043c3aee
+SHA1: b83518029fac17cc818af9ae0d13ef1b235a5037
+SHA256: 8ef0d16fbced13e3e6112fd64ca736bf59750b73c5501a4883c432d50e1a03d6
+Depiction: https://repo.ipamod.com/depictions/?p=hidestatusbars
