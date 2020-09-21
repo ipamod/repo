@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.ccpatch10</id>
+	<name>CommCenter Patch.</name>
+	<version>4.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=10.0)</package>
+	</dependencies>
+	<shortDescription> Carrier bundles signature patch for iPhone & iPad iOS 7 - iOS 9 Supports All Cellular Models.
+</shortDescription>
+	<descriptionlist>
+		<description> Carrier bundles signature patch for iPhone & iPad iOS 7 - iOS 9 Supports All Cellular Models.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>homelist1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>indy2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

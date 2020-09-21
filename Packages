@@ -3690,3 +3690,19 @@ MD5sum: 8fd944a3f8b7d1fe90b171d36707452b
 SHA1: bda36b47f6a018e34e694bea349a1ce3ce2e68c4
 SHA256: 1c3d16d0579e015900d693c900c644e13e65e37cd1cfe4d728fc86cca693610b
 Depiction: https://repo.ipamod.com/depictions/?p=carriercrack-global
+
+Package: com.ipamod.ccpatch10
+Name: CommCenter Patch.
+Version: 4.0.1
+Description: Carrier bundles signature patch for iPhone & iPad iOS 7 - iOS 9 Supports All Cellular Models!
+Author: Pwn20wnd <itweakios@yahoo.com>.
+Depends: mobilesubstrate, firmware (>=10.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ccpatch10_4.0.1.deb
+Size: 44314
+MD5sum: fcd12f6a675abb07978e6b9819b8a272
+SHA1: 29f4470d7cae19e01b3d03a18a294682a6380cec
+SHA256: 5a4a2b1ec18d593975270f32e372f54a295f6e41a25cb4159c6988f9f972a934
+Depiction: https://repo.ipamod.com/depictions/?p=ccpatch10
