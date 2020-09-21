@@ -3642,3 +3642,19 @@ MD5sum: ac2004504819e44755d7e3c53d20808a
 SHA1: 352e002b37e7d0b27c472023a4f16479e8884a6f
 SHA256: 5905b0f290cafb3b0a360a47f185585e33bda7d560a2a8b94f7aa5cc2e45aa7e
 Depiction: https://repo.ipamod.com/depictions/?p=homegesture
+
+Package: com.ipamod.indy
+Name: Indy.
+Version: 1.1.0k
+Description: Device control from status bar
+Author: burrit0z <burrit0ztweaks@gmail.com>.
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.indy_1.1.0k.deb
+Size: 2388234
+MD5sum: 5890b2e196840726b638b74efbdc05ab
+SHA1: 471da64e67c32ea3fd5231cb2dca65e8fe8ca3c6
+SHA256: 0740db073483730bcc05105ac4ce55822219f6bd541266e4f782a189fb8b4e4e
+Depiction: https://repo.ipamod.com/depictions/?p=indy
