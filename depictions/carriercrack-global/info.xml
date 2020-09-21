@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.carriercrack-global</id>
+	<name>CarrierCrack - Global.</name>
+	<version>3.1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Enable hidden features, introduce new features, cellular signal network, increase data rates and more!.
+</shortDescription>
+	<descriptionlist>
+		<description> Enable hidden features, introduce new features, cellular signal network, increase data rates and more!.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>homelist1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>indy2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

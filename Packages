@@ -3674,3 +3674,19 @@ MD5sum: f34800f3adebdad8308464dbe13a0b5d
 SHA1: f0b729a84fa435f5aa0ac00ff2ce5409c3917b44
 SHA256: e3d54a9f87e7b9d4dc5e20638654ae9b510f8beddd94dee66c6181e846680705
 Depiction: https://repo.ipamod.com/depictions/?p=homelist
+
+Package: com.ipamod.carriercrack-global
+Name: CarrierCrack - Global.
+Version: 3.1.6
+Description: Enable hidden features, introduce new features, cellular signal network, increase data rates and more!
+Author: iTweakiOS <itweakios@yahoo.com>.
+Depends: com.ipamod.ccpatch10
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.carriercrack-global_3.1.6.deb
+Size: 4692520
+MD5sum: 8fd944a3f8b7d1fe90b171d36707452b
+SHA1: bda36b47f6a018e34e694bea349a1ce3ce2e68c4
+SHA256: 1c3d16d0579e015900d693c900c644e13e65e37cd1cfe4d728fc86cca693610b
+Depiction: https://repo.ipamod.com/depictions/?p=carriercrack-global
