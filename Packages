@@ -3589,8 +3589,8 @@ Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
 Filename: ./debs/com.ipamod.imagecorrect_0.5k.deb
-Size: 344642
-MD5sum: 91f691d74b96c043a354d2d3f6640240
-SHA1: f70a24299f8e9e674642d3514c291ada51e19cea
-SHA256: d688676553cd38e4ce3f21609f1bafc5b644119ce19b53bf2e010a2197edbbaf
-Depiction: https://repo.ipamod.com/depictions/?p=veloxreloaded
+Size: 344632
+MD5sum: 1079e72b36812be6755cc192aa6bb216
+SHA1: d4e95890471b3d6560590cd2c7940c56219ba018
+SHA256: fb3cc7464127a18a46db18b7ec25694f3213e70f73888ff9afeb55a2849b3442
+Depiction: https://repo.ipamod.com/depictions/?p=imagecorrect
