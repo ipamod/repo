@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.killbackgroundxs</id>
+	<name>KillBackgroundXS</name>
+	<version>1.0.6k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 10.0), mobilesubstrate, preferenceloader, applist</package>
+	</dependencies>
+	<shortDescription> Easily close all apps in multitasking.
+</shortDescription>
+	<descriptionlist>
+		<description> A simple yet useful tweak for closing all background apps. Adds special buttons to polysemy.
+
+You can also close apps from Control Center or swipe down without using buttons..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>killbackgroundxs1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>show2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
