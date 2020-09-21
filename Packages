@@ -1439,16 +1439,16 @@ Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=callbar7
 
 Package: com.ipamod.bioprotectxs
-Version: 4.4-49
+Version: 4.4-51k
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate, preferenceloader, com.ipamod.limneosos
+Depends: mobilesubstrate, preferenceloader, wget
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.bioprotectxs_4.4-49.deb
-Size: 820704
-MD5sum: ee0aa76250e9fae4b404ee8f74a51dda
-SHA1: ce284b71cf60aea20fbfd4ca2518f53c59a506b7
-SHA256: dd9c15f5d03b391c5ea18fb8c41aa60bc5af07e0371bafedfa2a004eb0ca1cdb
+Filename: ./debs/com.ipamod.bioprotectxs_4.4-51k.deb
+Size: 833128
+MD5sum: ddb95c4320225f5168ebecd172b3aace
+SHA1: 0de841b8ffc2f81a128f7ff9e15ea998e10bb403
+SHA256: 3f11ca809b59b23dc543db5b7c3939c216be42d20b74b661597e62077029aad3
 Description: Protect your apps with Touch / Face ID
 Name: BioProtect XS (iOS 12/13)
 Author: Elias Limneos <limneoselias@gmail.com>.
