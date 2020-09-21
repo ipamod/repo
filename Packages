@@ -3578,3 +3578,19 @@ MD5sum: a20c0fb7c0a9e70cc78d5004043c3aee
 SHA1: b83518029fac17cc818af9ae0d13ef1b235a5037
 SHA256: 8ef0d16fbced13e3e6112fd64ca736bf59750b73c5501a4883c432d50e1a03d6
 Depiction: https://repo.ipamod.com/depictions/?p=hidestatusbars
+
+Package: com.ipamod.imagecorrect
+Name: ImageCorrect.
+Version: 0.5k
+Description: Quick access to your pictures from anywhere
+Author: Satvik <satvikdeveloper@gmail.com>.
+Depends: mobilesubstrate, firmware (>= 10.0), org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.imagecorrect_0.5k.deb
+Size: 344642
+MD5sum: 91f691d74b96c043a354d2d3f6640240
+SHA1: f70a24299f8e9e674642d3514c291ada51e19cea
+SHA256: d688676553cd38e4ce3f21609f1bafc5b644119ce19b53bf2e010a2197edbbaf
+Depiction: https://repo.ipamod.com/depictions/?p=veloxreloaded

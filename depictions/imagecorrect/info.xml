@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.imagecorrect</id>
+	<name>ImageCorrect.</name>
+	<version>0.5k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 10.0), org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> Quick access to your pictures from anywhere.
+</shortDescription>
+	<descriptionlist>
+		<description> Have you ever participated in a conversation and had the perfect meme to send, but could never get it on time? With ImageCorrect, you can quickly access your most used images and memes by typing a given title anywhere you can place an image!
+Can't remember all your titles? Don't worry, ImageCorrect also offers a quick access menu to quickly search all of your titles, allowing you to access any picture in seconds without having to memorize them all!
+In addition to the shortcut menu, ImageCorrect also now has a collage menu accessible from the text selection menu. Using the collage menu, all your images are just a tap away! Getting to your images has never been easier.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>imagecorrect1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>imagecorrect2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
