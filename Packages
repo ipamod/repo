@@ -3610,3 +3610,19 @@ MD5sum: 3f2e5a2607269d07556afbb5a8684e88
 SHA1: 84486a37de0f86a546d1df49795a35cc6ad7c5b3
 SHA256: 9761dad0c0dd1b81f123502d1804fbe1bb48457ca1c0750a914006258f4a01bd
 Depiction: https://repo.ipamod.com/depictions/?p=homebarthemer
+
+Package: com.ipamod.imperium
+Name: Imperium.
+Version: 2.0.2
+Description: Music control gestures
+Author: LacertosusDeus <LacertosusThemes@gmail.com>.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.imperium_2.0.2.deb
+Size: 88308
+MD5sum: 029bde687d180708d54dd66aaf563664
+SHA1: abf2ef5722f2d1b77a23f8ccb96d97777682f6ab
+SHA256: 23e4f78b77b56b80237cf3181434a48157c76c7892ee2c4bdcd54b5c36315968
+Depiction: https://repo.ipamod.com/depictions/?p=imperium
