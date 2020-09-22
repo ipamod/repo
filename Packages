@@ -3753,4 +3753,20 @@ Size: 424462
 MD5sum: 4bfcb12d2e4e66825d1728fa31b5a061
 SHA1: 4accda4ebbdae61b7e02591f4b9817ba53144ff3
 SHA256: 77c3ca894878347dec91cf3af648877416f111a74ca8f5091edfe22c2f039b5c
-Depiction: https://repo.ipamod.com/depictions/?p=killbackgroundxs
+Depiction: https://repo.ipamod.com/depictions/?p=killbackgroundxs\
+
+Package: com.ipamod.youtubelite
+Name: YouTubeLite
+Version: 0.9-beta
+Description: Advanced settings for YouTube
+Author: Networke <re.errornetwork@gmail.com>.
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.youtubelite_0.9-beta.deb
+Size: 71734
+MD5sum: dc8a2dd013b0dc8b94cb800e068999b0
+SHA1: 437184aa3c7ae7d19b742469d0c700ba2d1f72db
+SHA256: de4387ab9c89fbbd04d08d9609c34cd4273d64d6d95eb50c411d090e887b28cb
+Depiction: https://repo.ipamod.com/depictions/?p=youtubelite

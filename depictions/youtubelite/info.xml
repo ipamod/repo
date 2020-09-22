@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.youtubelite</id>
+	<name>YouTubeLite</name>
+	<version>0.9-bet</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Advanced settings for YouTube.
+</shortDescription>
+	<descriptionlist>
+		<description> The features of the tweak are written on the screen.
+
+Known Issues:
+1) On some devices, the tweak icon is slightly larger than others.
+2) Custom mini-player, unfortunately nothing can be done with it yet.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>youtubelite1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>show2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
