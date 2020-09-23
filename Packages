@@ -3786,3 +3786,19 @@ MD5sum: e2970ea4981960911be4a1d0f7bdff82
 SHA1: 3824cf7e9c03df24d438e0c341f997ea40d3e9fe
 SHA256: 75fdd66d15a8b33b4cafb2d8f892ef4318b6cd47e839e5b269f1a09b01119b47
 Depiction: https://repo.ipamod.com/depictions/?p=insideup
+
+Package: com.ipamod.homepluspro
+Name: HomePlus Pro
+Version: 1.2.3k
+Description: Dynamically adjust the arrangement of home screen elements
+Author: Kritanta.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.homepluspro_1.2.3k.deb
+Size: 1160330
+MD5sum: 0a2e8fdfc1203a57b4fc8f0a3e4cd919
+SHA1: 186cc0bf29bd4dbecd0a905c09d74fc30cc50ed9
+SHA256: 1ed7cd06fdc86305c9e3e5071db027e09ee9df00db3a837bb558443e9840b08f
+Depiction: https://repo.ipamod.com/depictions/?p=homepluspro

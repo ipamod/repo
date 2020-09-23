@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.homepluspro</id>
+	<name>HomePlus Pro</name>
+	<version>1.2.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Dynamically adjust the arrangement of home screen elements.
+</shortDescription>
+	<descriptionlist>
+		<description> Dynamically customize the layout of home screen elements with an intuitive user interface in WYSIWYG mode..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>homepluspro1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>homepluspro2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
