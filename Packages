@@ -3770,3 +3770,19 @@ MD5sum: dc8a2dd013b0dc8b94cb800e068999b0
 SHA1: 437184aa3c7ae7d19b742469d0c700ba2d1f72db
 SHA256: de4387ab9c89fbbd04d08d9609c34cd4273d64d6d95eb50c411d090e887b28cb
 Depiction: https://repo.ipamod.com/depictions/?p=youtubelite
+
+Package: com.ipamod.insideup
+Name: Inside Up
+Version: 1.1.0
+Description: Lock the device with the screen facing down
+Author: Oliver Boudet.
+Depends: mobilesubstrate, firmware (>= 12.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.insideup_1.1.0.deb
+Size: 5906
+MD5sum: e2970ea4981960911be4a1d0f7bdff82
+SHA1: 3824cf7e9c03df24d438e0c341f997ea40d3e9fe
+SHA256: 75fdd66d15a8b33b4cafb2d8f892ef4318b6cd47e839e5b269f1a09b01119b47
+Depiction: https://repo.ipamod.com/depictions/?p=insideup
