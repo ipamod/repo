@@ -3802,3 +3802,19 @@ MD5sum: 0a2e8fdfc1203a57b4fc8f0a3e4cd919
 SHA1: 186cc0bf29bd4dbecd0a905c09d74fc30cc50ed9
 SHA256: 1ed7cd06fdc86305c9e3e5071db027e09ee9df00db3a837bb558443e9840b08f
 Depiction: https://repo.ipamod.com/depictions/?p=homepluspro
+
+Package: com.ipamod.instaulxi
+Name: InstagramUnleashedXI
+Version: 1.3
+Description: Advanced settings for Instagram
+Author: Rishanan.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.instaulxi_1.3.deb
+Size: 57698
+MD5sum: c95b987b63ed19815a739c26f8235a96
+SHA1: 3c2d2f479845596ea9cd1e7bc405b80ec6c435e8
+SHA256: 64f541b6491efc64bf898fb4637b2ab0024ee43f30b2257d35e535cfa12f1cd9
+Depiction: https://repo.ipamod.com/depictions/?p=instaulxi
