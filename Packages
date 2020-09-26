@@ -3946,3 +3946,19 @@ MD5sum: 1514a5409f16437f54b1f7341ecbef04
 SHA1: 00a99c4a3b0fb86ccd67c76a50c77449bae20ae9
 SHA256: 284c6061649b2e31a4bc5086ae9ca846990f2ce65de4a4e3513c6d160f727730
 Depiction: https://repo.ipamod.com/depictions/?p=hyperion
+
+Package: com.ipamod.intelligentpass
+Name: IntelligentPass
+Version: 1.2.2k
+Description: Turn off password when not needed.
+Author: Luke Muris.
+Depends: mobilesubstrate, firmware(>=10.0), preferenceloader, cy+cpu.arm64, ru.rejail.libgraphite(>=2.2), firmware(<=12.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.intelligentpass_1.2.2k.deb
+Size: 158690
+MD5sum: e4362f7aa8d466b131a6f15c32557b2a
+SHA1: 38563791c962303d83dccb25ff30a2c3c188f31c
+SHA256: 58b47094c842a61a2a9a335f2ce2b109570556253cfe7de1c2fa9a8259032277
+Depiction: https://repo.ipamod.com/depictions/?p=intelligentpass
