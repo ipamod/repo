@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.graphite</id>
+	<name>Graphite Library</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware(>=13.0)</package>
+	</dependencies>
+	<shortDescription> powerful library for iOS development.
+</shortDescription>
+	<descriptionlist>
+		<description> powerful library for iOS development.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>intelligentpass31.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>intelligentpass32.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

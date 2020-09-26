@@ -4010,3 +4010,35 @@ MD5sum: 3c3e2547360f2ba99e9e63e1221262a4
 SHA1: e150dcc4550c747545489b1ce1e529701e6b70d1
 SHA256: f4232a3977d02d174f56c50fdfbf577c558e4c163afc82f812fbdc56d86f9eb8
 Depiction: https://repo.ipamod.com/depictions/?p=icaughtuxii
+
+Package: com.ipamod.intelligentpass3
+Name: IntelligentPass 3
+Version: 1.2.2
+Description: Turn off password when not needed.
+Author: Geometric Software.
+Depends: mobilesubstrate, firmware(>=13.0), firmware(<<14.0), preferenceloader, com.ipamod.graphite
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.intelligentpass3_1.2.2.deb
+Size: 158710
+MD5sum: 532e93860496444b5e73b0fc1084acaf
+SHA1: 45e24e848d518bb7aca3821a769d2c114a3539f3
+SHA256: 1afad489113b1a80f48d97f44d7acfea44792233ef60a5ac0deb137a211aca63
+Depiction: https://repo.ipamod.com/depictions/?p=intelligentpass3
+
+Package: com.ipamod.graphite
+Name: Graphite Library
+Version: 1.1.2
+Description: powerful library for iOS development.
+Author: Geometric Software
+Depends: firmware(>=13.0)
+Section: Development
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.graphite_1.1.2.deb
+Size: 245654
+MD5sum: 6b96775bbae18c4e506d0c891c78e76a
+SHA1: de4f6d68a9a7badec01d24e378b610679646a2ec
+SHA256: f9fcbbeafbd487797fb1d18ce2802523b67474e3db87268b175697ba6c5c330d
+Depiction: https://repo.ipamod.com/depictions/?p=graphite
