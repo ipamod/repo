@@ -4058,3 +4058,19 @@ MD5sum: 63233a92f310dbd32abf456a46289ce9
 SHA1: f36a7884c99247b2d23a7716ffcd1d988b95a1ca
 SHA256: a40fd22894c970ea0ffcc1fce78b2e94465589d43706341e8c514e298965517d
 Depiction: https://repo.ipamod.com/depictions/?p=icontweak
+
+Package: com.ipamod.signal10
+Name: iOS 10 Signal
+Version: 1.1
+Description: Signal strength from iOS 10.
+Author: md.furman
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.signal10_1.1.deb
+Size: 1646314
+MD5sum: d9538bc7cd978b51251d8a15b27a19ca
+SHA1: e385324ed7565588cf22f2ea1c498173c19a385f
+SHA256: 83e623072cedcb7c0ada4a6d632083c0b28fcd3a8f6d46cdbb97e0df46e0cff1
+Depiction: https://repo.ipamod.com/depictions/?p=signal10
