@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.ipadstatusbar</id>
+	<name>iPadStatusBar</name>
+	<version>1.1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Status bar from iPad for all devices.
+</shortDescription>
+	<descriptionlist>
+		<description> Status bar from iPad for all devices.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>ipadstatusbar1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>idunnou2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -4090,3 +4090,19 @@ MD5sum: 83a6c613c08158d4288cbd2e1fc5e2b7
 SHA1: 6d3a7948edf7845c451f20969ae549114622c122
 SHA256: 80d2a9151222008c0cb5576b6584873624c82633f0c6b8226d52dfda3ca3db17
 Depiction: https://repo.ipamod.com/depictions/?p=idunnou
+
+Package: com.ipamod.ipadstatusbar
+Name: iPadStatusBar
+Version: 1.1.6
+Description: Status bar from iPad for all devices.
+Author: NoisyFlake
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ipadstatusbar_1.1.6.deb
+Size: 55012
+MD5sum: ff4560004360619c332c5ce1a4e5ce7b
+SHA1: 18cf5babb326aac51b03b6c75c4b5c02df5e3114
+SHA256: fbc6b4db91910f111d4d017c31bf39ad3fc4df00cb931a7ab1f7ff7784c21825
+Depiction: https://repo.ipamod.com/depictions/?p=ipadstatusbar
