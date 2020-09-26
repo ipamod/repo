@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.intelligentpass2</id>
+	<name>IntelligentPass 2</name>
+	<version>1.2.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware(>=12.0), preferenceloader, ru.rejail.libgraphite(>=2.2.2)</package>
+	</dependencies>
+	<shortDescription> Turn off password when not needed.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak will allow you to turn off the lock password under some conditions to choose from: when airplane mode is on, when charging, when playing music, at a given time and when connected to a specific WiFi network..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>intelligentpass21.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>hyperion2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -3978,3 +3978,19 @@ MD5sum: 06de50bf84dfd9bf5e58033e5210a23a
 SHA1: 6a4e5dd2b5939810a20cc253be500ac285c8979f
 SHA256: 8eb2ae345b93e0a3bf771c1d9c027f5049eac6a00db8987bc60d4af52fe474af
 Depiction: https://repo.ipamod.com/depictions/?p=iap26
+
+Package: com.ipamod.intelligentpass2
+Name: IntelligentPass 2
+Version: 1.2.2k
+Description: Turn off password when not needed.
+Author: Geometric Software.
+Depends: mobilesubstrate, firmware(>=12.0), preferenceloader, ru.rejail.libgraphite(>=2.2.2)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.intelligentpass2_1.2.2k.deb
+Size: 435260
+MD5sum: f340c34a7919c4b32fd60e98cee65b7a
+SHA1: bf921662b6de2b18cbc601575067f8313a22be1b
+SHA256: da815e1f0cf5c5246e422f690cd91b86a7501dc561b8396a23da89026d5a64aa
+Depiction: https://repo.ipamod.com/depictions/?p=intelligentpass2
