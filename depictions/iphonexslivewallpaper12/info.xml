@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.iphonexslivewallpaper12</id>
+	<name>iPhoneXS LiveWallpaper (iOS 12)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+	<shortDescription> Live wallpaper with iPhoneXS.
+</shortDescription>
+	<descriptionlist>
+		<description> Fully customizable dark mode for Instagram.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>iphonexslivewallpaper121.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>iphonexslivewallpaper122.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -4122,3 +4122,18 @@ MD5sum: f2b2359b790ed33c698a260bfbb50604
 SHA1: c2434ed0549e42b5d94a7aeb9d4f27481d8ba53b
 SHA256: 3ccb87be26a50d7674079db6b7b4e7010c4889bbfbeb8631b71e48b898935db4
 Depiction: https://repo.ipamod.com/depictions/?p=igdarkmode
+
+Package: com.ipamod.iphonexslivewallpaper12
+Name: iPhoneXS LiveWallpaper (iOS 12)
+Version: 1.0
+Description: Live wallpaper with iPhoneXS.
+Author: Вадим®️
+Section: Wallpaper
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.iphonexslivewallpaper12_1.0.deb
+Size: 18434772
+MD5sum: 17abcb61842c83c59b85d8b46f33d337
+SHA1: 762d6764226ed124cf94583dc02b6832dabff1a9
+SHA256: ab815cbd258061248370f23c995e760ecc2b04425918fdfd529cce0d8d39404d
+Depiction: https://repo.ipamod.com/depictions/?p=iphonexslivewallpaper12
