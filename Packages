@@ -3866,3 +3866,19 @@ MD5sum: ef1f74552cea7f42e72149c8806c0d02
 SHA1: da02e202379d558b0c305b32ff5dfb91c36874ad
 SHA256: dabd08380dd03a36aa982fe53eaf50482da25613e7fabecef3f780fa2a4c0244
 Depiction: https://repo.ipamod.com/depictions/?p=honey
+
+Package: com.ipamod.instalauncher2
+Name: InstaLauncher 2
+Version: 1.7.1
+Description: Quick launch of any application.
+Author: Jonathan Winger Lang <jontelang@gmail.com>.
+Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.instalauncher2_1.7.1.deb
+Size: 347108
+MD5sum: 6f01104ea375ac295a6d58df6df6920b
+SHA1: fe656cbcfbc2db1f7c7e77c1afeeca57d90ec400
+SHA256: f8403fa5f9923b4b51784a3bd030ba9b944e094e069b6ffa9325aa041ffb603b
+Depiction: https://repo.ipamod.com/depictions/?p=instalauncher2

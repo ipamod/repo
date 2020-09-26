@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.instalauncher2</id>
+	<name>InstaLauncher 2</name>
+	<version>1.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)</package>
+	</dependencies>
+	<shortDescription> Quick launch of any application.
+</shortDescription>
+	<descriptionlist>
+		<description> InstaLauncher 2 is the second version of the InstaLauncher tweak that opens your apps in milliseconds and also has a lot of customization options for the app list.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>instalauncher21.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>velaris2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
