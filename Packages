@@ -4074,3 +4074,19 @@ MD5sum: d9538bc7cd978b51251d8a15b27a19ca
 SHA1: e385324ed7565588cf22f2ea1c498173c19a385f
 SHA256: 83e623072cedcb7c0ada4a6d632083c0b28fcd3a8f6d46cdbb97e0df46e0cff1
 Depiction: https://repo.ipamod.com/depictions/?p=signal10
+
+Package: com.ipamod.idunnou
+Name: iDunnoU
+Version: 1.4.3
+Description: Protecting your Messages.
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.jacobcxdev.libjcx
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.idunnou_1.4.3.deb
+Size: 878248
+MD5sum: 83a6c613c08158d4288cbd2e1fc5e2b7
+SHA1: 6d3a7948edf7845c451f20969ae549114622c122
+SHA256: 80d2a9151222008c0cb5576b6584873624c82633f0c6b8226d52dfda3ca3db17
+Depiction: https://repo.ipamod.com/depictions/?p=idunnou
