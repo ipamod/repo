@@ -3930,3 +3930,19 @@ MD5sum: 681b289e0a9a6459807efe89ca0bab0e
 SHA1: 756c8eea03adf6c42ddf360a664b3ed408fcafd5
 SHA256: c09c45e8b0d1ae6713c1e945801a554957a2581fdb54a698b220e27f669acaeb
 Depiction: https://repo.ipamod.com/depictions/?p=intelix
+
+Package: com.ipamod.hyperion
+Name: Hyperion
+Version: 0.3.2-22k
+Description: OLED notifications.
+Author: Spark.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.hyperion_0.3.2-22k.deb
+Size: 2213648
+MD5sum: 1514a5409f16437f54b1f7341ecbef04
+SHA1: 00a99c4a3b0fb86ccd67c76a50c77449bae20ae9
+SHA256: 284c6061649b2e31a4bc5086ae9ca846990f2ce65de4a4e3513c6d160f727730
+Depiction: https://repo.ipamod.com/depictions/?p=hyperion

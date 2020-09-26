@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.hyperion</id>
+	<name>Hyperion</name>
+	<version>0.3.2-22k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> OLED notification.
+</shortDescription>
+	<descriptionlist>
+		<description> Customizable OLED notifications.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>hyperion1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>hyperion2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
