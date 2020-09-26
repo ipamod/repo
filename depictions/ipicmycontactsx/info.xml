@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.ipicmycontactsx</id>
+	<name>iPicMyContactsX</name>
+	<version>0.9-7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 12.0), mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Contact avatars in Contacts.
+</shortDescription>
+	<descriptionlist>
+		<description> Contact avatars in Contacts.
+Has no settings.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>iKeywi-4 (1).jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>iphonexslivewallpaper122.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

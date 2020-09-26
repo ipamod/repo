@@ -4153,3 +4153,19 @@ MD5sum: e339d6d0337147d46796bab663dc5f4f
 SHA1: b34150de2b19cc0ff0b51a0758cd2de1f14156c5
 SHA256: 615e29d08103817d164d7a5543706c0b9e4ff4079fe0da79087e6618c19ba643
 Depiction: https://repo.ipamod.com/depictions/?p=ikeywi4
+
+Package: com.ipamod.ipicmycontactsx
+Name: iPicMyContactsX
+Version: 0.9-7
+Description: Contact avatars in Contacts.
+Author: hAcx
+Depends: firmware (>= 12.0), mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ipicmycontactsx_0.9-7.deb
+Size: 9406
+MD5sum: 639752a808065f3f52dd3a55787feb8a
+SHA1: 3066ea7f4d9177ce1932b4776723e9c54e1a8c2c
+SHA256: b78b38b1c397238e9a270d16aa3acb84a68cfc26bbc5d76b67e508da79cad06f
+Depiction: https://repo.ipamod.com/depictions/?p=ipicmycontactsx
