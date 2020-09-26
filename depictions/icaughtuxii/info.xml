@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.icaughtuxii</id>
+	<name>iCaughtU 12</name>
+	<version>1.2.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 11.0), com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> The most advanced tweak to improve the protection of your device.
+</shortDescription>
+	<descriptionlist>
+		<description> ICaughtU 12 is the most advanced tweak to protect your device from theft.
+
+He has truly great potential. Among them:
+• Notification of an incorrectly entered password via SMS or e-mail
+• Taking a picture from the front camera when unlocking and trying to turn off your device
+• Notification of the location of the device and battery status
+• Protection of some switches in the Control Center from the possibility of shutdown
+• And more much more ...
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>icaughtuxii1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>icaughtuxii2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

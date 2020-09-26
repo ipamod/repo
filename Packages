@@ -3994,3 +3994,19 @@ MD5sum: f340c34a7919c4b32fd60e98cee65b7a
 SHA1: bf921662b6de2b18cbc601575067f8313a22be1b
 SHA256: da815e1f0cf5c5246e422f690cd91b86a7501dc561b8396a23da89026d5a64aa
 Depiction: https://repo.ipamod.com/depictions/?p=intelligentpass2
+
+Package: com.ipamod.icaughtuxii
+Name: iCaughtU 12
+Version: 1.2.0k
+Description: The most advanced tweak to improve the protection of your device.
+Author: Itay <support@itaysoft.com>.
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 11.0), com.rpetrich.rocketbootstrap
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.icaughtuxii_1.2.0k.deb
+Size: 557992
+MD5sum: 3c3e2547360f2ba99e9e63e1221262a4
+SHA1: e150dcc4550c747545489b1ce1e529701e6b70d1
+SHA256: f4232a3977d02d174f56c50fdfbf577c558e4c163afc82f812fbdc56d86f9eb8
+Depiction: https://repo.ipamod.com/depictions/?p=icaughtuxii
