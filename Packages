@@ -4042,3 +4042,19 @@ MD5sum: 6b96775bbae18c4e506d0c891c78e76a
 SHA1: de4f6d68a9a7badec01d24e378b610679646a2ec
 SHA256: f9fcbbeafbd487797fb1d18ce2802523b67474e3db87268b175697ba6c5c330d
 Depiction: https://repo.ipamod.com/depictions/?p=graphite
+
+Package: com.ipamod.icontweak
+Name: IconTweak
+Version: 1.0.9k
+Description: Application control by swiping on the icon.
+Author: ichitaso <willfeeltips+ict@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.icontweak_1.0.9k.deb
+Size: 170258
+MD5sum: 63233a92f310dbd32abf456a46289ce9
+SHA1: f36a7884c99247b2d23a7716ffcd1d988b95a1ca
+SHA256: a40fd22894c970ea0ffcc1fce78b2e94465589d43706341e8c514e298965517d
+Depiction: https://repo.ipamod.com/depictions/?p=icontweak
