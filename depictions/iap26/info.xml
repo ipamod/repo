@@ -1,19 +1,19 @@
 <package>
-	<id>com.ipamod.intelligentpass</id>
-	<name>IntelligentPass</name>
-	<version>1.2.2k</version>
+	<id>com.ipamod.iap26</id>
+	<name>iAP26</name>
+	<version>0.0.1-5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> mobilesubstrate, firmware(>=10.0), preferenceloader, cy+cpu.arm64, ru.rejail.libgraphite(>=2.2)</package>
+		<package> mobilesubstrate</package>
 	</dependencies>
-	<shortDescription> OLED notification.
+	<shortDescription> Hacking in-app purchases. Fully Electra compatible.
 </shortDescription>
 	<descriptionlist>
-		<description> The tweak will allow you to turn off the lock password under certain conditions to choose from: when airplane mode is on, when charging, when playing music, at a given time and when connected to a specific WiFi network..
+		<description> Hacking in-app purchases. Fully Electra compatible.
 </description>
 			</descriptionlist>
 	<screenshots>
