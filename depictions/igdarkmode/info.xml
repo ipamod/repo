@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.igdarkmode</id>
+	<name>IGDarkMode</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> Dark Mode for Instagram.
+</shortDescription>
+	<descriptionlist>
+		<description> Fully customizable dark mode for Instagram.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>igdarkmode1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>idunnou2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
