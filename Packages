@@ -3882,3 +3882,19 @@ MD5sum: 6f01104ea375ac295a6d58df6df6920b
 SHA1: fe656cbcfbc2db1f7c7e77c1afeeca57d90ec400
 SHA256: f8403fa5f9923b4b51784a3bd030ba9b944e094e069b6ffa9325aa041ffb603b
 Depiction: https://repo.ipamod.com/depictions/?p=instalauncher2
+
+Package: com.ipamod.hub
+Name: Hub
+Version: 1.1
+Description: Fast access and multitasking.
+Author: Dylan West <iosthemem0d@gmail.com>.
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), ws.hbang.alderis, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.hub_1.1.deb
+Size: 2272010
+MD5sum: 38755c9578335516302c71226634121d
+SHA1: 9decd1a5dc1fbf50a12985c8540088a3eef6a383
+SHA256: 6c9d80320b02fcf28be3bfc4e75ec1159c1a2085e4cfd3f384477c137922d716
+Depiction: https://repo.ipamod.com/depictions/?p=hub
