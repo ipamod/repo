@@ -3834,3 +3834,19 @@ MD5sum: d5f820e3bb8d4dcd6888648005ba55cf
 SHA1: ed644027ceb2e681103ed66d8d72508fa3397ff3
 SHA256: ea2cbefbfde9dce5a245a6c430707d309f74d0931236e208ab2954701c334310
 Depiction: https://repo.ipamod.com/depictions/?p=velaris
+
+Package: com.ipamod.magmaevo
+Name: Magma Evo
+Version: 2.0.6
+Description: Control center redesign.
+Author: Ben NoisyFlake.
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport (>= 1.2.3), com.spark.libsparkcolourpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.magmaevo_2.0.6.deb
+Size: 1519892
+MD5sum: 8aa1aac03de0554ea7e2ff52ce3cff40
+SHA1: fb262a12d7c99030f53aa2b5f7fbfc25c312db5d
+SHA256: 4a844109e5dce59e5846ccac3ae9c79a12ab3b18e922e56a70694eeb87111d7f
+Depiction: https://repo.ipamod.com/depictions/?p=magmaevo
