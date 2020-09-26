@@ -1,0 +1,42 @@
+<package>
+	<id>com.ipamod.honey</id>
+	<name>Honey</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Apple Watch interface for all devices.
+</shortDescription>
+	<descriptionlist>
+		<description> Honey includes 2 different icon styles and 3 background blur styles.
+Each icon automatically animates as you scroll, mimicking an Apple Watch animation.
+
+Honey Features:
+Quick access to all your applications.
+Beautiful watchOS animation.
+Different styles of blur background.
+Tactile feedback when launching applications.
+Possibility to enable / disable the dock menu.
+Compatible with themes, XenHTML widgets, and notification tweaks.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>honey1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>velaris2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

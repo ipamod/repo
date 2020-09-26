@@ -3850,3 +3850,19 @@ MD5sum: 8aa1aac03de0554ea7e2ff52ce3cff40
 SHA1: fb262a12d7c99030f53aa2b5f7fbfc25c312db5d
 SHA256: 4a844109e5dce59e5846ccac3ae9c79a12ab3b18e922e56a70694eeb87111d7f
 Depiction: https://repo.ipamod.com/depictions/?p=magmaevo
+
+Package: com.ipamod.honey
+Name: Honey
+Version: 1.0.2
+Description: Apple Watch interface for all devices.
+Author: Blake Boxberger.
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.honey_1.0.2.deb
+Size: 77378
+MD5sum: ef1f74552cea7f42e72149c8806c0d02
+SHA1: da02e202379d558b0c305b32ff5dfb91c36874ad
+SHA256: dabd08380dd03a36aa982fe53eaf50482da25613e7fabecef3f780fa2a4c0244
+Depiction: https://repo.ipamod.com/depictions/?p=honey
