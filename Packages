@@ -4137,3 +4137,19 @@ MD5sum: 17abcb61842c83c59b85d8b46f33d337
 SHA1: 762d6764226ed124cf94583dc02b6832dabff1a9
 SHA256: ab815cbd258061248370f23c995e760ecc2b04425918fdfd529cce0d8d39404d
 Depiction: https://repo.ipamod.com/depictions/?p=iphonexslivewallpaper12
+
+Package: com.ipamod.ikeywi4
+Name: iKeywi 4
+Version: 4.0.7
+Description: Adds a custom keyboard toolbar.
+Author: Hiraku <dev@hiraku.tw>
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ikeywi4_4.0.7.deb
+Size: 401948
+MD5sum: e339d6d0337147d46796bab663dc5f4f
+SHA1: b34150de2b19cc0ff0b51a0758cd2de1f14156c5
+SHA256: 615e29d08103817d164d7a5543706c0b9e4ff4079fe0da79087e6618c19ba643
+Depiction: https://repo.ipamod.com/depictions/?p=ikeywi4

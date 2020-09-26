@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.ikeywi4</id>
+	<name>iKeywi 4</name>
+	<version>4.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> preferenceloader, mobilesubstrate, firmware (>= 11.0), applist</package>
+	</dependencies>
+	<shortDescription> Adds a custom keyboard toolbar.
+</shortDescription>
+	<descriptionlist>
+		<description> iKeywi allows you to customize your iPhone keyboard to your liking.
+
+It has several important features. Among them:
+- Adding an additional row on top of the keyboard
+- Changing the height of the keys
+- Assigning additional keys by pressing several
+
+Tweek is compatible with HandyKey, ShowCase, SwipeSelection. Doesn't work on iPad!.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>iKeywi-4 (1).jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>iphonexslivewallpaper122.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
