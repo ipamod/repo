@@ -3375,18 +3375,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=gump
 
 Package: com.ipamod.haptickeys
 Name: HapticKeys.
-Version: 4.1
+Version: 4.2
 Description: Tactile feedback from keyboard and desktop icons
 Author: colecabral.
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common, firmware (>= 10.0)
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.haptickeys_4.1.deb
-Size: 89536
-MD5sum: 8614b0634d370d4d67c4b1163634962c
-SHA1: 6978fcb355f9198b30ed822122a867b6de075026
-SHA256: a8b5d6330a665a069e23b7df43eadccc6bfd672660850bf6233a0f92ecbb25a1
+Filename: ./debs/com.ipamod.haptickeys_4.2.deb
+Size: 94664
+MD5sum: 11ac5307d1b889178340e1db8d4f633f
+SHA1: 36e7ba97c40f6395d26291db4e038179b3fc0c6f
+SHA256: 8812179794597c2ab6b9c6d1eb6ce2e18f9c12c5c9ce34ee9223d6a969724907
 Depiction: https://repo.ipamod.com/depictions/?p=haptickeys
 
 Package: com.ipamod.gameplayer
