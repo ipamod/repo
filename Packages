@@ -2975,18 +2975,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=facespro
 
 Package: com.ipamod.eclipse13
 Name: Eclipse for iOS 13.
-Version: 7.3
+Version: 7.3.1
 Description: Change and improve the stock Dark Mode
 Author: Guillermo Morán (fr0st).
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.eclipse13_7.3.deb
-Size: 1731378
-MD5sum: f93f62d659327f2ebe9dccddc012df0d
-SHA1: 4526df9cfceabff2ff95fec771fbe5c82e0e09c3
-SHA256: bc8a05f5d6cb73e4b43da6d06eb94eadcb72000a78b7a13fb2cd59824214200e
+Filename: ./debs/com.ipamod.eclipse13_7.3.1.deb
+Size: 1735968
+MD5sum: f6468a1e1695c6d5253804cc8b7aef3e
+SHA1: ed84b1cb9940616e5dad52dfe0b76c51bd1fc197
+SHA256: 66bce68cad7cff0a7166408965ff0f0e7f1b70c18088240d09af9c2aee6bac1c
 Depiction: https://repo.ipamod.com/depictions/?p=eclipse13
 
 Package: com.ipamod.fastdel
