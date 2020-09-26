@@ -3818,3 +3818,19 @@ MD5sum: c95b987b63ed19815a739c26f8235a96
 SHA1: 3c2d2f479845596ea9cd1e7bc405b80ec6c435e8
 SHA256: 64f541b6491efc64bf898fb4637b2ab0024ee43f30b2257d35e535cfa12f1cd9
 Depiction: https://repo.ipamod.com/depictions/?p=instaulxi
+
+Package: com.ipamod.velaris
+Name: Velaris
+Version: 1.0.0k
+Description: Home screen calendar and weather widgets.
+Author: Ben Giannis.
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.velaris_1.0.0k.deb
+Size: 1775162
+MD5sum: d5f820e3bb8d4dcd6888648005ba55cf
+SHA1: ed644027ceb2e681103ed66d8d72508fa3397ff3
+SHA256: ea2cbefbfde9dce5a245a6c430707d309f74d0931236e208ab2954701c334310
+Depiction: https://repo.ipamod.com/depictions/?p=velaris

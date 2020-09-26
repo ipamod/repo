@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.velaris</id>
+	<name>Velaris</name>
+	<version>1.0.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Home screen calendar and weather widgets.
+</shortDescription>
+	<descriptionlist>
+		<description> Velaris will show you weather information and calendar events right on your home screen.
+All information is by default located at the top of the screen above the icons.
+Everything is in front of your eyes in the form of a carousel: calendar events, reminders, alarms.
+By scrolling, you can see the events of the next 7 days.
+Weather conditions and calendar events are updated automatically throughout the day and display the latest information.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>velaris1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>velaris2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
