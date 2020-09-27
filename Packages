@@ -4169,3 +4169,19 @@ MD5sum: 639752a808065f3f52dd3a55787feb8a
 SHA1: 3066ea7f4d9177ce1932b4776723e9c54e1a8c2c
 SHA256: b78b38b1c397238e9a270d16aa3acb84a68cfc26bbc5d76b67e508da79cad06f
 Depiction: https://repo.ipamod.com/depictions/?p=ipicmycontactsx
+
+Package: com.ipamod.ncontrol
+Name: nControl
+Version: 1.7.5-33
+Description: Connecting a joystick to your device.
+Author: Kevin Bradley & Luca Todesco
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ncontrol_1.7.5-33.deb
+Size: 1123002
+MD5sum: e55e386008e7bfe36d85c88d32415f10
+SHA1: 9e9cd14e3b8da57bd04561ba0dedd7f62d37f382
+SHA256: eec3af2c7d41b74a95db751e2f0e2e58e877d619265fd15718ab6770c58303e5
+Depiction: https://repo.ipamod.com/depictions/?p=ncontrol
