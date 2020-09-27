@@ -4217,3 +4217,18 @@ MD5sum: a072d56e25c1cde376c553e1fcba980c
 SHA1: cb280f55c41ff74fe5ce6dd8a505d168966ac420
 SHA256: c4b9db80aa31b82c90b73298832a5a953352b3c97c6c635a07a527ca067612f8
 Depiction: https://repo.ipamod.com/depictions/?p=applist
+
+Package: com.ipamod.libcscolorpicker
+Name: libCSColorPicker
+Version: 1.0.3
+Description: A minimal color picker library for developers.
+Author: CreatureSurvive <repo@hackyouriphone.org>
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.libcscolorpicker_1.0.3.deb
+Size: 148536
+MD5sum: ced3fc96b8969f3735da966a32334eaf
+SHA1: 07b5a7a9c9a3e6bf4288c4b114670cd7256f638b
+SHA256: c3733c4e5b4397d8d5220da1c44fa2574e4d06332731a1d3264ea03888bb88d2
+Depiction: https://repo.ipamod.com/depictions/?p=libcscolorpicker
