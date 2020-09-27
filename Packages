@@ -2352,18 +2352,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=datameter
 
 Package: com.ipamod.crane
 Name: Crane.
-Version: 1.0.2
+Version: 1.0.4
 Description: Multi-containers (multi-accounts) for applications
 Author: opa334.
 Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.crane_1.0.2.deb
-Size: 340632
-MD5sum: 4e49b5fb6185056272fa1cbfb8a464d9
-SHA1: c6599c2bce5aeeade38b6e04bf77a4d4aefe6e6d
-SHA256: aa06fab05976edfaf6b7f1e5bccc6b69b9636290800bdaecad0c379990975809
+Filename: ./debs/com.ipamod.crane_1.0.4.deb
+Size: 325958
+MD5sum: 723f97876794034105b2be5428430eed
+SHA1: cc837b13ca27a8503e452d70b192ddd226d91ed7
+SHA256: a508387377a9a141df461056a981f91a4517f4ac0fef483a6006387392080315
 Depiction: https://repo.ipamod.com/depictions/?p=crane
 
 Package: com.ipamod.dayn
