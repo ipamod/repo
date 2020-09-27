@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.shortmoji</id>
+	<name>Shortmoji</name>
+	<version>4.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist | com.ipamod.applist, com.creaturesurvive.libcscolorpicker | com.ipamod.libcscolorpicker</package>
+	</dependencies>
+	<shortDescription> The ultimate keyboard tweak that iOS never had..
+</shortDescription>
+	<descriptionlist>
+		<description> The ultimate keyboard tweak that iOS never had.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

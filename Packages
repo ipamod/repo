@@ -4185,3 +4185,19 @@ MD5sum: e55e386008e7bfe36d85c88d32415f10
 SHA1: 9e9cd14e3b8da57bd04561ba0dedd7f62d37f382
 SHA256: eec3af2c7d41b74a95db751e2f0e2e58e877d619265fd15718ab6770c58303e5
 Depiction: https://repo.ipamod.com/depictions/?p=ncontrol
+
+Package: com.ipamod.shortmoji
+Name: Shortmoji
+Version: 4.0.1
+Description: The ultimate keyboard tweak that iOS never had.
+Author: MiRO <repo@hackyouriphone.org>
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist | com.ipamod.applist, com.creaturesurvive.libcscolorpicker | com.ipamod.libcscolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.shortmoji_4.0.1.deb
+Size: 1558396
+MD5sum: 45ff3811ccb10282d638a1a8818028d9
+SHA1: ce6f584051175ed7f40b504f6d9eb1729cd55cff
+SHA256: f35ff27ebff5e1dafa2920a2115d3b2e450d4d17e37245b00e1f545400d0c463
+Depiction: https://repo.ipamod.com/depictions/?p=shortmoji
