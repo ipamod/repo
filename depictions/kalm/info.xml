@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.kalm</id>
+	<name>Kalm</name>
+	<version>2.2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 12.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Lock screen redesign.
+</shortDescription>
+	<descriptionlist>
+		<description> Kalm is a beautiful first sight when you look at your device. It&#039;s soft, it&#039;s modern, it&#039;s clean  always tinted in your wallpapers colors so it fits right in. WeatherKalm shows the current weather on your lockscreen for eithe.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kalm0.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>kalm2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

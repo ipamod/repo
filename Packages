@@ -4280,3 +4280,19 @@ MD5sum: 408cfd1612fcb7516e9cc1d826c498a5
 SHA1: b6288dc55bc2529b7cda3b15d7a85520670cfcb5
 SHA256: b3367178a2e1eddfa39092e7c655751f1d43ddb5f58b235323537ef04c0cc4d7
 Depiction: https://repo.ipamod.com/depictions/?p=yobunpro
+
+Package: com.ipamod.kalm
+Name: Kalm
+Version: 2.2.0
+Description: Lock screen redesign.
+Author: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.kalm_2.2.0.deb
+Size: 388472
+MD5sum: 6e69404b0ea1f8bce237aa5b83ed985d
+SHA1: 1dc548dbbb9761b6562d43a373ec5f88c923e687
+SHA256: 84f0260d130e1bf8da301edc58b59c69e8a68c908ad797c5ec0362b8d441d90c
+Depiction: https://repo.ipamod.com/depictions/?p=kalm
