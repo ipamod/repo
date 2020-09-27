@@ -1,0 +1,46 @@
+<package>
+	<id>com.ipamod.yobunpro</id>
+	<name>Yobun Pro</name>
+	<version>3.7k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Managing the processes of your device.
+</shortDescription>
+	<descriptionlist>
+		<description> Swipe up with two fingers on the home screen to bring up the control menu.
+Features Yobun Pro:
+• Switch the dark / light mode of the system.
+• IP WiFi monitoring.
+• Fast and easy respring.
+• LDRestart.
+• Entering safe mode.
+• Clearing the cache.
+• Geolocation management, WiFi and Bluetooth.
+• Monitoring of RAM.
+
+Download button skins to "/ var / mobile / Documents / yobunpro".
+
+ATTENTION! The LDRestart function is NOT available for users of devices with A12 and A13 processors.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>yobunpro1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>mediabar2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -4264,3 +4264,19 @@ MD5sum: a63e6b148d041ce508a4b8d7fed72dfa
 SHA1: ebf1cf74ab0fb3d7393c720da569d2ebfb86b971
 SHA256: dda67f4aa159490b0ff451e5db55573c4d3e178a69aae3999da8bd1a2969389a
 Depiction: https://repo.ipamod.com/depictions/?p=mediabar
+
+Package: com.ipamod.yobunpro
+Name: Yobun Pro
+Version: 3.7k
+Depends: mobilesubstrate
+Description: Managing the processes of your device.
+Author: Plat-Ykor <plat-ykor@libero.it>
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.yobunpro_3.7k.deb
+Size: 623070
+MD5sum: 408cfd1612fcb7516e9cc1d826c498a5
+SHA1: b6288dc55bc2529b7cda3b15d7a85520670cfcb5
+SHA256: b3367178a2e1eddfa39092e7c655751f1d43ddb5f58b235323537ef04c0cc4d7
+Depiction: https://repo.ipamod.com/depictions/?p=yobunpro
