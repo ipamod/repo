@@ -4248,3 +4248,19 @@ MD5sum: 66513aa229ab4e81fd6af0f4ad27680b
 SHA1: 1e3b1807c77f543cbdd31b7aea042e9044b0e859
 SHA256: bf36085d7b5f2a2341f9c99a05510a39c899cf54925599a5c1fb48b05f418df2
 Depiction: https://repo.ipamod.com/depictions/?p=rocketbootstrap
+
+Package: com.ipamod.mediabar
+Name: MediaBar
+Version: 1.1
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader
+Description: Control your music directly from the HomeBar.
+Author: MegaDev
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.mediabar_1.1.deb
+Size: 878930
+MD5sum: a63e6b148d041ce508a4b8d7fed72dfa
+SHA1: ebf1cf74ab0fb3d7393c720da569d2ebfb86b971
+SHA256: dda67f4aa159490b0ff451e5db55573c4d3e178a69aae3999da8bd1a2969389a
+Depiction: https://repo.ipamod.com/depictions/?p=mediabar
