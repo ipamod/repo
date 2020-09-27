@@ -4232,3 +4232,19 @@ MD5sum: ced3fc96b8969f3735da966a32334eaf
 SHA1: 07b5a7a9c9a3e6bf4288c4b114670cd7256f638b
 SHA256: c3733c4e5b4397d8d5220da1c44fa2574e4d06332731a1d3264ea03888bb88d2
 Depiction: https://repo.ipamod.com/depictions/?p=libcscolorpicker
+
+Package: com.ipamod.rocketbootstrap
+Name: RocketBootstrap
+Version: 1.0.7~beta3
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Description: Support library allowing tweaks to communicate with sandboxed processes.
+Author: Ryan Petrich
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.rocketbootstrap_1.0.7~beta3.deb
+Size: 67516
+MD5sum: 66513aa229ab4e81fd6af0f4ad27680b
+SHA1: 1e3b1807c77f543cbdd31b7aea042e9044b0e859
+SHA256: bf36085d7b5f2a2341f9c99a05510a39c899cf54925599a5c1fb48b05f418df2
+Depiction: https://repo.ipamod.com/depictions/?p=rocketbootstrap
