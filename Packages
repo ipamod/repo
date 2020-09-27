@@ -4201,3 +4201,19 @@ MD5sum: 45ff3811ccb10282d638a1a8818028d9
 SHA1: ce6f584051175ed7f40b504f6d9eb1729cd55cff
 SHA256: f35ff27ebff5e1dafa2920a2115d3b2e450d4d17e37245b00e1f545400d0c463
 Depiction: https://repo.ipamod.com/depictions/?p=shortmoji
+
+Package: com.ipamod.applist
+Name: AppList
+Version: 1.5.15~beta1
+Description: Allow extensions to read the list of installed apps.
+Author: Ryan Petrich <repo@hackyouriphone.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap | com.ipamod.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.applist_1.5.15~beta1.deb
+Size: 186412
+MD5sum: a072d56e25c1cde376c553e1fcba980c
+SHA1: cb280f55c41ff74fe5ce6dd8a505d168966ac420
+SHA256: c4b9db80aa31b82c90b73298832a5a953352b3c97c6c635a07a527ca067612f8
+Depiction: https://repo.ipamod.com/depictions/?p=applist

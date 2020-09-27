@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.applist</id>
+	<name>AppList</name>
+	<version>1.5.15~beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap | com.ipamod.rocketbootstrap (>= 1.0.7~beta3) 
+	</dependencies>
+	<shortDescription> Allow extensions to read the list of installed apps.
+</shortDescription>
+	<descriptionlist>
+		<description> Allow extensions to read the list of installed apps.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
