@@ -4328,3 +4328,19 @@ MD5sum: 914260045554abe650eab81d1aa8ef9a
 SHA1: bbe8539f6050e8172bc26a59dbafc3d5052d8ef0
 SHA256: 3df6b3fae2af7e8cfcf0a3e84b2302cf2cb2af2770ce34d4783acefc62697062
 Depiction: https://repo.ipamod.com/depictions/?p=lendmyphone
+
+Package: com.ipamod.libgraphite
+Name: libgraphite
+Version: 2.2.4
+Description: powerful library for iOS development
+Author: Geometric Software
+Depends: firmware (>= 10.0)
+Section: Development
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.libgraphite_2.2.4.deb
+Size: 396074
+MD5sum: 402d312c9a0dc6f21f9cf24ee2bd6af8
+SHA1: a78d20455e29c1b367acc628f53ca85c688d1433
+SHA256: 5e9fc110fd5ffb35148c694d3b8f2cd9d8e77fe04533374458f0cebd8d057b07
+Depiction: https://repo.ipamod.com/depictions/?p=libgraphite
