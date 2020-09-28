@@ -4344,3 +4344,19 @@ MD5sum: 402d312c9a0dc6f21f9cf24ee2bd6af8
 SHA1: a78d20455e29c1b367acc628f53ca85c688d1433
 SHA256: 5e9fc110fd5ffb35148c694d3b8f2cd9d8e77fe04533374458f0cebd8d057b07
 Depiction: https://repo.ipamod.com/depictions/?p=libgraphite
+
+Package: com.ipamod.cputoolfree
+Name: CPUTool
+Version: 1.3
+Description: CPUTool, ultra battery saving tweak, is the first CPU/GPU underclocking tweak for iOS!
+Author: Packix
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.cputoolfree_1.3.deb
+Size: 274560
+MD5sum: 5e65ebb92b8ac1053ca8ddc6461ca866
+SHA1: 6b1e3ebd97cffbbd891fbb1eba76ea59920988c3
+SHA256: b5cde6908d7eec179420a6170251423b72568a7e4cb412b12f4639412b92cf47
+Depiction: https://repo.ipamod.com/depictions/?p=cputoolfree

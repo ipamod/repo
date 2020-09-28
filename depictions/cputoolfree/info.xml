@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.cputoolfree</id>
+	<name>CPUTool</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> CPUTool, ultra battery saving tweak, is the first CPU/GPU underclocking tweak for iOS!
+</shortDescription>
+	<descriptionlist>
+		<description> CPUTool, ultra battery saving tweak, is the first CPU/GPU underclocking tweak for iOS!
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>cputool.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>lendmyphone2.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
