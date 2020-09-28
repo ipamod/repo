@@ -4296,3 +4296,19 @@ MD5sum: 6e69404b0ea1f8bce237aa5b83ed985d
 SHA1: 1dc548dbbb9761b6562d43a373ec5f88c923e687
 SHA256: 84f0260d130e1bf8da301edc58b59c69e8a68c908ad797c5ec0362b8d441d90c
 Depiction: https://repo.ipamod.com/depictions/?p=kalm
+
+Package: com.ipamod.iris
+Name: Iris
+Version: 1.1.2
+Description: Adds features to iMessage.
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0), ws.hbang.alderis
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.iris_1.1.2.deb
+Size: 936730
+MD5sum: 1528472f3fb7854b2400e762974ae0c2
+SHA1: 6f53a9f184b441e3e4df623a2c6d22a7a8de5ed0
+SHA256: 4af5304f79300e07457cf1cad5a22b02f2afd41dc6abab2277d71bbca9453d99
+Depiction: https://repo.ipamod.com/depictions/?p=iris

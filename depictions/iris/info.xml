@@ -1,0 +1,46 @@
+<package>
+	<id>com.ipamod.iris</id>
+	<name>Kalm</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware (>= 13.0), com.jacobcxdev.libjcx (>= 1.1.0), ws.hbang.alderis</package>
+	</dependencies>
+	<shortDescription> Adds features to iMessage.
+</shortDescription>
+	<descriptionlist>
+		<description> SOME FEATURES:
+Swipe right on a conversation to hide / show
+Swipe right on a conversation to lock / unblock
+Swipe left on a conversation to pin / unpin
+Reorder conversations
+Mark conversations
+Change
+3D / Haptic conversation markers to conversation to mark her
+Protect hidden conversations with Face Face, Touch ID or a password
+Switch between different lists using the Iris button or activation actions
+Automatically hide messages from unknown senders
+Automatically sync all lists in iCloud
+Switch quickly between conversations
+... and much, much more!.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>iris1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>iris2.jpg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
