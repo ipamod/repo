@@ -1,0 +1,63 @@
+<package>
+	<id>com.ipamod.n95</id>
+	<name>N95</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Mask for customizing album covers in various music services
+</shortDescription>
+	<descriptionlist>
+		<description> The following music services are supported:
+Apple Music
+Spotify
+Pandora
+Tidal
+YouTube Music
+Marvis
+Deezer
+Anghami Third
+
+party tweaks supported:
+Flow
+Next Up 2
+
+The following themes are featured (more in future updates):
+“Apple Watch” by MTAC
+“BlakiPod” by Boots
+“Diagonal” by Ethan Whited
+“Faded” by Ethan Whited
+“MacBook” by Ethan Whited
+“Nametag” by Ethan Whited
+“PushPin” by Ethan Whited
+“Ripped” by Ethan Whited
+“Splat” by Ethan Whited
+“WhiteiPod” by Ethan Whited
+“iMac” by Ethan Whited
+“iPhone ”By Ethan Whited
+“iPhoneAirpods” by Ethan Whited
+"VintageTV" by ⢈『ƘîИᎶ 』⢈
+"ColorfulSquare" by ⢈『ƘîИᎶ 』⢈
+"BrokenGlass" by ⢈『ƘîИᎶ 』⢈
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>n951.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>n952.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
