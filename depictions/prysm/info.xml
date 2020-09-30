@@ -1,0 +1,53 @@
+<package>
+	<id>com.ipamod.prysm</id>
+	<name>Prysm</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport</package>
+	</dependencies>
+	<shortDescription> Control center redesign
+</shortDescription>
+	<descriptionlist>
+		<description> • Modules
+
+Prysm includes several modules that can be removed and reordered on the settings page.
+Available modules include:
+- Communication module
+- Volume and brightness sliders.
+- Quick access module.
+- Music widget
+- Weather widget.
+The quick access module responds to your existing control room configuration. It supports all small switch modules. All modules not placed in the quick access module can be found by swiping up the Prysm control room.
+
+• Haptic Touch
+
+Most Prysm modules support Haptic Touch. Just tap and hold on an item to reveal advanced content. Haptic Touch is also supported on most of the buttons activated through the iOS control point configuration.
+
+• Gestures
+Prysm provides new means of access to the control center. Just swipe up from the bottom corners of your device, or use a standard gesture, to access Prysm just like you would at a normal control room.
+
+• Bar status widgets
+
+You can easily see the most important information using the status bar widgets. The indicator cluster (iOS 13+) and battery widget are located above the Prysm map and are instantly updated.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
