@@ -4440,3 +4440,19 @@ MD5sum: 3e98c512aed2a122eea6eed7913bde62
 SHA1: ef41b558ece15720ec81fa0f17ef0e5e182a6364
 SHA256: 9935366c4de882d6be8fac070cb667459d1298ba6b21372e8f555e5b84778ae2
 Depiction: https://repo.ipamod.com/depictions/?p=lendmyphone2
+
+Package: com.ipamod.jellyfish
+Name: Jellyfish
+Version: 1.5.1
+Description: Lock screen redesign
+Author: Justin Proulx and Ayden Panhuyzen
+Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.jellyfish_1.5.1.deb
+Size: 66886
+MD5sum: 31524fcacf719dae01e5e3e6d5132fda
+SHA1: 92dde6f6d18c390226850112c16e5b7f93d57fc0
+SHA256: e5e2a8062b9fd7c4069673fb5465fc5173933507bca3f2b6b94d5a22793ccbb7
+Depiction: https://repo.ipamod.com/depictions/?p=jellyfish

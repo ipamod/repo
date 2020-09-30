@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.jellyfish</id>
+	<name>Jellyfish</name>
+	<version>1.5.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> Lock screen redesign
+</shortDescription>
+	<descriptionlist>
+		<description> Lock screen redesign.
+
+Not compatible with Lockplus Pro.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>jellyfish1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
