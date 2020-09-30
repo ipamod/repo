@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.jumper</id>
+	<name>Jumper</name>
+	<version>2.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.1), ws.hbang.common (>= 1.12), com.rpetrich.rocketbootstrap (>= 1.0.9), applist, unzip, com.a3tweaks.flipswitch (>= 1.0.16~beta7)</package>
+	</dependencies>
+	<shortDescription> Launch applications from the lock screen
+</shortDescription>
+	<descriptionlist>
+		<description> Jumper will add iPhone X-style buttons to the lock screen, which can be configured to launch applications and turn modules on / off.
+
+Not compatible with HomeGesture and LittleXS.
+
+If you get the missing dependencies error, add the https://creaturecoding.com/repo/ repository.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>jumper1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
