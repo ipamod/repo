@@ -4488,3 +4488,19 @@ MD5sum: 6610901a01db7e6ac79d29ef7c4aa692
 SHA1: 3e67d5b2e2d8a5116267f3d85779c3b4e048f064
 SHA256: aab3892696bd976bf8389a46770081ecbac446aa7e8fb904a4b223846d280da0
 Depiction: https://repo.ipamod.com/depictions/?p=jumper
+
+Package: com.ipamod.kai
+Name: Kai
+Version: 1.2.1k
+Description: Battery level of Bluetooth devices on the lock screen.
+Author: burrit0z <carsondzielinski@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.kai_1.2.1k.deb
+Size: 227564
+MD5sum: d682668be4a1abe0b7354f3d02eb05c5
+SHA1: 9c9441b186f91794902a0fd232fe99781fb6c54c
+SHA256: a545d3d8ab950bd4cb5a914e76a86803ff7ffd170243f50b9aefdcf60ca1b842
+Depiction: https://repo.ipamod.com/depictions/?p=kai

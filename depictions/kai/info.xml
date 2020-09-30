@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.kai</id>
+	<name>Kai</name>
+	<version>1.2.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)</package>
+	</dependencies>
+	<shortDescription> Battery level of Bluetooth devices on the lock screen.
+</shortDescription>
+	<descriptionlist>
+		<description> Kai provides information about the battery level of paired Bluetooth devices in the form of widgets.
+Just by looking at the lock screen, you can get information about the charge level of your AppleWatch, AirPods and AirPods Case.
+Kai works with many lock screen customization tweaks: Kalm, Grupi, Axon, Quart, Complications, Watermelon, Veza, QuickLS, Jellyfish among them.
+Kai's advanced settings allow you to customize your widgets.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
