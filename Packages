@@ -4424,3 +4424,19 @@ MD5sum: b87c967a625559271415db6bd6d2eaac
 SHA1: b718f3e07671389093991537a1c1d95c3bdeb633
 SHA256: 0be4eab3f270a56a1db7232a2b3bde37f96c2ea1bb503eb84ce7dc418172803d
 Depiction: https://repo.ipamod.com/depictions/?p=prysm
+
+Package: com.ipamod.lendmyphone2
+Name: LendMyPhone 2
+Version: 1.1.2k
+Description: Guest system mode
+Author: Geometric Software
+Depends: mobilesubstrate, com.ipamod.libgraphite(>=2.2), firmware(>=12.0), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lendmyphone2_1.1.2k.deb
+Size: 7256772
+MD5sum: 3e98c512aed2a122eea6eed7913bde62
+SHA1: ef41b558ece15720ec81fa0f17ef0e5e182a6364
+SHA256: 9935366c4de882d6be8fac070cb667459d1298ba6b21372e8f555e5b84778ae2
+Depiction: https://repo.ipamod.com/depictions/?p=lendmyphone2
