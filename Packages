@@ -4504,3 +4504,18 @@ MD5sum: d682668be4a1abe0b7354f3d02eb05c5
 SHA1: 9c9441b186f91794902a0fd232fe99781fb6c54c
 SHA256: a545d3d8ab950bd4cb5a914e76a86803ff7ffd170243f50b9aefdcf60ca1b842
 Depiction: https://repo.ipamod.com/depictions/?p=kai
+
+Package: com.ipamod.Darkviola
+Name: Viola Dark
+Version: 1.9.3
+Description: The dark side of Viola!
+Author: Bousrih <bousrih20@gmail.com>
+Section: Themes
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.Darkviola_1.9.3.deb
+Size: 40871258
+MD5sum: b2ea2766a4331da4f49afa3d6856407f
+SHA1: 649008a89ca684baf370baa90a02507bc153a4cb
+SHA256: 191090c414aee49e4fdfb85f10f990e9675fa328b553ebba58c1de0e67d17ff1
+Depiction: https://repo.ipamod.com/depictions/?p=Darkviola
