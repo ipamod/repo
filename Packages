@@ -4392,3 +4392,19 @@ MD5sum: 836e73f5ceea43df28e30951067fa0d6
 SHA1: b513bce628f4315b3038d78ba5fdbf571400a030
 SHA256: 2503119c617feacd852c968602590ec87c024ff142c676239be1bc833f400791
 Depiction: https://repo.ipamod.com/depictions/?p=n95
+
+Package: com.ipamod.bigbangx
+Name: BigBangX
+Version: 1.3.0k
+Description: Search, translate and combine selected text in the clipboard from different applications
+Author: EVAN
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Section: System
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.bigbangx_1.3.0k.deb
+Size: 577268
+MD5sum: 32b71a805d249b32aefc2f3194fb3d89
+SHA1: 484dae10e4f43d8fe165bac34d23782f3edc2725
+SHA256: bf10cb26623990a2cd6b0ee7136f7a76689ae75a3d91b5d638ac1c42d962c600
+Depiction: https://repo.ipamod.com/depictions/?p=bigbangx

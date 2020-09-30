@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.bigbangx</id>
+	<name>BigBangX</name>
+	<version>1.3.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> Search, translate and combine selected text in the clipboard from different applications
+</shortDescription>
+	<descriptionlist>
+		<description> Sometimes you need to combine selected parts of text (or separate words) from different applications into a single whole.
+Or you need to see the translation of only part of the copied text.
+And sometimes, select individual words from the entire copied text and see their definitions or use them to navigate in the browser.
+BigBangX will help you with this.
+Huge functionality: working with the clipboard, text recognition, URL schemes, Activator support and calling functions through the control center.
+
+Doesn't support iOS12.
+Doesn't support iPad.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>bigbangx1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>bigbangx2.png</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
