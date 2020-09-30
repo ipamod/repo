@@ -4456,3 +4456,19 @@ MD5sum: 31524fcacf719dae01e5e3e6d5132fda
 SHA1: 92dde6f6d18c390226850112c16e5b7f93d57fc0
 SHA256: e5e2a8062b9fd7c4069673fb5465fc5173933507bca3f2b6b94d5a22793ccbb7
 Depiction: https://repo.ipamod.com/depictions/?p=jellyfish
+
+Package: com.ipamod.lendmyphone3
+Name: LendMyPhone 3
+Version: 1.0.1
+Description: Guest system mode
+Author: Geometric Software
+Depends: mobilesubstrate, com.ipamod.graphite(>=1.1.1), firmware(>=13.0), firmware(<<14.0), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lendmyphone3_1.0.1.deb
+Size: 7200898
+MD5sum: d74df320e6021867a1f9b1a3e5386448
+SHA1: 1671c385b9b6cf53647ad2328f10935d2227f654
+SHA256: 8b44d5c827ce5f1d5f7dae97310c5331f14305b77f0ae1efa38d230a6b4f3070
+Depiction: https://repo.ipamod.com/depictions/?p=lendmyphone3
