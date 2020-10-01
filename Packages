@@ -4519,3 +4519,19 @@ MD5sum: b2ea2766a4331da4f49afa3d6856407f
 SHA1: 649008a89ca684baf370baa90a02507bc153a4cb
 SHA256: 191090c414aee49e4fdfb85f10f990e9675fa328b553ebba58c1de0e67d17ff1
 Depiction: https://repo.ipamod.com/depictions/?p=Darkviola
+
+Package: com.ipamod.beta
+Name: Liberty Lite (Beta)
+Version: 0.2.12
+Description: Hides jailbreak from various applications (including banking)
+Author: Ryley Angus
+Depends: mobilesubstrate, preferenceloader, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.beta_0.2.12.deb
+Size: 82488
+MD5sum: b6ea79f9bbabf7162f0e95109ee17b84
+SHA1: a713a09be99035f17b58d76debd5c8d6aab91104
+SHA256: 192eeac40101547816ff72b057827b9043ae1b38a8dd472252a806b0f843d6bb
+Depiction: https://repo.ipamod.com/depictions/?p=beta
