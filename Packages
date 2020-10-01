@@ -4535,3 +4535,19 @@ MD5sum: b6ea79f9bbabf7162f0e95109ee17b84
 SHA1: a713a09be99035f17b58d76debd5c8d6aab91104
 SHA256: 192eeac40101547816ff72b057827b9043ae1b38a8dd472252a806b0f843d6bb
 Depiction: https://repo.ipamod.com/depictions/?p=beta
+
+Package: com.ipamod.keyboardplus
+Name: Keyboard Plus
+Version: 1.0.1
+Description: Additional keyboard functions
+Author: Ryan Nair
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.keyboardplus_1.0.1.deb
+Size: 75676
+MD5sum: b17ac54d299b3ef3eadabe89f582e7aa
+SHA1: bdb07f87ecd2f520d13250d15c669e6bc53799c4
+SHA256: 2d6d696e3f83f35f9116357c62da03921c87749de708568ada44bbdbb4172d40
+Depiction: https://repo.ipamod.com/depictions/?p=keyboardplus
