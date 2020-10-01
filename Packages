@@ -4567,3 +4567,19 @@ MD5sum: 999ad4d79b2878b096a8a96111d15c8e
 SHA1: 7cd7822d9fc61f0041211d4e5614b552ba5330e7
 SHA256: 4996b6933eacff48a22cf3aa6cf49d3f031bab49437917b03f456222fa8acfb1
 Depiction: https://repo.ipamod.com/depictions/?p=lithiumion
+
+Package: com.ipamod.keyswipe11
+Name: KeySwipe (iOS 11)
+Version: 1.0.2-3a
+Description: Switch keyboard with swipes
+Author: Delewhopper, julioverne
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.keyswipe11_1.0.2-3a.deb
+Size: 16804
+MD5sum: d7912e90b9cb8091f0da0365e30f779d
+SHA1: ce0598dadb4aec2c65970d9f5ac67e5a2164176b
+SHA256: 3b8813e0ccacad3af1575ad3391e2b7cde733f2006804ba2fce41fef70d35020
+Depiction: https://repo.ipamod.com/depictions/?p=keyswipe11
