@@ -4583,3 +4583,19 @@ MD5sum: d7912e90b9cb8091f0da0365e30f779d
 SHA1: ce0598dadb4aec2c65970d9f5ac67e5a2164176b
 SHA256: 3b8813e0ccacad3af1575ad3391e2b7cde733f2006804ba2fce41fef70d35020
 Depiction: https://repo.ipamod.com/depictions/?p=keyswipe11
+
+Package: com.ipamod.livephotofornon3dtouch
+Name: LivePhotoForNon3DTouch
+Version: 1.0.0-23
+Description: Live wallpapers for unsupported devices
+Author: anima
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.livephotofornon3dtouch_1.0.0-23.deb
+Size: 36764
+MD5sum: e218869db59fec7cb0cfb97de3b398c6
+SHA1: 3f3f0127493000103897d702d0f361494be40359
+SHA256: aab87abd1344d54941728e1da3b27226a9bcbb58d6b2190b5545de2acbb473e8
+Depiction: https://repo.ipamod.com/depictions/?p=livephotofornon3dtouch

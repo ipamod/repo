@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.livephotofornon3dtouch</id>
+	<name>LivePhotoForNon3DTouch</name>
+	<version>1.0.0-23</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Live wallpapers for unsupported devices.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak adds the usual support for "live" wallpapers for unsupported devices (iPhone 6/6 Plus / SE).
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
