@@ -4599,3 +4599,19 @@ MD5sum: e218869db59fec7cb0cfb97de3b398c6
 SHA1: 3f3f0127493000103897d702d0f361494be40359
 SHA256: aab87abd1344d54941728e1da3b27226a9bcbb58d6b2190b5545de2acbb473e8
 Depiction: https://repo.ipamod.com/depictions/?p=livephotofornon3dtouch
+
+Package: com.ipamod.killbackground13
+Name: KillBackground13
+Version: 1.0.6k
+Description: Easily close all apps in multitasking
+Author: ichitaso <willfeeltips+kb13@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.killbackground13_1.0.6k.deb
+Size: 165138
+MD5sum: de9576059f0ab63ba3738d72b50fe47a
+SHA1: 0de572e7e92a4b3a56fdbf58afeeccdfee4cca2a
+SHA256: b0d49549ccc8fff51163e505f66aee9ee5020b5ffcbd6d98c89cf0cf5f2e9c92
+Depiction: https://repo.ipamod.com/depictions/?p=killbackground13

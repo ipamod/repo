@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.killbackground13</id>
+	<name>KillBackground13</name>
+	<version>1.0.6k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Easily close all apps in multitasking
+</shortDescription>
+	<descriptionlist>
+		<description> Swipe on the application card to close all applications.
+Also available:
+• Auto-close multitasking • Exclude
+applications
+• Close the application with the PU button
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
