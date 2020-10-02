@@ -4647,3 +4647,35 @@ MD5sum: b6adadd1acb0e3445e6652d13ec1cc78
 SHA1: 01c8d899296cabc094702256d723fcdee484d823
 SHA256: 08724f6fe8d02395cf0ba7cb76eaa727feebc92c7e34fbfb2317fd4df8d783db
 Depiction: https://repo.ipamod.com/depictions/?p=killmyapps
+
+Package: com.ipamod.lockdock
+Name: LockDock
+Version: 1.0.5
+Description: Dock menu on the lock screen
+Author: Blake Boxberger
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lockdock_1.0.5.deb
+Size: 63982
+MD5sum: b898cb11be4c9179f125f34b9a23c430
+SHA1: b96c08526f1ff9acb829ea2bc5760016db91e89b
+SHA256: 4e05c1d2b8d912b273e9fd43221eee7e306521b85c1a6154010381ef2dbfffa6
+Depiction: https://repo.ipamod.com/depictions/?p=lockdock
+
+Package: com.ipamod.killx
+Name: KillX Pro
+Version: 2.1.2k
+Description: Close apps with swipe down
+Author: cemck
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.killx_2.1.2k.deb
+Size: 256802
+MD5sum: 0e559858e93b386d53efb2afe6009b7a
+SHA1: bc1731d761680ca15d6a18bd332b2b34b29ebc13
+SHA256: d96eb35c0a0a8773757b6afe1b2d0d42057a1caf51b308a5dc585ee2bb2b4dbb
+Depiction: https://repo.ipamod.com/depictions/?p=killx
