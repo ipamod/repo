@@ -4679,3 +4679,35 @@ MD5sum: 0e559858e93b386d53efb2afe6009b7a
 SHA1: bc1731d761680ca15d6a18bd332b2b34b29ebc13
 SHA256: d96eb35c0a0a8773757b6afe1b2d0d42057a1caf51b308a5dc585ee2bb2b4dbb
 Depiction: https://repo.ipamod.com/depictions/?p=killx
+
+Package: com.ipamod.lockglyphxi
+Name: LockGlyph XI
+Version: 11.2
+Description: Adding Apple Pay animation to the lock screen
+Author: mur1sd3v
+Depends: org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lockglyphxi_11.2.deb
+Size: 117698
+MD5sum: 8d662b99c828311ca66e5d559e37c3d8
+SHA1: 48bf27d6689d453e6205fdbf4f0c82201ebd9623
+SHA256: c8b6acf15eac707404baa1b2ded6e6b11b169bfdb5216daee9bb618113387991
+Depiction: https://repo.ipamod.com/depictions/?p=lockglyphxi
+
+Package: com.ipamod.lockpluspro
+Name: LockPlus Pro
+Version: 1.9.4k
+Description: Lock screen widget manager
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lockpluspro_1.9.4k.deb
+Size: 22120580
+MD5sum: 0738e2c5303c12332db3b3e6f0438ded
+SHA1: 58d796dee6010b09c14cf7a58649b567848c4eb1
+SHA256: feaba0a3ac46a723a5ca035bc97f9a81b9b1852fed32936a1f0da04b6ba01f21
+Depiction: https://repo.ipamod.com/depictions/?p=lockpluspro
