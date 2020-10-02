@@ -4615,3 +4615,19 @@ MD5sum: de9576059f0ab63ba3738d72b50fe47a
 SHA1: 0de572e7e92a4b3a56fdbf58afeeccdfee4cca2a
 SHA256: b0d49549ccc8fff51163e505f66aee9ee5020b5ffcbd6d98c89cf0cf5f2e9c92
 Depiction: https://repo.ipamod.com/depictions/?p=killbackground13
+
+Package: com.ipamod.lockapps
+Name: LockApps
+Version: 2.0k
+Description: Protecting apps with Face ID and Touch ID
+Author: Azozz ALFiras
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lockapps_2.0k.deb
+Size: 570728
+MD5sum: 8c36913d893ef678c45102efb3bcb870
+SHA1: c9d93e73e3bfb58ba9faa9cd062177cfa64eef14
+SHA256: d908bb95b7f0da9df4bec9765bb2d694e8618e45f015d2ef46666ecfd890e4ff
+Depiction: https://repo.ipamod.com/depictions/?p=lockapps
