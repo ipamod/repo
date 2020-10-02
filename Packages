@@ -4711,3 +4711,35 @@ MD5sum: 0738e2c5303c12332db3b3e6f0438ded
 SHA1: 58d796dee6010b09c14cf7a58649b567848c4eb1
 SHA256: feaba0a3ac46a723a5ca035bc97f9a81b9b1852fed32936a1f0da04b6ba01f21
 Depiction: https://repo.ipamod.com/depictions/?p=lockpluspro
+
+Package: com.ipamod.latchkey
+Name: LatchKey
+Version: 2.1.2
+Description: Set up Face ID on the lock screen
+Author: Maxwell Dausch <max.dausch@gmail.com>be
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.latchkey_2.1.2.deb
+Size: 7616548
+MD5sum: 1a756201a4dd8b6f88a48e15e3445e7e
+SHA1: e4e7099b85d1e37b0e692970f09da6cdd4b936f5
+SHA256: 3b7cf7c0d11c50a9fa35ab6d2aa236a268c8af8f42ccecaa5921a16b40fee063
+Depiction: https://repo.ipamod.com/depictions/?p=latchkey
+
+Package: com.ipamod.lockwidgets
+Name: LockWidgets v2
+Version: 2.0
+Description: Add the widgets you want to your lock screen
+Author: ConorTheDev <con0r.b@protonmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lockwidgets_2.0.deb
+Size: 117200
+MD5sum: 52c8b12805441acdcbf4ef625c90e671
+SHA1: 75fc4e22b2f9dc07d5b4890631e4c880150c5e85
+SHA256: 7b475a81afe5d01801dd65c1fc18cad08f607a588cae394c8f5be5f1f3c1efdc
+Depiction: https://repo.ipamod.com/depictions/?p=lockwidgets

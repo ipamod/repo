@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.lockwidgets</id>
+	<name>LockWidgets v2</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware (>= 13.0)</package>
+	</dependencies>
+	<shortDescription> Add the widgets you want to your lock screen
+</shortDescription>
+	<descriptionlist>
+		<description> Add the widgets you want to the lock screen.
+Version 2 does not support ios12 at this time.
+
+The settings are Russified.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
