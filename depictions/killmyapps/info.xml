@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.killmyapps</id>
+	<name>KillMyApps</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Unloading applications from multitasking
+</shortDescription>
+	<descriptionlist>
+		<description> Unloads applications when the device is locked or exited.
+Choose between blacklist or whitelist (blacklist unloads selected apps when locked, and whitelist unloads all apps except selected apps).
+Works great on iOS 12+..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

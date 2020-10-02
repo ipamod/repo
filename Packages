@@ -4631,3 +4631,19 @@ MD5sum: 8c36913d893ef678c45102efb3bcb870
 SHA1: c9d93e73e3bfb58ba9faa9cd062177cfa64eef14
 SHA256: d908bb95b7f0da9df4bec9765bb2d694e8618e45f015d2ef46666ecfd890e4ff
 Depiction: https://repo.ipamod.com/depictions/?p=lockapps
+
+Package: com.ipamod.killmyapps
+Name: KillMyApps
+Version: 1.0.6
+Description: Unloading applications from multitasking
+Author: smokin1337 <smokin1337@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.killmyapps_1.0.6.deb
+Size: 390182
+MD5sum: b6adadd1acb0e3445e6652d13ec1cc78
+SHA1: 01c8d899296cabc094702256d723fcdee484d823
+SHA256: 08724f6fe8d02395cf0ba7cb76eaa727feebc92c7e34fbfb2317fd4df8d783db
+Depiction: https://repo.ipamod.com/depictions/?p=killmyapps
