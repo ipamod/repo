@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.lucidcambars</id>
+	<name>LucidCamBars</name>
+	<version>0.001</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Fully transparent chamber
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak removes the black background in the camera from the top and bottom, making it completely transparent.
+Has no settings, no screenshots.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

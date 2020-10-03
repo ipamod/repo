@@ -4791,3 +4791,51 @@ MD5sum: ad63d7393bdee7b759ebb11c0bf73916
 SHA1: a4629d4ee8dcc5286d9f15372cb695b1cc12ebb3
 SHA256: 4c853071d0bde0a320781acb6c56048012eb4873900df781dd890d4766b9af8c
 Depiction: https://repo.ipamod.com/depictions/?p=lsreplacecam
+
+Package: com.ipamod.messagecolors
+Name: MessageColors
+Version: 1.5
+Description: Dark Mode in Color Gradient Posts
+Author: RestiveConch <restiveconch@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.messagecolors_1.5.deb
+Size: 38390
+MD5sum: 4db77d29555babfc7833c4a61a5ee547
+SHA1: 12d0543a1aef50f6ac293b4b620eff0877ff2f3d
+SHA256: f45517df5862cb543b24891d675ef1f9ed9fd80f2fc9db6566a7198c7352d48c
+Depiction: https://repo.ipamod.com/depictions/?p=messagecolors
+
+Package: com.ipamod.lucidcambars
+Name: LucidCamBars
+Version: 0.001
+Description: Fully transparent chamber
+Author: Antique <boernai290@gmail.com
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lucidcambars_0.001.deb
+Size: 5452
+MD5sum: 70c07de5d92d61336b47d72025b8fdfa
+SHA1: 6624f3066f10936f074c72517e2d1fd493c8be25
+SHA256: c9d575b050fc1e84f5358d614ce4f05f6d9678e02a8ec0792d24e34cfa0d2ec5
+Depiction: https://repo.ipamod.com/depictions/?p=lucidcambars
+
+Package: com.ipamod.microplayer12
+Name: MicroPlayer12
+Version: 0.0.9
+Description: Convenient music control from the entire system
+Author: Kane Buckthorpe
+Depends: mobilesubstrate, com.kaneb.kbpreferences, com.kaneb.kbapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.microplayer12_0.0.9.deb
+Size: 296714
+MD5sum: 4770007fe8ccbfa95f9756a8492631c6
+SHA1: b1c85882afbf2d407666ed74c3fe2dde895fc08e
+SHA256: 2b9d419d14e4ad288089b34fdc90deb2205a0f5d11df8fe303829029faab0c02
+Depiction: https://repo.ipamod.com/depictions/?p=microplayer12
