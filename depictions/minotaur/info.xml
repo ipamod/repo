@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipamod.minotaur</id>
+	<name>Minotaur</name>
+	<version>1.1.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Status bar notifications for your machine
+</shortDescription>
+	<descriptionlist>
+		<description> Minotaur gives easy access to notifications from anywhere in the system and applications.
+For those who remember the old Confero tweak, Minotaur is a modernized and adapted version for iOS13.
+
+Supports all iOS13 devices, whether old or new iPhones or iPads.
+
+Thanks to all sorts of customization options, Minotaur will fit into any custom system design without any rejection.
+- Dark and light theme.
+- Adaptive painting of badges.
+- Ability to hide notification banners.
+- Works great with ColorBadges and ColorBanners.
+- Ability to replace the location icon when the Minotaur icon is active.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

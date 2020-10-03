@@ -4903,3 +4903,35 @@ MD5sum: 9162888b47dfd145e96315c9ea9a256c
 SHA1: 76480b34d3b210221342e27d386f7d311cbdf496
 SHA256: 99930692b877e152618f2f04e2a356041e29575380fd5c3cd0de630dd0bea471
 Depiction: https://repo.ipamod.com/depictions/?p=mikoto
+
+Package: com.ipamod.minotaur
+Name: Minotaur
+Version: 1.1.1k
+Description: Status bar notifications for your machine
+Author: Muirey03
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.minotaur_1.1.1k.deb
+Size: 224754
+MD5sum: d30e35328f44047a9294b20ab1ef9e8d
+SHA1: 522ed115ac25b9c6a6c57acb818ff1c116aec722
+SHA256: 3b6daef7cc7c630c7ef7932b5871d0d383a07e9ea0b92fcd43813c500192dc1d
+Depiction: https://repo.ipamod.com/depictions/?p=minotaur
+
+Package: com.ipamod.magmapro
+Name: Magma Pro
+Version: 1.4.1
+Description: Setting the color of modules in the control room
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.magmapro_1.4.1.deb
+Size: 121222
+MD5sum: 14bf253abaffbd5ab22874f6260a8a12
+SHA1: 217df835e510362c8d8b0cf90161d056886401c0
+SHA256: dfbb263b53f01ff5b7ccf97ac1af7fdf6ac083c0853d904d419a93b846903236
+Depiction: https://repo.ipamod.com/depictions/?p=magmapro
