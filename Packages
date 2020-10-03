@@ -4839,3 +4839,35 @@ MD5sum: 4770007fe8ccbfa95f9756a8492631c6
 SHA1: b1c85882afbf2d407666ed74c3fe2dde895fc08e
 SHA256: 2b9d419d14e4ad288089b34fdc90deb2205a0f5d11df8fe303829029faab0c02
 Depiction: https://repo.ipamod.com/depictions/?p=microplayer12
+
+Package: com.ipamod.lynx
+Name: Lynx
+Version: 1.8.1
+Description: Fine-tuning your device
+Author: MTAC <mtactheming@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lynx_1.8.1.deb
+Size: 1026460
+MD5sum: f15391be96479efac733bf8b56f0471e
+SHA1: ad95cf531ac7a60f51b0fba396589a1babeab242
+SHA256: e9e2639d7bfd9397cc7a3e73803e93632012188d8eb1c47455b336579c163085
+Depiction: https://repo.ipamod.com/depictions/?p=lynx
+
+Package: com.ipamod.midevice
+Name: MiDevice
+Version: 2.0.0-3
+Description: Many settings for your device
+Author: DODGraphics
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.midevice_2.0.0-3.deb
+Size: 224168
+MD5sum: 8172e405bec2b14cff08983d3719fff7
+SHA1: bd884d6651e078fbb9d265258ff7e3c8768ade05
+SHA256: d3c12d36e0d2d3e5f433f1e7d2ac56c6fb36e1b65eeb4791318c657c3b91493b
+Depiction: https://repo.ipamod.com/depictions/?p=midevice

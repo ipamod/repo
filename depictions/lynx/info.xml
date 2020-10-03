@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.lynx</id>
+	<name>Lynx</name>
+	<version>1.8.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker</package>
+	</dependencies>
+	<shortDescription> Fine-tuning your device
+</shortDescription>
+	<descriptionlist>
+		<description> ATTENTION!
+Not compatible with iOS12!
+
+With Lynx, you can hide items you don't need or activate new items on the Home screen, Lock screen, Multitasking, Control Center, and Widget Pages. Also available to customize factory apps - Messages, Photos, Settings, Camera, Phone, and some third-party apps - Instagram, YouTube, SoundCloud and Spotify.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
