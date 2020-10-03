@@ -5047,3 +5047,19 @@ MD5sum: 462484ab102cce80e7157dcdc6e480e9
 SHA1: d6359c1345d74cd2c3b2a584fb24256b4ee516ca
 SHA256: d2f12c94fe15fb1b176774b94a9a5d860daf07daf4894b6ab6ca50a8bcefbe9c
 Depiction: https://repo.ipamod.com/depictions/?p=modernize
+
+Package: com.ipamod.maple2
+Name: Maple 2
+Version: 1.3.2
+Description: Widget and animation of charging devices like on AirPower
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, org.thebigboss.libcolorpicker, net.limneos.libbulletin
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.maple2_1.3.2.deb
+Size: 40446588
+MD5sum: 69d8ab37bdc33479a77f49ce679cfb47
+SHA1: 68a087113d07dc7b642adee655d360cf0ec164f9
+SHA256: b5e229c023fb782e64024626550f233f6d93f0aea3d4ff39892529d07f48a967
+Depiction: https://repo.ipamod.com/depictions/?p=maple2

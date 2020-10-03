@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.maple2</id>
+	<name>Maple 2</name>
+	<version>1.3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.laughingquoll.prefixui, org.thebigboss.libcolorpicker, net.limneos.libbulletin</package>
+	</dependencies>
+	<shortDescription> Widget and animation of charging devices like on AirPower
+</shortDescription>
+	<descriptionlist>
+		<description> Widget and animation of charging devices like on AirPower. IOS 13 only.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
