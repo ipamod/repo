@@ -4935,3 +4935,19 @@ MD5sum: 14bf253abaffbd5ab22874f6260a8a12
 SHA1: 217df835e510362c8d8b0cf90161d056886401c0
 SHA256: dfbb263b53f01ff5b7ccf97ac1af7fdf6ac083c0853d904d419a93b846903236
 Depiction: https://repo.ipamod.com/depictions/?p=magmapro
+
+Package: com.ipamod.miscsettings
+Name: MiscSettings
+Version: 2.4.2
+Description: Small analogue of Springtomize
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.miscsettings_2.4.2.deb
+Size: 88190
+MD5sum: 321d3f543c7963604de8b0ec0a11af0e
+SHA1: 6dc0a3deef339926186f378e88be26137eec0638
+SHA256: 422869fb67e4c64f4d09c167e8f0a2a7fc630a0e81a37a8a0c1f030f774032a0
+Depiction: https://repo.ipamod.com/depictions/?p=miscsettings
