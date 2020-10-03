@@ -5127,3 +5127,35 @@ MD5sum: e0c2241eb0f3474f69335c19cb0f6475
 SHA1: 11781c311d9330c1f0c2fecd5cdfbb414b49d594
 SHA256: 16d45d08a71f1df4344895c9ef2a7bc99d70f580a6b43fa6fe54f4228837d722
 Depiction: https://repo.ipamod.com/depictions/?p=modulus
+
+Package: com.ipamod.meltedcrayons
+Name: MeltedCrayons
+Version: 1.0.7
+Description: Color your music with the cover color
+Author: bermudalocket <twickd@eigenstuff.net>
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.meltedcrayons_1.0.7.deb
+Size: 41974
+MD5sum: c3938318f34b7c59512f3123e6426703
+SHA1: 6a36b8fcb373b64d86e72b4058914c4ddf3bc839
+SHA256: c2fbbafe114409c6f2b94c20ec4f906a2b5accf0bd6840ff9b6f1e0955d84452
+Depiction: https://repo.ipamod.com/depictions/?p=meltedcrayons
+
+Package: com.ipamod.moonshine
+Name: Moonshine
+Version: 1.3.1
+Description: Charging animation
+Author: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 11.0), mobilesubstrate, com.laughingquoll.prefixui, preferenceloader, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.moonshine_1.3.1.deb
+Size: 100024
+MD5sum: a53f137d3d33bc1e9e64876cf64a8c63
+SHA1: e394162e557877a3f369c39fbe28a9b1dae98cfa
+SHA256: 3d18f1fb9f8ee37a1d733d22490bc86bb4301e6918a783829bbac301f1fe9bff
+Depiction: https://repo.ipamod.com/depictions/?p=moonshine
