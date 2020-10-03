@@ -4983,3 +4983,19 @@ MD5sum: 648ddf2e181189bfdc159502500b7821
 SHA1: 3b038e95ebe368d708513a220dea1322a5ad356a
 SHA256: 6a959c53f2de4f6addf6b3dbad500a6d215e47f64e4c27954afad008db035dc7
 Depiction: https://repo.ipamod.com/depictions/?p=missioncontrol
+
+Package: com.ipamod.makemehappycydia
+Name: MakeMeHappyCydia
+Version: 1.0.1
+Description: Colorize cydia
+Author: Networke
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, firmware (>= 12.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.makemehappycydia_1.0.1.deb
+Size: 29108
+MD5sum: b3f54ccc873c477f1ccd7bdd053293fa
+SHA1: 63bcbf370a5942d5c7890b0b99ddd6e0c1074564
+SHA256: ab928f633a65d9efadb5cf517431667fc771e0ebfe9098dd644df4c0597f5e5c
+Depiction: https://repo.ipamod.com/depictions/?p=makemehappycydia
