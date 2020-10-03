@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.lower</id>
+	<name>Lower</name>
+	<version>1.2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=11.0)</package>
+	</dependencies>
+	<shortDescription> Change the height of notifications on iOS 11
+</shortDescription>
+	<descriptionlist>
+		<description> Change the height of the music player and notifications on the iOS 11 lock screen..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -4743,3 +4743,19 @@ MD5sum: 52c8b12805441acdcbf4ef625c90e671
 SHA1: 75fc4e22b2f9dc07d5b4890631e4c880150c5e85
 SHA256: 7b475a81afe5d01801dd65c1fc18cad08f607a588cae394c8f5be5f1f3c1efdc
 Depiction: https://repo.ipamod.com/depictions/?p=lockwidgets
+
+Package: com.ipamod.lower
+Name: Lower
+Version: 1.2.2
+Description: Change the height of notifications on iOS 11
+Author: s1ris
+Depends: mobilesubstrate, firmware (>=11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lower_1.2.2.deb
+Size: 16072
+MD5sum: b115f97a21b86f21d273304d188a0993
+SHA1: 98f567593ec7e96fc4fddcd09be81e26263ee454
+SHA256: 79f59a99afbc52a5eb759b07c1821a80dbd8c96147c7871cdb5315da261434af
+Depiction: https://repo.ipamod.com/depictions/?p=lower
