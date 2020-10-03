@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.magma</id>
+	<name>Magma</name>
+	<version>1.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker</package>
+	</dependencies>
+	<shortDescription> Changing the color of modules in PU
+</shortDescription>
+	<descriptionlist>
+		<description> Tweak allows you to customize the color of the modules to your taste (alternative to BetterCCIconPro)
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

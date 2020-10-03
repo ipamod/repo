@@ -4871,3 +4871,35 @@ MD5sum: 8172e405bec2b14cff08983d3719fff7
 SHA1: bd884d6651e078fbb9d265258ff7e3c8768ade05
 SHA256: d3c12d36e0d2d3e5f433f1e7d2ac56c6fb36e1b65eeb4791318c657c3b91493b
 Depiction: https://repo.ipamod.com/depictions/?p=midevice
+
+Package: com.ipamod.magma
+Name: Magma
+Version: 1.0.4
+Description: Changing the color of modules in PU
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.magma_1.0.4.deb
+Size: 85008
+MD5sum: cd878841d300d8f545a70b4aa3902d7f
+SHA1: ab8e33fdf8c2c88332762d19bed862500f89276b
+SHA256: 7e2fe333bfbff47760c42b6306895408d967e3a37e9b8f1f001884bdfae735af
+Depiction: https://repo.ipamod.com/depictions/?p=magma
+
+Package: com.ipamod.mikoto
+Name: mikoto
+Version: 4.0.3
+Description: System settings and some applications from the App Store
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.mikoto_4.0.3.deb
+Size: 11872180
+MD5sum: 9162888b47dfd145e96315c9ea9a256c
+SHA1: 76480b34d3b210221342e27d386f7d311cbdf496
+SHA256: 99930692b877e152618f2f04e2a356041e29575380fd5c3cd0de630dd0bea471
+Depiction: https://repo.ipamod.com/depictions/?p=mikoto
