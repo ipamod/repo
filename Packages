@@ -4775,3 +4775,19 @@ MD5sum: cdfd6b46c8b701e4dd68f80a60b04ef8
 SHA1: 362f34f878a1d8547693102b19a7c79566dfd31e
 SHA256: 79da8bdeb333f47d61d58ad66d4f34deda7bf8952ad8a981fd63e6639af50b11
 Depiction: https://repo.ipamod.com/depictions/?p=messagebubbles
+
+Package: com.ipamod.lsreplacecam
+Name: LSReplaceCam
+Version: 1.0
+Description: Change the camera on the lock screen to any other application
+Author: dunkston
+Depends: mobilesubstrate, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lsreplacecam_1.0.deb
+Size: 6722
+MD5sum: ad63d7393bdee7b759ebb11c0bf73916
+SHA1: a4629d4ee8dcc5286d9f15372cb695b1cc12ebb3
+SHA256: 4c853071d0bde0a320781acb6c56048012eb4873900df781dd890d4766b9af8c
+Depiction: https://repo.ipamod.com/depictions/?p=lsreplacecam
