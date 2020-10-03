@@ -5031,3 +5031,19 @@ MD5sum: 28181f760326e9b3a049f43bd4eb9d49
 SHA1: 361e7057b145c38c943b19c7834dd172888f9364
 SHA256: fb5a2588120de2463327f4ad1e9a9bda487b42e36b41c495367053f58ab1b445
 Depiction: https://repo.ipamod.com/depictions/?p=maple
+
+Package: com.ipamod.modernize
+Name: Modernize
+Version: 2.0k
+Description: Upgrading your device
+Author: TylerD3V
+Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>= 1.13), com.creaturecoding.libcspreferences (>=1.2.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.modernize_2.0k.deb
+Size: 343360
+MD5sum: 462484ab102cce80e7157dcdc6e480e9
+SHA1: d6359c1345d74cd2c3b2a584fb24256b4ee516ca
+SHA256: d2f12c94fe15fb1b176774b94a9a5d860daf07daf4894b6ab6ca50a8bcefbe9c
+Depiction: https://repo.ipamod.com/depictions/?p=modernize

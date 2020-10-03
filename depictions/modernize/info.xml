@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.modernize</id>
+	<name>Modernize</name>
+	<version>2.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=11.0), ws.hbang.common (>= 1.13), com.creaturecoding.libcspreferences (>=1.2.0)</package>
+	</dependencies>
+	<shortDescription> Upgrading your device
+</shortDescription>
+	<descriptionlist>
+		<description> Modernize lets you change the shutdown menu, volume window, hide Today from the home screen and lock screen, and hide the beta update window.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
