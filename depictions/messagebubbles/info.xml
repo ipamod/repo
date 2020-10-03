@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.messagebubbles</id>
+	<name>MessageBubbles</name>
+	<version>0.2.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo, com.rpetrich.rocketbootstrap (>= 1.0.3)</package>
+	</dependencies>
+	<shortDescription> New kind of notifications
+</shortDescription>
+	<descriptionlist>
+		<description> New kind of notifications.
+
+About activation:
+After installation and respring, you should receive any notification to see the activation notification. After that, go to Settings - MessageBubbles and enable the tweak if it is disabled or disable / enable it if it is enabled
+
+About activation:
+After installation and respring, you should receive any notification to see activation message. After that, go to Settings - MessageBubbles and enable tweak if it is disabled or re-enable if it is already enabled.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

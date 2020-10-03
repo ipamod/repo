@@ -4759,3 +4759,19 @@ MD5sum: b115f97a21b86f21d273304d188a0993
 SHA1: 98f567593ec7e96fc4fddcd09be81e26263ee454
 SHA256: 79f59a99afbc52a5eb759b07c1821a80dbd8c96147c7871cdb5315da261434af
 Depiction: https://repo.ipamod.com/depictions/?p=lower
+
+Package: com.ipamod.messagebubbles
+Name: MessageBubbles
+Version: 0.2.2k
+Description: New kind of notifications
+Author: Kurrt <dev@kurrt.com>
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.messagebubbles_0.2.2k.deb
+Size: 127406
+MD5sum: cdfd6b46c8b701e4dd68f80a60b04ef8
+SHA1: 362f34f878a1d8547693102b19a7c79566dfd31e
+SHA256: 79da8bdeb333f47d61d58ad66d4f34deda7bf8952ad8a981fd63e6639af50b11
+Depiction: https://repo.ipamod.com/depictions/?p=messagebubbles
