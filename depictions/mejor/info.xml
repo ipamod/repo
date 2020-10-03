@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.mejor</id>
+	<name>Mejor</name>
+	<version>1.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Additional settings for applications
+</shortDescription>
+	<descriptionlist>
+		<description> Adds additional settings (video downloader, ad blocker, etc.) for SnapChat, YouTube, Instagram, Twitter, Facebook, WhatsApp, etc.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

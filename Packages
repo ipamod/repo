@@ -5095,3 +5095,19 @@ MD5sum: 87b6b5f69f03a1643f1af079e26ea734
 SHA1: c166f031be23b2820ef3c6b6bee77eeab7f223ce
 SHA256: 8d8832a37f07aed7995d00a2eea128ea354d8704b83f706087e0b4b70cbc0c88
 Depiction: https://repo.ipamod.com/depictions/?p=modernxi
+
+Package: com.ipamod.mejor
+Name: Mejor
+Version: 1.3k
+Description: Additional settings for applications
+Author: Azozz ALFiras
+Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.mejor_1.3k.deb
+Size: 1905620
+MD5sum: ebebc75c76695a2c7818a923d5358abb
+SHA1: de0f2a6cc00ec62799b4884e78bc3355d8d6888d
+SHA256: fb422cd50aba4ddba0ab46c5a51cd2e2cb38e229de70a74a8387027fead682e4
+Depiction: https://repo.ipamod.com/depictions/?p=mejor
