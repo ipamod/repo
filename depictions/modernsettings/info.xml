@@ -1,0 +1,48 @@
+<package>
+	<id>com.ipamod.modernsettings</id>
+	<name>ModernSettings</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.14), ws.hbang.alderis, com.muirey03.libimagepicker</package>
+	</dependencies>
+	<shortDescription> Widgets and Modules in System Preferences
+</shortDescription>
+	<descriptionlist>
+		<description> Add various modules and widgets to system Preferences.
+-Module with photo
+-Battery widget -Storage widget
+-Communication
+and power module -Information module
+about your phone
+-You can change the name of some sections of the system Settings directly in the tweak
+
+COMPATIBLE with:
+iOS 13
+iOS 12
+iPhone SE (2nd generation), 6, 6 Plus, 6S, 6S Plus, 7, 7 Plus, 8, 8 Plus, X, XR, XS, XS Max, 11, 11 Pro and 11 Pro Max
+
+NOT COMPATIBLE with:
+iPhone SE (1st generation) and all models before iPhone 6
+iPad (PLANNED).
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
