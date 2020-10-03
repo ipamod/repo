@@ -4967,3 +4967,19 @@ MD5sum: 519b072c721d3459d6a8ff30c38bdb1f
 SHA1: 6d23275b04597f9c81761ffa0f4b5daf64e40010
 SHA256: 8e532c58fe5aeac2794052723441b72daba458aee2f5fc0909cfb0bd3218f90e
 Depiction: https://repo.ipamod.com/depictions/?p=makecydiabuyagain
+
+Package: com.ipamod.missioncontrol
+Name: MissionControl
+Version: 3.0k
+Description: Additional modules for control room
+Author: Dylan Duff
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, me.conorthedev.libappearancecell, applist, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.missioncontrol_3.0k.deb
+Size: 5071648
+MD5sum: 648ddf2e181189bfdc159502500b7821
+SHA1: 3b038e95ebe368d708513a220dea1322a5ad356a
+SHA256: 6a959c53f2de4f6addf6b3dbad500a6d215e47f64e4c27954afad008db035dc7
+Depiction: https://repo.ipamod.com/depictions/?p=missioncontrol
