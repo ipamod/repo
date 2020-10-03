@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.makecydiabuyagain</id>
+	<name>MakeCydiaBuyAgain</name>
+	<version>1.0.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Includes package purchases in Cydia on iOS 11
+</shortDescription>
+	<descriptionlist>
+		<description> Includes package purchases in Cydia on iOS 11
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

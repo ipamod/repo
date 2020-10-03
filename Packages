@@ -4951,3 +4951,19 @@ MD5sum: 321d3f543c7963604de8b0ec0a11af0e
 SHA1: 6dc0a3deef339926186f378e88be26137eec0638
 SHA256: 422869fb67e4c64f4d09c167e8f0a2a7fc630a0e81a37a8a0c1f030f774032a0
 Depiction: https://repo.ipamod.com/depictions/?p=miscsettings
+
+Package: com.ipamod.makecydiabuyagain
+Name: MakeCydiaBuyAgain
+Version: 1.0.1-2+debug
+Description: Includes package purchases in Cydia on iOS 11
+Author: Jake Ihasz
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.makecydiabuyagain_1.0.1-2+debug.deb
+Size: 3934
+MD5sum: 519b072c721d3459d6a8ff30c38bdb1f
+SHA1: 6d23275b04597f9c81761ffa0f4b5daf64e40010
+SHA256: 8e532c58fe5aeac2794052723441b72daba458aee2f5fc0909cfb0bd3218f90e
+Depiction: https://repo.ipamod.com/depictions/?p=makecydiabuyagain
