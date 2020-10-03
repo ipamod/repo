@@ -4999,3 +4999,35 @@ MD5sum: b3f54ccc873c477f1ccd7bdd053293fa
 SHA1: 63bcbf370a5942d5c7890b0b99ddd6e0c1074564
 SHA256: ab928f633a65d9efadb5cf517431667fc771e0ebfe9098dd644df4c0597f5e5c
 Depiction: https://repo.ipamod.com/depictions/?p=makemehappycydia
+
+Package: com.ipamod.modernalerts2
+Name: ModernAlerts 2
+Version: 1.0.3
+Description: TvOS-style alerts
+Author: Geometric Software
+Depends: mobilesubstrate, preferenceloader, com.ipamod.graphite(>=1.1.2), firmware(>=13.0), firmware(<<14.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.modernalerts2_1.0.3.deb
+Size: 116934
+MD5sum: 76c6826df5125e7d0a2429c9750c266d
+SHA1: 3450b55bccefe08bf88fbba96ac09de218fae2d5
+SHA256: c570518e66e08ae5a80fa245183bb1a67aef7eebd8eb1b5881d5cd4a95aa6f3a
+Depiction: https://repo.ipamod.com/depictions/?p=modernalerts2
+
+Package: com.ipamod.maple
+Name: Maple
+Version: 1.5.2
+Description: Widget and animation of charging devices like on AirPower
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, net.limneos.libbulletin, me.nepeta.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.maple_1.5.2.deb
+Size: 56884972
+MD5sum: 28181f760326e9b3a049f43bd4eb9d49
+SHA1: 361e7057b145c38c943b19c7834dd172888f9364
+SHA256: fb5a2588120de2463327f4ad1e9a9bda487b42e36b41c495367053f58ab1b445
+Depiction: https://repo.ipamod.com/depictions/?p=maple

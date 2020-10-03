@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.modernalerts2</id>
+	<name>ModernAlerts 2</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.ipamod.graphite(>=1.1.2), firmware(>=13.0), firmware(=14.0)</package>
+	</dependencies>
+	<shortDescription> TvOS-style alerts
+</shortDescription>
+	<descriptionlist>
+		<description> TvOS style alerts and pop-ups.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
