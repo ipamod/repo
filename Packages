@@ -5239,3 +5239,35 @@ MD5sum: 2be8774db7947cdd6ce932ddc5b8ef1b
 SHA1: e96813343e0eb2212fa091bf44401b30a2470a5f
 SHA256: c55e0843ee19d71d8d59383c140966905ddd160d96c2fe365c5b3d624de42a9e
 Depiction: https://repo.ipamod.com/depictions/?p=musicartwork
+
+Package: com.ipamod.no2theft3
+Name: No2Theft3
+Version: 1.4-1k
+Description: "Anti-theft system" for your device
+Author: elias
+Depends: mobilesubstrate, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.no2theft3_1.4-1k.deb
+Size: 1170044
+MD5sum: fa5f5e4953cac3698fd56d3c57a40321
+SHA1: fbd55f0c4f96b21dbdb4ff647ceb434771ab7bd6
+SHA256: 23d56822f665ebf06174190ba74872cd3e1e7b95ad3ca7e52944de4833d7fffd
+Depiction: https://repo.ipamod.com/depictions/?p=no2theft3
+
+Package: com.ipamod.musicdockx
+Name: MusicDockX
+Version: 0.0.6-8
+Description: Convenient music widget accessible from anywhere
+Author: Spark
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.musicdockx_0.0.6-8.deb
+Size: 131642
+MD5sum: f7a25dfd21b48092660333bd536b8acc
+SHA1: 22717046a069349ff0fba1950c5e343090c26a37
+SHA256: 47ad47a263f7d5109f3a46d7bb55cb1b1767e1beab1a2e058ab868b6138a78ae
+Depiction: https://repo.ipamod.com/depictions/?p=musicdockx
