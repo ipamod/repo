@@ -1,0 +1,49 @@
+<package>
+	<id>com.ipamod.noctis13</id>
+	<name>Noctis Neo</name>
+	<version>1.2.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Customizable dark mode for iOS 13
+</shortDescription>
+	<descriptionlist>
+		<description> iOS 13 now has a dark mode, but leaves a lot to be desired.
+
+Noctis Neo is custom-built from the ground up to complement the standard dark mode perfectly.
+
+The tweak includes:
+• Preset dark color theme modes such as "True Dark" for OLED devices.
+• Ready-made themes in blur mode (coming soon).
+• Customizable responsive color for notifications, widgets and 3D Touch menus.
+• Customizable dark color mode from normal to full black.
+• Light mode for notifications, widgets, folders or dock menu.
+• Includes iOS 10 style widget titles.
+• Dark web pages that support most browsers such as Safari and Chrome.
+• Enable blur mode for 3D Touch menu.
+• Dark Control Center (coming soon).
+• Turn on tweak along with the standard dark mode of the system.
+• Adaptive mode has two settings, light and dark, corresponding to the current state of dark mode.
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

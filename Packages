@@ -5271,3 +5271,19 @@ MD5sum: f7a25dfd21b48092660333bd536b8acc
 SHA1: 22717046a069349ff0fba1950c5e343090c26a37
 SHA256: 47ad47a263f7d5109f3a46d7bb55cb1b1767e1beab1a2e058ab868b6138a78ae
 Depiction: https://repo.ipamod.com/depictions/?p=musicdockx
+
+Package: com.ipamod.noctis13
+Name: Noctis Neo
+Version: 1.2.4
+Description: Customizable dark mode for iOS 13
+Author: LaughingQuoll <me@laughingquoll.net>
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.noctis13_1.2.4.deb
+Size: 108030
+MD5sum: 2d479139ce68f6c62a1169148c7d997b
+SHA1: 8393c9956fa063be4e35fa33bef0ae99aedc70e1
+SHA256: 741f5962578a11365430daf7d5db28e528a6e24c0900e8282586584c937ad16f
+Depiction: https://repo.ipamod.com/depictions/?p=noctis13
