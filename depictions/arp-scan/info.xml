@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.arp-scan</id>
+	<name>arp-scan</name>
+	<version>1.8.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> com.ipamod.libpcap</package>
+	</dependencies>
+	<shortDescription> ARP scanning and fingerprinting tool. Arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3)
+</shortDescription>
+	<descriptionlist>
+		<description> An interesting utility that suppresses WI-FI on all devices that are connected to the same network as you, but at the same time you can continue to use the Internet to the fullest.
+
+Operating instructions:
+• Download this utility
+• Open the utility shortcut that appears on the home screen
+• Swipe down to search for connected devices
+• Press the Kill all button and that's it, WI-FI stops working on connected devices.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

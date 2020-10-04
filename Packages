@@ -5320,3 +5320,50 @@ SHA1: 241735d53373a451c036d9e8e1c7fbeb37bd765e
 SHA256: de61568c478ffe7e3820172a5f54c10830ae1a2696c86d04ddf4ef6bc680f6c7
 Depiction: https://repo.ipamod.com/depictions/?p=nomoresmallapps
 
+Package: com.ipamod.netkillui
+Name: netKILLUI
+Version: 0.2.1-1
+Description: We block Wi-Fi access to everyone who is connected to the same network
+Author: Teggers
+Depends: com.ipamod.arp-scan, ru.rejail.dsniff, ldid, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.netkillui_0.2.1-1.deb
+Size: 260916
+MD5sum: 3d782c5b9eff76022ec330203d708bb3
+SHA1: 8704e07cb7d6a3bd987ebd9cead0fc2b5cca4f3b
+SHA256: 1571971eeeabd77de58aa247f3564b04bf38331a9053b62c873ccefefab780c8
+Depiction: https://repo.ipamod.com/depictions/?p=netkillui
+
+Package: com.ipamod.arp-scan
+Name: arp-scan
+Version: 1.8.1-1
+Description: ARP scanning and fingerprinting tool. Arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3)
+Author: Roy Hills <Roy.Hills@nta-monitor.com>
+Depends: com.ipamod.libpcap
+Section: Development
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.arp-scan_1.8.1-1.deb
+Size: 283446
+MD5sum: d9a7c0ddb8863a2cfde85a6755bc3867
+SHA1: 711642055224d1dfa2a513a1d0699a66937acf67
+SHA256: 6576eb3fff805c90098446da6b20f5ee3f53a4b6f1d648e591970c90aa453bf3
+Depiction: https://repo.ipamod.com/depictions/?p=arp-scan
+
+Package: com.ipamod.libpcap
+Name: libpcap
+Version: 1.4.0
+Description: Libpcap, a portable C/C++ library for network traffic capture.
+Author: libpcap <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Section: Development
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.libpcap_1.4.0.deb
+Size: 288426
+MD5sum: d9a7c0ddb8863a2cfde85a6755bc3867
+SHA1: 711642055224d1dfa2a513a1d0699a66937acf67
+SHA256: 6576eb3fff805c90098446da6b20f5ee3f53a4b6f1d648e591970c90aa453bf3
+Depiction: https://repo.ipamod.com/depictions/?p=libpcap
