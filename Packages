@@ -5175,3 +5175,19 @@ MD5sum: 874b0fe93cff84a15ac64c2263c14f70
 SHA1: acfbbd3055e7fc6c3d7f817f3790f5d1b826a9c4
 SHA256: 3c784e97f734630b31e13b6b8ac241ad0f2a9e4785c9fd78ea50af37a4ae097b
 Depiction: https://repo.ipamod.com/depictions/?p=mot
+
+Package: com.ipamod.nightmaps
+Name: Night Maps
+Version: 1.0.1k
+Description: Dark mode for all maps
+Author: FoxfortMobile
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, com.ipamod.foxforthack
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nightmaps_1.0.1k.deb
+Size: 344472
+MD5sum: 674b24a68fab265355e8db02c8e3d03c
+SHA1: e15155ec7da043de369e7bc69d374bf2adb4265f
+SHA256: 271f0a6871c1886ba153c17b9a63948fbcf1b603dd391146aa7b0a649ee10053
+Depiction: https://repo.ipamod.com/depictions/?p=nightmaps

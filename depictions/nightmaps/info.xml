@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.nightmaps</id>
+	<name>Night Maps</name>
+	<version>1.0.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, com.ipamod.foxforthack</package>
+	</dependencies>
+	<shortDescription> Dark mode for all maps
+</shortDescription>
+	<descriptionlist>
+		<description> Dark mode for all maps.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
