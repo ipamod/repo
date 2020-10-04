@@ -5207,3 +5207,35 @@ MD5sum: cde2ff5842c9d5f0d046fce83e640a0f
 SHA1: 2b3fe53adfccef25b626e47ae3d81d6524e7feb5
 SHA256: 528478155d0969edcc01a5ef2940dd214a8443ff6da6d116e42c8abf279dc2b5
 Depiction: https://repo.ipamod.com/depictions/?p=multipla
+
+Package: com.ipamod.no2theft2
+Name: No2Theft2
+Version: 1.5-1k
+Description: Protecting your phone from thieves!
+Author: Elias Sfeir <elias_sfeir@live.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.no2theft2_1.5-1k.deb
+Size: 217228
+MD5sum: cda6062475106fde9dbbde217b40f29e
+SHA1: d9d8b1e5a23fb60388eb9f129ea33d8db57867ca
+SHA256: 04ab4dd7a3964dfc85bb25cc4ad68566e784b5ade3c04fab7357eba65694395b
+Depiction: https://repo.ipamod.com/depictions/?p=no2theft2
+
+Package: com.ipamod.musicartwork
+Name: MusicArtwork
+Version: 1.6
+Description: Replace the default player icon with song information
+Author: cole cabral
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), ws.hbang.common (>= 1.2)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.musicartwork_1.6.deb
+Size: 61346
+MD5sum: 2be8774db7947cdd6ce932ddc5b8ef1b
+SHA1: e96813343e0eb2212fa091bf44401b30a2470a5f
+SHA256: c55e0843ee19d71d8d59383c140966905ddd160d96c2fe365c5b3d624de42a9e
+Depiction: https://repo.ipamod.com/depictions/?p=musicartwork

@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.musicartwork</id>
+	<name>MusicArtwork</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, firmware (>= 11.0), ws.hbang.common (>= 1.2)</package>
+	</dependencies>
+	<shortDescription> Replace the default player icon with song information
+</shortDescription>
+	<descriptionlist>
+		<description> Replace the default icon for Music, Spotify, Sound Cloud, Plex and other applications with the cover of the song you are playing.
+The rest of the applications are questionable.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
