@@ -1,0 +1,40 @@
+<package>
+	<id>com.ipamod.mot</id>
+	<name>Mot</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Lock screen weather
+</shortDescription>
+	<descriptionlist>
+		<description> Mot features:
+• Display the current weather forecast
+• Average weather for an hour / day / week
+• Display weather by device geolocation or by a given location
+• Information about the upcoming rain and snow
+• Use Celsius and Fahrenheit weather
+• Stunning minimized mode
+• Dark and light weather modes
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

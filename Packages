@@ -5159,3 +5159,19 @@ MD5sum: a53f137d3d33bc1e9e64876cf64a8c63
 SHA1: e394162e557877a3f369c39fbe28a9b1dae98cfa
 SHA256: 3d18f1fb9f8ee37a1d733d22490bc86bb4301e6918a783829bbac301f1fe9bff
 Depiction: https://repo.ipamod.com/depictions/?p=moonshine
+
+Package: com.ipamod.mot
+Name: Mot
+Version: 1.0.1
+Description: Lock screen weather
+Author: Don <donbytyqi@outlook.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.mot_1.0.1.deb
+Size: 96376
+MD5sum: 874b0fe93cff84a15ac64c2263c14f70
+SHA1: acfbbd3055e7fc6c3d7f817f3790f5d1b826a9c4
+SHA256: 3c784e97f734630b31e13b6b8ac241ad0f2a9e4785c9fd78ea50af37a4ae097b
+Depiction: https://repo.ipamod.com/depictions/?p=mot
