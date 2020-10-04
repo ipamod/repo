@@ -5303,3 +5303,19 @@ MD5sum: 04ec2c156438b4404b4df19a39df9db4
 SHA1: 32d04a13d53c8013e6ae1384579bc479e110e1e7
 SHA256: 64f4147928898662bf5f0e41680c94ce4b68eff926ef1f8efcb3a8f7b4c2338b
 Depiction: https://repo.ipamod.com/depictions/?p=noctis12
+
+Package: com.ipamod.nomoresmallapps
+Name: NoMoreSmallApps
+Version: 0.0.2
+Description: Full screen view of non-optimized apps
+Author: Spark
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nomoresmallapps_0.0.2.deb
+Size: 23060
+MD5sum: bbe63e6291c964aeb620ac79a6def626
+SHA1: 241735d53373a451c036d9e8e1c7fbeb37bd765e
+SHA256: de61568c478ffe7e3820172a5f54c10830ae1a2696c86d04ddf4ef6bc680f6c7
+Depiction: https://repo.ipamod.com/depictions/?p=nomoresmallapps

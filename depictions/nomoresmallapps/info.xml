@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.nomoresmallapps</id>
+	<name>NoMoreSmallApps</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Full screen view of non-optimized apps
+</shortDescription>
+	<descriptionlist>
+		<description> NoMoreSmallApps will optimize non-optimized apps for your screen resolution.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
