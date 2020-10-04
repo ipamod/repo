@@ -5191,3 +5191,19 @@ MD5sum: 674b24a68fab265355e8db02c8e3d03c
 SHA1: e15155ec7da043de369e7bc69d374bf2adb4265f
 SHA256: 271f0a6871c1886ba153c17b9a63948fbcf1b603dd391146aa7b0a649ee10053
 Depiction: https://repo.ipamod.com/depictions/?p=nightmaps
+
+Package: com.ipamod.multipla
+Name: Multipla
+Version: 1.2.3k
+Description: Dock menu widgets
+Author: Thomz and burrit0z <carsonzielinski@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.multipla_1.2.3k.deb
+Size: 1623818
+MD5sum: cde2ff5842c9d5f0d046fce83e640a0f
+SHA1: 2b3fe53adfccef25b626e47ae3d81d6524e7feb5
+SHA256: 528478155d0969edcc01a5ef2940dd214a8443ff6da6d116e42c8abf279dc2b5
+Depiction: https://repo.ipamod.com/depictions/?p=multipla
