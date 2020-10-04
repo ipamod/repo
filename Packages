@@ -5287,3 +5287,19 @@ MD5sum: 2d479139ce68f6c62a1169148c7d997b
 SHA1: 8393c9956fa063be4e35fa33bef0ae99aedc70e1
 SHA256: 741f5962578a11365430daf7d5db28e528a6e24c0900e8282586584c937ad16f
 Depiction: https://repo.ipamod.com/depictions/?p=noctis13
+
+Package: com.ipamod.noctis12
+Name: Noctis12
+Version: 1.8.9.5
+Description: System-wide dark mode
+Author: LaughingQuoll <me@laughingquoll.net>
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.noctis12_1.8.9.5.deb
+Size: 258842
+MD5sum: 04ec2c156438b4404b4df19a39df9db4
+SHA1: 32d04a13d53c8013e6ae1384579bc479e110e1e7
+SHA256: 64f4147928898662bf5f0e41680c94ce4b68eff926ef1f8efcb3a8f7b4c2338b
+Depiction: https://repo.ipamod.com/depictions/?p=noctis12
