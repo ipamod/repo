@@ -5367,3 +5367,161 @@ MD5sum: d9a7c0ddb8863a2cfde85a6755bc3867
 SHA1: 711642055224d1dfa2a513a1d0699a66937acf67
 SHA256: 6576eb3fff805c90098446da6b20f5ee3f53a4b6f1d648e591970c90aa453bf3
 Depiction: https://repo.ipamod.com/depictions/?p=libpcap
+
+Package: com.ipamod.noruinmywp
+Name: NoRuinMyWP
+Version: 0.0.1-3+debug
+Description: Disable Wallpaper Dimming.
+Author: Yerushalayim
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.noruinmywp_0.0.1-3+debug.deb
+Size: 4196
+MD5sum: 479bce0b53f58a254d424cd5dbd212d6
+SHA1: 0a5696fcc2f42e352daf9da2d3df0fd34a2f8429
+SHA256: 14730ade832181f205461c13532d32a501be8f86a6931572e69ea2bf63518fb4
+Depiction: https://repo.ipamod.com/depictions/?p=noruinmywp
+
+Package: com.ipamod.netkillui11
+Name: netKillUIbeta (iOS 11)
+Version: 0.2.1-1
+Description: We block Wi-Fi access to everyone who is connected to the same network.
+Author: Teggers
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.netkillui11_0.2.1-1.deb
+Size: 813330
+MD5sum: 45888316b93fd8880568622b927c403d
+SHA1: 8e98e220be0597759580627604a333c2e971f969
+SHA256: a3a13d26c6a114431052b87b2ffa2b7080867d4f5da020b0823e35f36cfc6208
+Depiction: https://repo.ipamod.com/depictions/?p=netkillui11
+
+Package: com.ipamod.notepad
+Name: Notepad
+Version: 1.2.5
+Description: Lock screen notes
+Author: Blake Boxberger
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.notepad_1.2.5.deb
+Size: 64310
+MD5sum: 5a3625ad134a50cdfbe8164eaaed4a9a
+SHA1: a824472389b3e947d7575aeef983d4a8c03283fc
+SHA256: 5af1d7579691f3219f47c25c6d019331d0cbee7fc75aaaa2027a3ed8f56aa796
+Depiction: https://repo.ipamod.com/depictions/?p=notepad
+
+Package: com.ipamod.networkmanager
+Name: NetworkManager
+Version: 1.0.2
+Description: Enabling 2G / 3G / LTE from Control Center
+Author: NoisyFlake
+Depends: mobilesubstrate, com.opa334.ccsupport
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.networkmanager_1.0.2.deb
+Size: 47132
+MD5sum: 4f11e9d48e6fd39b2655537d6aa21ec2
+SHA1: dcffb774ff7c296e8648db5d63f35500b7bc59bf
+SHA256: d132687191fd7169754c9b134dd3718a7d19c3c29a7cc5283c4604f520888fbb
+Depiction: https://repo.ipamod.com/depictions/?p=networkmanager
+
+Package: com.ipamod.notifica
+Name: Notifica
+Version: 0.2.8-1
+Description: Modification of notifications with a huge number of settings
+Author: Nepeta
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11), com.ipamod.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.notifica_0.2.8-1.deb
+Size: 453964
+MD5sum: f3b67d5f28cdc7f851de2d67c9f55e06
+SHA1: 3631e37bf4a6978f6a2111ef5124d87d0d1a4ec9
+SHA256: a12e561f127bac3432c586a96bfb7b4e5950e3430bfb2edb1f9b595fdff65b14
+Depiction: https://repo.ipamod.com/depictions/?p=notifica
+
+Package: com.ipamod.libnepeta
+Name: libnepeta
+Version: 0.1.1
+Description: Color setting for Nepeta tweaks
+Author: Nepeta
+Section: Development
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.libnepeta_0.1.1.deb
+Size: 26804
+MD5sum: ac7308c6fe14d90359d9e63ed028e975
+SHA1: a509b95cd5154edd38636912454686ae739f61c3
+SHA256: 010570085c548eb5ab3a3ccc05c6ac24c8379b2f7ddb9ee8a17a3c006939d6b2
+Depiction: https://repo.ipamod.com/depictions/?p=libnepeta
+
+Package: com.ipamod.nlm
+Name: NeverLowerMusic
+Version: 1.1
+Description: Disable music mute on incoming notifications
+Author: Rishanan <rishanan1996@gmail.com>
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nlm_1.1.deb
+Size: 2052
+MD5sum: a29426443bbe9d77261de111a783cd12
+SHA1: da2c81170fcbad7d367276f5497328685561f7b6
+SHA256: 5279508828ec6e38e576e615367969fa95fd0f68eb1f70668e5ce1b5eae31157
+Depiction: https://repo.ipamod.com/depictions/?p=nlm
+
+Package: com.ipamod.notifierdots
+Name: NotifierDots
+Version: 0.2-1
+Description: Notification light on iPhone X
+Author: iamalive2008
+Depends: firmware (>= 11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.notifierdots_0.2-1.deb
+Size: 129562
+MD5sum: 5ba4d664ef23913d8b3fa5201522f755
+SHA1: 3d6abc7833fdec95ff35610c331f70d2384b4188
+SHA256: 9d503bd8d801206148c9752253e7cf4e550b61cfa87598ecbea82a6f4e5a6cc2
+Depiction: https://repo.ipamod.com/depictions/?p=notifierdots
+
+Package: com.ipamod.newgridswitcher
+Name: NewGridSwitcher
+Version: 1.1.0
+Description: A new kind of multitasking
+Author: relative <seth@sethstephens.me>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.newgridswitcher_1.1.0.deb
+Size: 3098
+MD5sum: c2ff06bbefca6c258e2f3371593f453a
+SHA1: ae45e1e4cfe91ce8c2f5a70b580e40505de30e89
+SHA256: 37ee3955213f6864c8fa359de967c0e0481835a4e6d923ffdebd289e7e61ce1a
+Depiction: https://repo.ipamod.com/depictions/?p=newgridswitcher
+
+Package: com.ipamod.notifillpro
+Name: NotiFill Pro
+Version: 1.1.1
+Description: Visualization of the moment before the disappearance of the notification window from the screen (with dynamic color rendition)
+Author: rafferli
+Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.notifillpro_1.1.1.deb
+Size: 41902
+MD5sum: 5ec6c38098a1d943d9b992cb678b30c8
+SHA1: b5aee524abfc2928491ae619ca9aa48ca97155a7
+SHA256: c091639a8a82af051d5d3774f3e7fa6f1f3abf41ff4e4671c6ad0b9caef76cbc
+Depiction: https://repo.ipamod.com/depictions/?p=notifillpro

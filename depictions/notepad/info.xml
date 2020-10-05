@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.notepad</id>
+	<name>Notepad</name>
+	<version>1.2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> Lock screen notes.
+</shortDescription>
+	<descriptionlist>
+		<description> Lock screen notes
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -1,0 +1,38 @@
+<package>
+	<id>com.ipamod.notifillpro</id>
+	<name>NotiFill Pro</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate (>= 0.9.5000)</package>
+	</dependencies>
+	<shortDescription> Visualization of the moment before the disappearance of the notification window from the screen (with dynamic color rendition)
+</shortDescription>
+	<descriptionlist>
+		<description> The notification window fills with a dynamically calculated color, measuring the seconds until the notification disappears from the screen.
+It is possible to adjust the delay of the start of the animation.
+It is possible to assign a custom color for the notification window.
+
+Attention!
+NotiFill Pro has not been tested with other notification center tweaks.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

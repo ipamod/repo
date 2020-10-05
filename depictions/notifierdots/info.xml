@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.notifierdots</id>
+	<name>NotifierDots</name>
+	<version>0.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>= 1.0.2)</package>
+	</dependencies>
+	<shortDescription> Notification light on iPhone X
+</shortDescription>
+	<descriptionlist>
+		<description> Notification light on iPhone X
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.nlm</id>
+	<name>NeverLowerMusic</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> </package>
+	</dependencies>
+	<shortDescription> Disable music mute on incoming notifications
+</shortDescription>
+	<descriptionlist>
+		<description> Disable music mute on incoming notifications
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

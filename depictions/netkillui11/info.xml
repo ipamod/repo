@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.netkillui11</id>
+	<name>netKillUIbeta (iOS 11)</name>
+	<version>0.2.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> We block Wi-Fi access to everyone who is connected to the same network.
+</shortDescription>
+	<descriptionlist>
+		<description> An interesting utility that suppresses WI-FI on all devices that are connected to the same network as you, but at the same time you can continue to use the Internet to the fullest.
+
+Operating instructions:
+• Download this utility
+• Open the utility shortcut that appears on the home screen
+• Swipe down to search for connected devices
+• Press the Kill all button and that's it, WI-FI stops working on connected devices.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
