@@ -1,0 +1,50 @@
+<package>
+	<id>com.ipamod.notifywifix</id>
+	<name>NotifyWiFi X</name>
+	<version>1.1.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 10.0), mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> WiFi Network Manager
+</shortDescription>
+	<descriptionlist>
+		<description> Features NotifyWiFi X:
+
+1. Notifications when connected to Wi-Fi.
+
+• Displays a notification banner when connected to any network.
+• You can check the connection history in "Connection History".
+• Ability to disable notifications from whitelisted networks.
+• If you connect to a blacklisted network, Wi-Fi is automatically turned off.
+
+2. Expansion of the Wi-Fi configuration menu.
+
+• You can add features such as Pull to Update and Known Networks.
+• After connecting to a Wi-Fi network, its password can be checked and copied.
+• You can display additional information and disable RSSI limiting, etc.
+
+3. Skip the lock screen password, for example when you are connected to a specific Wi-Fi.
+
+• You can skip passwords when connecting to whitelisted networks, or you can skip passwords when the connected network is not blacklisted.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

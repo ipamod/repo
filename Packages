@@ -5525,3 +5525,35 @@ MD5sum: 5ec6c38098a1d943d9b992cb678b30c8
 SHA1: b5aee524abfc2928491ae619ca9aa48ca97155a7
 SHA256: c091639a8a82af051d5d3774f3e7fa6f1f3abf41ff4e4671c6ad0b9caef76cbc
 Depiction: https://repo.ipamod.com/depictions/?p=notifillpro
+
+Package: com.ipamod.notifywifix
+Name: NotifyWiFi X
+Version: 1.1.4k
+Description: WiFi Network Manager
+Author: ichitaso <willfeeltips+notify@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.notifywifix_1.1.4k.deb
+Size: 480976
+MD5sum: 2cb349e5ba27f25f507d310908a79935
+SHA1: 8592c6b24e65460d191fae3fa21f1e4511dde02f
+SHA256: 9f9ca838f0c8236985bd6fef20efadf2a297a9b2e7e9590f8574d58f955078b7
+Depiction: https://repo.ipamod.com/depictions/?p=notifywifix
+
+Package: com.ipamod.photomanager12
+Name: PhotoManager (iOS 12 & 13)
+Version: 1.1.2-3+debug
+Description: Advanced Photo Features
+Author: Frozen Penguin
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.photomanager12_1.1.2-3+debug.deb
+Size: 471204
+MD5sum: 1b9659b2d1d64f4fba6f994e2db4ee3d
+SHA1: 9d2d685d959d5a1575e651c2a10711000f0f7e69
+SHA256: e914e47dbfb6ea8abdbafbecc826680cb5864d93ebd456487d1983e324d4ab04
+Depiction: https://repo.ipamod.com/depictions/?p=photomanager12

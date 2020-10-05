@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.photomanager12</id>
+	<name>PhotoManager (iOS 12 & 13)</name>
+	<version>1.1.2-3+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription> Advanced Photo Features
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak will allow you to hide the albums you want or set a password / biometrics on them.
+Small customization settings for the Photos application are also available.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
