@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.pikabu</id>
+	<name>Pikabu</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>= 10.0), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Minimal volume anywhere on the screen
+</shortDescription>
+	<descriptionlist>
+		<description> Minimal volume anywhere on the screen.
+16 colors to choose from, more than 200 different color combinations
+
+Settings are Russified.
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

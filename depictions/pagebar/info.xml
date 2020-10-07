@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.pagebar</id>
+	<name>Pagebar</name>
+	<version>2.4.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)</package>
+	</dependencies>
+	<shortDescription> Change the appearance of page points
+</shortDescription>
+	<descriptionlist>
+		<description> Pagebar Pro is the answer to the lack of tweaks for customizing iOS page points.
+This is a new, intuitive way to customize existing points on a page.
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

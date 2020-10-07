@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.watusitools</id>
+	<name>WatusiTools</name>
+	<version>2.1.25</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 9.0), darwintools</package>
+	</dependencies>
+	<shortDescription> Library Watusi 2
+</shortDescription>
+	<descriptionlist>
+		<description> Library Watusi 2
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

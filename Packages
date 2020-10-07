@@ -1375,16 +1375,16 @@ Author: IArrays <support@iarrays.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=biolocker
 
 Package: com.ipamod.caim
-Version: 1.1.6k
+Version: 1.2.0k
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), me.conorthedev.libappearancecell
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.caim_1.1.6k.deb
-Size: 4028720
-MD5sum: 88c28b5fdccc016ae51f61421d0eaa90
-SHA1: c24282379e4b1f0924e9303d669fc38967f9d99e
-SHA256: dce97fadb2b6f0ceea06817f106a1caa56674aa1c082aaa6a7c5f50449233e29
+Filename: ./debs/com.ipamod.caim_1.2.0k.deb
+Size: 4047174
+MD5sum: 57a7a4284161c7504cdd72eafe9ade76
+SHA1: 6bf8a24629d0ce4b196443f3363d693f086ca0ba
+SHA256: fc34d05ef8ddf4cdb7117b2b3bf4b31134c4cad33d942611e97e22bf1ee7ad60
 Description: Feature of iOS 14 - pinning conversations from selected users at the top of the default Messages app, now available on iOS13.
 Name: Caim
 Author: nicho1asdev <nicholasmusumeci@icloud.com>.
@@ -2351,23 +2351,23 @@ Author: Minuit.
 Depiction: https://repo.ipamod.com/depictions/?p=datameter
 
 Package: com.ipamod.crane
-Name: Crane.
-Version: 1.0.4
+Name: Crane
+Version: 1.0.5
 Description: Multi-containers (multi-accounts) for applications
 Author: opa334.
 Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.crane_1.0.4.deb
-Size: 325958
-MD5sum: 723f97876794034105b2be5428430eed
-SHA1: cc837b13ca27a8503e452d70b192ddd226d91ed7
-SHA256: a508387377a9a141df461056a981f91a4517f4ac0fef483a6006387392080315
+Filename: ./debs/com.ipamod.crane_1.0.5.deb
+Size: 327220
+MD5sum: 54e79c491c8195e24d6e7164dc7745b5
+SHA1: 2bce606bc3ab97757e67b69bd0bbbf6b968e55b5
+SHA256: c60486151524b2ac8577ea683fec44002b52ed1c69af058dff4d424faec1b847
 Depiction: https://repo.ipamod.com/depictions/?p=crane
 
 Package: com.ipamod.dayn
-Name: Dayn.
+Name: Dayn
 Version: 1.2.1
 Description: New kind of notifications
 Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>.
@@ -2383,7 +2383,7 @@ SHA256: 9e7ec704194239e6891d24bff97cb03b0ea26cbb59d0a03d18ae127963429dc6
 Depiction: https://repo.ipamod.com/depictions/?p=dayn
 
 Package: com.ipamod.customlock2
-Name: CustomLock 2.
+Name: CustomLock 2
 Version: 1.0
 Description: Lock screen customization
 Author: TylerD3V.
@@ -3757,18 +3757,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=killbackgroundxs\
 
 Package: com.ipamod.youtubelite
 Name: YouTubeLite
-Version: 0.9-beta
+Version: 0.9.1-beta
 Description: Advanced settings for YouTube
-Author: Networke <re.errornetwork@gmail.com>.
+Author: Networke <re.errornetwork@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.youtubelite_0.9-beta.deb
-Size: 71734
-MD5sum: dc8a2dd013b0dc8b94cb800e068999b0
-SHA1: 437184aa3c7ae7d19b742469d0c700ba2d1f72db
-SHA256: de4387ab9c89fbbd04d08d9609c34cd4273d64d6d95eb50c411d090e887b28cb
+Filename: ./debs/com.ipamod.youtubelite_0.9.1-beta.deb
+Size: 84734
+MD5sum: 6a7753a4998ed00808a55be0d5947a33
+SHA1: c28dac755b89d4d59f60dcb730b0c2000c8fa284
+SHA256: 08b4b15fc33f3ae8c84d293dcef1e960e6ed6728a30ba8a2e2484fbd39ae0e13
 Depiction: https://repo.ipamod.com/depictions/?p=youtubelite
 
 Package: com.ipamod.insideup
@@ -5557,3 +5557,211 @@ MD5sum: 1b9659b2d1d64f4fba6f994e2db4ee3d
 SHA1: 9d2d685d959d5a1575e651c2a10711000f0f7e69
 SHA256: e914e47dbfb6ea8abdbafbecc826680cb5864d93ebd456487d1983e324d4ab04
 Depiction: https://repo.ipamod.com/depictions/?p=photomanager12
+
+Package: com.ipamod.preferences
+Name: Preferences
+Version: 1.0.0
+Description: iPhone X Preferences Style
+Author: Networke
+Depends: mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.preferences_1.0.0.deb
+Size: 12236
+MD5sum: d374c5810755edadb37eec7371fb5cf3
+SHA1: 25925900a38503e5c9c2a84b81297a3b62522e0c
+SHA256: 84ed0403791c9ffb379b9789da1856fb8d5f46752491ccf71a68e7ddb4828f11
+Depiction: https://repo.ipamod.com/depictions/?p=preferences
+
+Package: com.ipamod.nougat
+Name: Nougat
+Version: 1.2
+Description: Android-style notification center
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch (>= 1.0.16), com.shade.libpalette
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nougat_1.2.deb
+Size: 1501166
+MD5sum: bede966290c12467c6e1e1a594538dc2
+SHA1: c77f08fd6c880f9931ed39459785fc54cc46a9f0
+SHA256: 7f59ddcb785747e8f9d10cdeb16d338350be48bb4655386f48cb106362eee88d
+Depiction: https://repo.ipamod.com/depictions/?p=nougat
+
+Package: com.ipamod.nsfwgram
+Name: NSFWgram
+Version: 0.0.6
+Description: Access to blocked channels / groups in Telegram (5.0+)
+Author: Ninji <ninji@wuffs.org>
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nsfwgram_0.0.6.deb
+Size: 5346
+MD5sum: 461ea1e002545c3e561bc92b521ed7de
+SHA1: e7399b43105240279751c2d728ed09fdb4410d95
+SHA256: d36c9492381506bf45998ae9c7e22be04be271e32c5003d27c5cc3961a3a738c
+Depiction: https://repo.ipamod.com/depictions/?p=nsfwgram
+
+Package: com.ipamod.photon
+Name: Photon
+Version: 1.0.6
+Description: A different look at the display
+Author: cemck
+Depends: mobilesubstrate, firmware (>=13.0), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.photon_1.0.6.deb
+Size: 1839212
+MD5sum: 03b36c87ed07545af725188d996df18c
+SHA1: 1795265fd97b04ccba111c5faa86698bc1bf287b
+SHA256: ae3beccd2bebbfc79c312240ebfac529efaebffbf2d1d150e5fbc0396c2ca9f0
+Depiction: https://repo.ipamod.com/depictions/?p=photon
+
+Package: com.ipamod.nudekeys
+Name: NudeKeys
+Version: 4.3
+Description: Minor keyboard customization
+Author: Orangebananaspy <support@orangebananaspy.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.nudekeys_4.3.deb
+Size: 1596226
+MD5sum: f307ae7cb8e15456744618a55d3607cd
+SHA1: e717231cc5974a92092c62a4bffd4b97bb126000
+SHA256: b059312c00d34a3c8ae0e685d6ae437657139837407d5d52e047406137e20d7f
+Depiction: https://repo.ipamod.com/depictions/?p=nudekeys
+
+Package: com.ipamod.pikabu
+Name: Pikabu
+Version: 1.1.0
+Description: Minimal volume anywhere on the screen
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.pikabu_1.1.0.deb
+Size: 293788
+MD5sum: ac24da4e4fdd6b522f45740e2fa3764c
+SHA1: 85eb25c2a08d4b1fe8f2c6ecb2e470d4a5f2aa0e
+SHA256: 1253857ad223d888311ecb485993d607e7f60d98bde653a9315f3b0421e3a009
+Depiction: https://repo.ipamod.com/depictions/?p=pikabu
+
+Package: com.ipamod.onlinenotify
+Name: OnlineNotify
+Version: 3.2.1k
+Description: Track your WhatsApp contacts online
+Author: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.ipamod.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.onlinenotify_3.2.1k.deb
+Size: 657658
+MD5sum: f1accb374bf0482ff3f33e997222092f
+SHA1: 48d5a46be92cd756747046c1a3ff8b0d5ffb11be
+SHA256: d1cc87737ca97bc1682efd7291fa5ebb8b11931b43edf6ea2ac8b38bd667dfd0
+Depiction: https://repo.ipamod.com/depictions/?p=onlinenotify
+
+Package: com.ipamod.watusitools
+Name: WatusiTools
+Version: 2.1.25
+Description: Library Watusi 2
+Author: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.watusitools_2.1.25.deb
+Size: 13819262
+MD5sum: 9050bfc0322eab4517d0c028c9d83280
+SHA1: 9f1133cc5ff0a8e01b2e30fb0a703db9e69d23c1
+SHA256: 10f0ff47f43d2206305ecb5b2be80b932f047b172f631719caeb9f5b12ab4179
+Depiction: https://repo.ipamod.com/depictions/?p=watusitools
+
+Package: com.ipamod.pinheadswhatsapp
+Name: PinHeadsWhatsApp
+Version: 1.0.2k
+Description: Pin chats in WhatsApp like in iOS 14
+Author: Ahmad
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.pinheadswhatsapp_1.0.2k.deb
+Size: 55364
+MD5sum: cfa2d01d056687b0364bae20f20001d2
+SHA1: 05a4035bce94fbe66f451e33e98cd61915eb34ec
+SHA256: 8b786275e463767efbe94f91d47ac374761fce0b78fbf5611dd969b819a2df97
+Depiction: https://repo.ipamod.com/depictions/?p=pinheadswhatsapp
+
+Package: com.ipamod.pagebar
+Name: Pagebar
+Version: 2.4.0
+Description: Change the appearance of page points
+Author: calicocat
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.pagebar_2.4.0.deb
+Size: 246890
+MD5sum: 97c56691c2c120c9c8f7ee7cbeed18b0
+SHA1: 8a27433fdce5b7d5a5f915383b0c9c48708c837f
+SHA256: 0548f028a9a319ac2ff87a1a8bb6f4ea46d5fec67fac6346961cbe1676d14406
+Depiction: https://repo.ipamod.com/depictions/?p=pagebar
+
+Package: com.ipamod.powermenux
+Name: PowerMenuX (All Devices)
+Version: 1.5.1
+Description: Redesigned shutdown menu with additional features
+Author: MayBeMe <maybeme.tweak@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.powermenux_1.5.1.deb
+Size: 166648
+MD5sum: 5235fb8e5aea496d7020006d68c9d9d1
+SHA1: 69714027c6ab2c66f5594eb201fca8ce8975b120
+SHA256: c5b6ab2c5a203d2691a516180ecafb4b4a49cb972ec181d14a2857a3473ab6f2
+Depiction: https://repo.ipamod.com/depictions/?p=powermenux
+
+Package: com.ipamod.preferenceorganizer2
+Name: PreferenceOrganizer 2
+Version: 4.0.5
+Description: "Settings" in several customizable categories for easy navigation.
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.3), net.angelxwind.karenlocalizer
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.preferenceorganizer2_4.0.5.deb
+Size: 1409268
+MD5sum: 4d31643a5071aeb9428c8c3882e2c0dd
+SHA1: 72a7c2e7d3f88bab6c7aeed0ed0ce15c519216ca
+SHA256: a56515b33163720a99e1482c9327296c76907df4172d8284da23f736382f81ec
+Depiction: https://repo.ipamod.com/depictions/?p=preferenceorganizer2
+
+Package: com.ipamod.pasithea2
+Name: Pasithea 2 (iOS 10 to 13)
+Version: 2.2.4.1k
+Description: Expanding the capabilities of the clipboard.
+Author: Cannathea <csupport@cannathea.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.pasithea2_2.2.4.1k.deb
+Size: 799688
+MD5sum: 6d29da3206b4490580477bbedbac0845
+SHA1: ad072e6450787ac7822013199eb1f923df053619
+SHA256: dcf8f4245876c3da3552e0c016e11bacf46c61ea3294eb5082299a445fa36d65
+Depiction: https://repo.ipamod.com/depictions/?p=pasithea2

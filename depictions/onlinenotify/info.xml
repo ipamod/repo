@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.onlinenotify</id>
+	<name>OnlineNotify</name>
+	<version>3.2.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.ipamod.watusitools (>= 2.1.18), preferenceloader, applist, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> Track your WhatsApp contacts online
+</shortDescription>
+	<descriptionlist>
+		<description> IMPORTANT! To activate the tweak, you must log in with a real account.
+
+OnlineNotify Features:
+• Receive notifications inside and outside WhatsApp when selected contacts go online / offline. (Only works for the contacts you have selected in the OnlineNotify settings)
+• Get notified when any of your contacts starts to write a message.
+• Receive notifications when a contact has read the messages you sent them.
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

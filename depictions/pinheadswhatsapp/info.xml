@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.pinheadswhatsapp</id>
+	<name>PinHeadsWhatsApp</name>
+	<version>1.0.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate</package>
+	</dependencies>
+	<shortDescription> Pin chats in WhatsApp like in iOS 14
+</shortDescription>
+	<descriptionlist>
+		<description> Pin chats in WhatsApp like in iOS 14
+.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

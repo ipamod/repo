@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.nougat</id>
+	<name>Nougat</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch (>= 1.0.16), com.shade.libpalette</package>
+	</dependencies>
+	<shortDescription> Android-style notification center
+</shortDescription>
+	<descriptionlist>
+		<description> To call Nougat, just swipe to bring up the Action Center as usual.
+
+Tweak features:
+• Status bar: Easily view the current date and time, as well as the charge level.
+• Brightness: Easily adjust the brightness level of your device.
+• Buttons: Customizable buttons to control the device.
+• Notification Center: Notifications will be available under the main Nougat panel, and a music player is also available..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

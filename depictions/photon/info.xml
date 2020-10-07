@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.photon</id>
+	<name>Photon</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=13.0), preferenceloader</package>
+	</dependencies>
+	<shortDescription> A different look at the display
+</shortDescription>
+	<descriptionlist>
+		<description> A different look at your device's display. Such an alternative to Always On Display, which has all the necessary settings, as well as different styles of Time and Date.
+
+All settings are Russified.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
