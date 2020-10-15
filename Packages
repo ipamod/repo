@@ -1439,16 +1439,16 @@ Author: Elias Limneos <limneoselias@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=callbar7
 
 Package: com.ipamod.bioprotectxs
-Version: 4.4-51k
+Version: 4.4-55
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate, preferenceloader, wget
+Depends: mobilesubstrate, preferenceloader, com.ipamod.limneosos
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.bioprotectxs_4.4-51k.deb
-Size: 833128
-MD5sum: ddb95c4320225f5168ebecd172b3aace
-SHA1: 0de841b8ffc2f81a128f7ff9e15ea998e10bb403
-SHA256: 3f11ca809b59b23dc543db5b7c3939c216be42d20b74b661597e62077029aad3
+Filename: ./debs/com.ipamod.bioprotectxs_4.4-55.deb
+Size: 821578
+MD5sum: 186183f2a0da3809284c347ad3ca85bd
+SHA1: b757857f36611833ba553ea02a083d41b8f2b956
+SHA256: fc08bfbe34af03e14831e9a37d4717afabd47996399ab1a45b2bcd24d5fb5a8e
 Description: Protect your apps with Touch / Face ID
 Name: BioProtect XS (iOS 12/13)
 Author: Elias Limneos <limneoselias@gmail.com>.
@@ -2352,18 +2352,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=datameter
 
 Package: com.ipamod.crane
 Name: Crane
-Version: 1.0.5
+Version: 1.0.5-2
 Description: Multi-containers (multi-accounts) for applications
 Author: opa334.
 Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.crane_1.0.5.deb
-Size: 327220
-MD5sum: 54e79c491c8195e24d6e7164dc7745b5
-SHA1: 2bce606bc3ab97757e67b69bd0bbbf6b968e55b5
-SHA256: c60486151524b2ac8577ea683fec44002b52ed1c69af058dff4d424faec1b847
+Filename: ./debs/com.ipamod.crane_1.0.5-2.deb
+Size: 331938
+MD5sum: 98f5949a32247ae6c9812f8f279b432c
+SHA1: 488ae725dec20f0250931ada47062026c23b6194
+SHA256: 0b9323b4509cc6b0e3114c9607a3ea6851a3538433135948c4b40e89f037a1c6
 Depiction: https://repo.ipamod.com/depictions/?p=crane
 
 Package: com.ipamod.dayn
@@ -3644,19 +3644,19 @@ SHA256: 5905b0f290cafb3b0a360a47f185585e33bda7d560a2a8b94f7aa5cc2e45aa7e
 Depiction: https://repo.ipamod.com/depictions/?p=homegesture
 
 Package: com.ipamod.indy
-Name: Indy.
-Version: 1.1.0k
+Name: Indy
+Version: 1.1.1k
 Description: Device control from status bar
 Author: burrit0z <burrit0ztweaks@gmail.com>.
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.indy_1.1.0k.deb
-Size: 2388234
-MD5sum: 5890b2e196840726b638b74efbdc05ab
-SHA1: 471da64e67c32ea3fd5231cb2dca65e8fe8ca3c6
-SHA256: 0740db073483730bcc05105ac4ce55822219f6bd541266e4f782a189fb8b4e4e
+Filename: ./debs/com.ipamod.indy_1.1.1k.deb
+Size: 2388246
+MD5sum: bb1dfb5ca504708042dabc0dfb556e96
+SHA1: 10fb10c4f3ace6c7c47885e18d7ff56ad3390088
+SHA256: 0d39b49f19df0980bc9b38f3020ab4086072947a65d6156cfd1de2484ce740ed
 Depiction: https://repo.ipamod.com/depictions/?p=indy
 
 Package: com.ipamod.homelist

@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.crane</id>
 	<name>Crane</name>
-	<version>1.0.5</version>
+	<version>1.0.5-2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
