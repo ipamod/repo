@@ -3821,18 +3821,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=instaulxi
 
 Package: com.ipamod.velaris
 Name: Velaris
-Version: 1.0.0k
+Version: 1.1k
 Description: Home screen calendar and weather widgets.
 Author: Ben Giannis.
 Depends: mobilesubstrate
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.velaris_1.0.0k.deb
-Size: 1775162
-MD5sum: d5f820e3bb8d4dcd6888648005ba55cf
-SHA1: ed644027ceb2e681103ed66d8d72508fa3397ff3
-SHA256: ea2cbefbfde9dce5a245a6c430707d309f74d0931236e208ab2954701c334310
+Filename: ./debs/com.ipamod.velaris_1.1k.deb
+Size: 1791570
+MD5sum: 0b4dad810779556c3f94ee015e3f3bb6
+SHA1: 95451d262b3ee519dd317667c28bfd39d0e7d832
+SHA256: 4a21b0d172ecf30b24788094c1062827ae1e86bbcce928ad235437111f8123b9
 Depiction: https://repo.ipamod.com/depictions/?p=velaris
 
 Package: com.ipamod.magmaevo
@@ -4379,18 +4379,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=libsparkapplist
 
 Package: com.ipamod.n95
 Name: N95
-Version: 1.8
+Version: 2.1
 Description: Mask for customizing album covers in various music services
 Author: Ethan Whited <ethanwhited2208@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.n95_1.8.deb
-Size: 4534338
-MD5sum: 836e73f5ceea43df28e30951067fa0d6
-SHA1: b513bce628f4315b3038d78ba5fdbf571400a030
-SHA256: 2503119c617feacd852c968602590ec87c024ff142c676239be1bc833f400791
+Filename: ./debs/com.ipamod.n95_2.1.deb
+Size: 4536714
+MD5sum: 22c4a3f24fe50c8865840254313595d0
+SHA1: dbe401a357402f9484e842d1c651a7a3fc0c580e
+SHA256: 204149dfa7ae3d0ad1d3f26654b15c6c54f5b48e16c8b8cd66449381a484af06
 Depiction: https://repo.ipamod.com/depictions/?p=n95
 
 Package: com.ipamod.bigbangx
@@ -5861,3 +5861,19 @@ MD5sum: 39fffb278cf83584927f59ae34569006
 SHA1: 87c51973ea32f916cf14c68f6589b16699c46b5a
 SHA256: ec84b03389d31cf4db47a6b5933410e54b978ca18ea53e42bb04fc091f6dd9e0
 Depiction: https://repo.ipamod.com/depictions/?p=SmartNotifications
+
+Package: com.ipamod.prefixui
+Name: PrefixUI
+Version: 1.2.6
+Description: An awesome framework of some sort!!.
+Author: LaughingQuoll
+Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.prefixui_1.2.6.deb
+Size: 37332
+MD5sum: c6d519c1b60c4cc7e205f2deb86473a2
+SHA1: ee0420c32347b680398a2bead419f66f2c33382b
+SHA256: 04ffbbf9fe54748f26988c279dc29b8c2eb12fe52a01e4c69bbdb55ab75d54ec
+Depiction: https://repo.ipamod.com/depictions/?p=prefixui
