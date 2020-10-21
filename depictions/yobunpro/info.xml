@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.yobunpro</id>
 	<name>Yobun Pro</name>
-	<version>3.7k</version>
+	<version>3.7.2k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>

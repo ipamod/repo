@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.smartnetwork</id>
+	<name>SmartNetwork</name>
+	<version>2.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common, org.thebigboss.wifiutil, libactivator</package>
+	</dependencies>
+	<shortDescription> Cellular data and WiFi management.
+</shortDescription>
+	<descriptionlist>
+		<description> SmartNetwork is divided into two parts.
+Once downloaded, you get a tweak for managing cellular data and WiFi networks + an app called WiFiList that displays all known connected networks and their password, with one click in the box you can easily share the password..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

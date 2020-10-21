@@ -367,17 +367,17 @@ Author: sharedRoutine.
 Depiction: https://repo.ipamod.com/depictions/?p=appcrumb
 
 Package: com.ipamod.ainsworth
-Version: 1.3k
+Version: 1.4k
 Section: Tweaks
 Maintainer: IPAMOD
-Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker, com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.ainsworth_1.3k.deb
-Size: 500474
-MD5sum: 980c15695d3ad53913b6b3e3ca1c9984
-SHA1: 777b45a314e271b1933e44f20ff273bf47e11c40
-SHA256: 1fc112b607ddcd43975c473953f80eb49d4f4069935d76c9f017a573a2eb9203
-Description: This tweak will give you the same connection popup with any Bluetooth device.
+Filename: ./debs/com.ipamod.ainsworth_1.4k.deb
+Size: 489460
+MD5sum: 59e4571c9c3c202fd88d7f4a7f245c48
+SHA1: b6cb47bb670f6a248e9c8d93f973affc1630bad6
+SHA256: 50092e6fc90716bd37e2c56cc487045870f57552ab0eef36cf44110c43b5f408
+Description: Bluetooth connection widget for devices as when connecting AirPods.
 Name: Ainsworth
 Author: Dave Van Wijk <vanwijkdave@gmail.com>.
 Depiction: https://repo.ipamod.com/depictions/?p=ainsworth
@@ -1279,16 +1279,16 @@ Author: stem grade.
 Depiction: https://repo.ipamod.com/depictions/?p=betternetpremium
 
 Package: com.ipamod.bubbleapps
-Version: 2.1k
+Version: 2.1.1k
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: org.thebigboss.libcolorpicker, mobilesubstrate, applist
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.bubbleapps_2.1k.deb
-Size: 261222
-MD5sum: d786aa3fc4837962ad19cfb955238584
-SHA1: 7bb0e61f4791fff677bbfa91b781c0b9bacd3b21
-SHA256: a8360bc880606e5798632edb88dfe84ad4d4009e4807443fbad4063e6eb2775e
+Filename: ./debs/com.ipamod.bubbleapps_2.1.1k.deb
+Size: 261636
+MD5sum: 43189d3f989973228950f433c331a206
+SHA1: f50492d65f70be5a598286bed2048ca593fdd47c
+SHA256: dc44c1d8d0fab7df8ce7105c934038674f3324f199c8e8038e935d47d55d8f8f
 Description: Quick access to essential apps from the home screen.
 Name: Bubble Apps
 Author: 0xkuj.
@@ -1807,16 +1807,16 @@ Author: shad0wdev.
 Depiction: https://repo.ipamod.com/depictions/?p=coloredvk2-beta
 
 Package: com.ipamod.ccmusicartwork
-Version: 1.0.3
+Version: 1.0.5
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, firmware (>= 13.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.ccmusicartwork_1.0.3.deb
-Size: 22052
-MD5sum: d10a8030139f5e207aaa1b0c051e1bb0
-SHA1: d5379b0769ca962544744b5633c49b01bed9ae1d
-SHA256: 1a1538299f02b79a4e2054d7a0c36bc75090a902096a3c264a5ee2f61e36e136
+Filename: ./debs/com.ipamod.ccmusicartwork_1.0.5.deb
+Size: 30678
+MD5sum: 20b77ab5d75d2c16465120cf09fd4255
+SHA1: ef1f9c872db22ef258ad39c98f606d65da2327a9
+SHA256: bda05e0bd17782e0e68762cae0ade38463b9c858e004293d7ba4c93e1b74de11
 Description: Album photo in the player module
 Name: CCArtwork.
 Author: cole cabral.
@@ -2352,18 +2352,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=datameter
 
 Package: com.ipamod.crane
 Name: Crane
-Version: 1.0.5-2
+Version: 1.1-2
 Description: Multi-containers (multi-accounts) for applications
 Author: opa334.
 Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.crane_1.0.5-2.deb
-Size: 331938
-MD5sum: 98f5949a32247ae6c9812f8f279b432c
-SHA1: 488ae725dec20f0250931ada47062026c23b6194
-SHA256: 0b9323b4509cc6b0e3114c9607a3ea6851a3538433135948c4b40e89f037a1c6
+Filename: ./debs/com.ipamod.crane_1.1-2.deb
+Size: 352294
+MD5sum: 43e839b748a8466c5275748e803ba14e
+SHA1: 4ac6859b5df595511e7cd46dbc8aefc6ea6549f3
+SHA256: 1d7a359cbb67f61e85ff7cd0e655bbebbb7ee917555508066b0b185e71b345d4
 Depiction: https://repo.ipamod.com/depictions/?p=crane
 
 Package: com.ipamod.dayn
@@ -4267,18 +4267,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=mediabar
 
 Package: com.ipamod.yobunpro
 Name: Yobun Pro
-Version: 3.7k
+Version: 3.7.2k
 Depends: mobilesubstrate
 Description: Managing the processes of your device.
 Author: Plat-Ykor <plat-ykor@libero.it>
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.yobunpro_3.7k.deb
-Size: 623070
-MD5sum: 408cfd1612fcb7516e9cc1d826c498a5
-SHA1: b6288dc55bc2529b7cda3b15d7a85520670cfcb5
-SHA256: b3367178a2e1eddfa39092e7c655751f1d43ddb5f58b235323537ef04c0cc4d7
+Filename: ./debs/com.ipamod.yobunpro_3.7.2k.deb
+Size: 623158
+MD5sum: e6b00699902103013e6168cfaa2a93cd
+SHA1: 465b4b3e202cb9a63b10db856b83cc5a096d406e
+SHA256: 0bcd935c710e16d9a517ea29ebfcbf1b3fc413f93b7046a11c42921945ace454
 Depiction: https://repo.ipamod.com/depictions/?p=yobunpro
 
 Package: com.ipamod.kalm
@@ -5242,18 +5242,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=musicartwork
 
 Package: com.ipamod.no2theft3
 Name: No2Theft3
-Version: 1.4-1k
+Version: 1.5k
 Description: "Anti-theft system" for your device
 Author: elias
 Depends: mobilesubstrate, ws.hbang.common
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.no2theft3_1.4-1k.deb
-Size: 1170044
-MD5sum: fa5f5e4953cac3698fd56d3c57a40321
-SHA1: fbd55f0c4f96b21dbdb4ff647ceb434771ab7bd6
-SHA256: 23d56822f665ebf06174190ba74872cd3e1e7b95ad3ca7e52944de4833d7fffd
+Filename: ./debs/com.ipamod.no2theft3_1.5k.deb
+Size: 1175978
+MD5sum: df3c284d00858741da71f47984b086dc
+SHA1: 4b60397252f8a4b8a3194bbd123b91e3de2e5f25
+SHA256: 419ed644fb88723e700462e03f67cfbeed9467d099a5e88c34aab00b0c7dc91c
 Depiction: https://repo.ipamod.com/depictions/?p=no2theft3
 
 Package: com.ipamod.musicdockx
@@ -5765,3 +5765,99 @@ MD5sum: 6d29da3206b4490580477bbedbac0845
 SHA1: ad072e6450787ac7822013199eb1f923df053619
 SHA256: dcf8f4245876c3da3552e0c016e11bacf46c61ea3294eb5082299a445fa36d65
 Depiction: https://repo.ipamod.com/depictions/?p=pasithea2
+
+Package: com.ipamod.smartbattery
+Name: SmartBattery
+Version: 3.5
+Description: Smart power saving mode.
+Author: elias
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.smartbattery_3.5.deb
+Size: 784506
+MD5sum: 0bfb218f806ad05ef2bdaa228a9518c2
+SHA1: cdece1db7ed383e35d590bbdc3fd5dbda47a38c4
+SHA256: 8f08e554ff65515bf4363307f9effd69947ef2a302419859cd165523100116ff
+Depiction: https://repo.ipamod.com/depictions/?p=smartbattery
+
+Package: com.ipamod.iwhatsapp
+Name: iWhatsApp
+Version: 0.7.6
+Description: Autoresponder for WhatsApp messages.
+Author: MeBlackHat <meblackhat@protonmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.iwhatsapp_0.7.6.deb
+Size: 283654
+MD5sum: ee961e95f14e66dff3906d81f3a831b9
+SHA1: 678c19eaaa646877a632d349573bbb2fd9ca52e2
+SHA256: 7fb574ea704935ca39bc18b7807c866e3397f0230e9a68bab3a15cfa1f16e11f
+Depiction: https://repo.ipamod.com/depictions/?p=iwhatsapp
+
+Package: com.ipamod.lscontacts
+Name: LS Contacts
+Version: 1.2.2
+Description: Favorite contacts widget on lock screen.
+Author: 0xkuj
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.lscontacts_1.2.2.deb
+Size: 818692
+MD5sum: a8a772595672ba0647777bb907d76b0d
+SHA1: ed9c5b7322867d54c13cd4b278d18d7a294329d8
+SHA256: c00eefd5a5a9f281727778d9f06aeecd4d796872ad8dc9f2c6d4e3e516566f8f
+Depiction: https://repo.ipamod.com/depictions/?p=lscontacts
+
+Package: com.ipamod.animplus
+Name: AnimPlus
+Version: 1.0-6k
+Description: Speed ​​up the animation of your device. Successor to AnimationsBeFastPlus.
+Author: eXqusic
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.animplus_1.0-6k.deb
+Size: 110340
+MD5sum: d5f7f1eb192ed4fc76b190127e45b6f3
+SHA1: d613a04260eef13c723a009b69f2d602760b4e55
+SHA256: da5ff2dcd1b901c4e68cfb2ec9f50d3cb3a5f350cac1e9e05fb4a245b112fd93
+Depiction: https://repo.ipamod.com/depictions/?p=animplus
+
+Package: com.ipamod.smartnetwork
+Name: SmartNetwork
+Version: 2.0k
+Description: Cellular data and WiFi management.
+Author: elias
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common, org.thebigboss.wifiutil, libactivator
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.smartnetwork_2.0k.deb
+Size: 403154
+MD5sum: 63756f2209a80ecc4540d0424e43577f
+SHA1: b9e6bc86511207732b41940f6bae279066f25333
+SHA256: c1f308043ee6bf7e50492db2a2acd41cd3f14a73a45dfdf28cbd5012eade8c5a
+Depiction: https://repo.ipamod.com/depictions/?p=smartnetwork
+
+Package: com.ipamod.SmartNotifications
+Name: SmartNotifications
+Version: 1.7-1k
+Description: Notification manager. Customize your notifications the way YOU want it!.
+Author: Elias Sfeir
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.SmartNotifications_1.7-1k.deb
+Size: 2593498
+MD5sum: 39fffb278cf83584927f59ae34569006
+SHA1: 87c51973ea32f916cf14c68f6589b16699c46b5a
+SHA256: ec84b03389d31cf4db47a6b5933410e54b978ca18ea53e42bb04fc091f6dd9e0
+Depiction: https://repo.ipamod.com/depictions/?p=SmartNotifications

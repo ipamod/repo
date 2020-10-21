@@ -1,0 +1,42 @@
+<package>
+	<id>com.ipamod.SmartNotifications</id>
+	<name>SmartNotifications</name>
+	<version>1.7-1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Notification manager. Customize your notifications the way YOU want it!.
+</shortDescription>
+	<descriptionlist>
+		<description> Configure notification settings for each installed application separately:
+- custom sounds,
+- adjustable volume level,
+- flash pulsation,
+- blocking notifications containing programmed forbidden words,
+and other settings.
+
+All settings are applied automatically without respring.
+
+Required libsparkapplist dependency.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

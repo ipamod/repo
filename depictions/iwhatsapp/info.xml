@@ -1,0 +1,49 @@
+<package>
+	<id>com.ipamod.iwhatsapp</id>
+	<name>iWhatsApp</name>
+	<version>0.7.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport</package>
+	</dependencies>
+	<shortDescription> Autoresponder for WhatsApp messages.
+</shortDescription>
+	<descriptionlist>
+		<description> ATTENTION!
+WhatsApp version 2.20.100 or higher is supported.
+
+iWhatsApp will allow you not to be distracted by trifles by answering WhatsApp.
+Keep doing what you love, iWhatsApp will take care of your messages.
+iWhatsApp will answer, according to a pre-prepared template, for each contact individually; or everyone is the same.
+iWhatsApp can also match the words and phrases of the received message with a template and respond with pre-prepared phrases just for this case.
+
+Some functions:
+- Answering machine for messages.
+- Activator gestures to activate responses.
+- Module for activating responses in the control center.
+- Individual responses for each contact separately.
+- One, prepared answer for all contacts.
+- Add contacts to the blacklist so that they do not receive automatic replies.
+- Delay in sending automatic replies.
+- Comparison of words and phrases..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

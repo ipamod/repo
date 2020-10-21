@@ -1,27 +1,29 @@
 <package>
-	<id>com.ipamod.ccmusicartwork</id>
-	<name>CCArtwork.</name>
-	<version>1.0.5</version>
+	<id>com.ipamod.smartbattery</id>
+	<name>SmartBattery</name>
+	<version>2.2.4.1k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> mobilesubstrate, firmware (>= 13.0)</package>
+		<package> mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport</package>
 	</dependencies>
-	<shortDescription> Use the photo of the music being played as the background of the player module in the control center.</shortDescription>
+	<shortDescription> Smart power saving mode.
+</shortDescription>
 	<descriptionlist>
-		<description>Bug fixes and other improvements..</description>
+		<description> Smart power saving mode.
+</description>
 			</descriptionlist>
 	<screenshots>
 	<screenshot>
 			<description>Screenshot 1.</description>
-			<image>ccmusicartwork1.jpg</image>
+			<image>kai1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description>Screenshot 2.</description>
-			<image>colorbanners22.jpg</image>
+			<image>prysm1.jpeg</image>
 		</screenshot>
 											</screenshots>
 	<changelog>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.ainsworth</id>
 	<name>Ainsworth</name>
-	<version>1.3k</version>
+	<version>1.4k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker</package>
 	</dependencies>
-	<shortDescription>This tweak will give you the same connection popup with any Bluetooth device.</shortDescription>
+	<shortDescription>Bluetooth connection widget for devices as when connecting AirPods.</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		</descriptionlist>
