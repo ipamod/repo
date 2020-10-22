@@ -5877,3 +5877,35 @@ MD5sum: c6d519c1b60c4cc7e205f2deb86473a2
 SHA1: ee0420c32347b680398a2bead419f66f2c33382b
 SHA256: 04ffbbf9fe54748f26988c279dc29b8c2eb12fe52a01e4c69bbdb55ab75d54ec
 Depiction: https://repo.ipamod.com/depictions/?p=prefixui
+
+Package: com.ipamod.peek-a-boo
+Name: Peek-a-Boo
+Version: 11.0.3
+Description: 3D Touch on unsupported devices.
+Author: iOS Creatix
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.peek-a-boo_11.0.3.deb
+Size: 57806
+MD5sum: 9160397a826c5efe13b619ff4afabf19
+SHA1: 1477e30c599591de16d167a01a4d962caab0d596
+SHA256: de77f0f2dd1f35c7912b2b329f1b843d76ce48901117d247832b079513a5e138
+Depiction: https://repo.ipamod.com/depictions/?p=peek-a-boo
+
+Package: com.ipamod.privasee
+Name: PrivaSee
+Version: 1.0.8k
+Description: Hide notifications from prying eyes.
+Author: smokin1337
+Depends: mobilesubstrate, com.spark.libsparkapplist, org.thebigboss.libcolorpicker
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.privasee_1.0.8k.deb
+Size: 1437566
+MD5sum: 5154e43bb5f112d3417bf7b0aad5e43d
+SHA1: bff5feb5811268c4589276b2e82283b3c17068db
+SHA256: 373ebd5d5976ea763a30428927217f8f949d859fc738510b737b13625c7225a5
+Depiction: https://repo.ipamod.com/depictions/?p=privasee
