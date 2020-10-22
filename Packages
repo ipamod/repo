@@ -367,16 +367,16 @@ Author: sharedRoutine.
 Depiction: https://repo.ipamod.com/depictions/?p=appcrumb
 
 Package: com.ipamod.ainsworth
-Version: 1.4k
+Version: 1.4.0.1k
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker, com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.ainsworth_1.4k.deb
-Size: 489460
-MD5sum: 59e4571c9c3c202fd88d7f4a7f245c48
-SHA1: b6cb47bb670f6a248e9c8d93f973affc1630bad6
-SHA256: 50092e6fc90716bd37e2c56cc487045870f57552ab0eef36cf44110c43b5f408
+Filename: ./debs/com.ipamod.ainsworth_1.4.0.1k.deb
+Size: 489122
+MD5sum: d7cbdb11349099dc54673a4c92a2e5f7
+SHA1: 3a09018e5edca4be252166170c01e9a8b7474560
+SHA256: 964b8b5a5cc1dda34e9a8e6d8df6c402378c9a48ee5a9af7966193075f8402ca
 Description: Bluetooth connection widget for devices as when connecting AirPods.
 Name: Ainsworth
 Author: Dave Van Wijk <vanwijkdave@gmail.com>.
@@ -4842,18 +4842,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=microplayer12
 
 Package: com.ipamod.lynx
 Name: Lynx
-Version: 1.8.1
+Version: 1.9
 Description: Fine-tuning your device
 Author: MTAC <mtactheming@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.lynx_1.8.1.deb
-Size: 1026460
-MD5sum: f15391be96479efac733bf8b56f0471e
-SHA1: ad95cf531ac7a60f51b0fba396589a1babeab242
-SHA256: e9e2639d7bfd9397cc7a3e73803e93632012188d8eb1c47455b336579c163085
+Filename: ./debs/com.ipamod.lynx_1.9.deb
+Size: 1136102
+MD5sum: eef3b1238fb5c09e3d23908472abef01
+SHA1: b964a3226828c9aa5c502f37b575194ff8c10263
+SHA256: f78fd5efb1b0e2ca29f6c505150927e894e7292edf9da762a556157bdddf454f
 Depiction: https://repo.ipamod.com/depictions/?p=lynx
 
 Package: com.ipamod.midevice
