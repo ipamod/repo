@@ -5909,3 +5909,35 @@ MD5sum: 5154e43bb5f112d3417bf7b0aad5e43d
 SHA1: bff5feb5811268c4589276b2e82283b3c17068db
 SHA256: 373ebd5d5976ea763a30428927217f8f949d859fc738510b737b13625c7225a5
 Depiction: https://repo.ipamod.com/depictions/?p=privasee
+
+Package: com.ipamod.repower12
+Name: RePower12
+Version: 0.0.4
+Description: More powerful power-off screen.
+Author: Haifisch
+Depends: mobilesubstrate, ws.hbang.common
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.repower12_0.0.4.deb
+Size: 5842734
+MD5sum: 2f62a60cd729340ca58beaab43ef711e
+SHA1: c79311db7b3aedd5e12855f78de3774efe4aab76
+SHA256: 88cb28306319bc3428c55066c799f277e6c9b9ab7a9a7d59746635a3ae198ed0
+Depiction: https://repo.ipamod.com/depictions/?p=repower12
+
+Package: com.ipamod.ringer13
+Name: Ringer13
+Version: 1.2.5
+Description: hange HUD ringer volume.
+Author: KingPuffdaddi
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.ringer13_1.2.5.deb
+Size: 64362
+MD5sum: b20251bedd2915f6226d5f4fd47a24c4
+SHA1: 234b03e87ef8365b3d89c363e58f8b07f76dcedc
+SHA256: 6c2ef4c2bb0be26b8ef98a32237621cc2fa147c978e3e1463cedc11ebad1112c
+Depiction: https://repo.ipamod.com/depictions/?p=ringer13

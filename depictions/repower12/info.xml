@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.repower12</id>
+	<name>RePower12</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common</package>
+	</dependencies>
+	<shortDescription> More powerful power-off screen.
+</shortDescription>
+	<descriptionlist>
+		<description> More powerful power-off screen. Nearly 5 years later, bringing back that OG nostalgia to iOS 7 for iOS 12.
+Compatible with iPhone X, XS and XS Max.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
