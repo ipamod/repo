@@ -6005,3 +6005,19 @@ MD5sum: 8d56cb88624db74351db25d2497a38b6
 SHA1: 86326c087dac7f2631ce5daa73519094f2c332a4
 SHA256: 080ea9a9471e7204810cab653f2dd3d7fa21cabb03359804af4b1dd950573f9d
 Depiction: https://repo.ipamod.com/depictions/?p=PullOverPro
+
+Package: com.ipamod.roundedcc
+Name: RoundedCC
+Version: 1.0.3
+Description: Rounding the corners of control room modules.
+Author: neoney
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.roundedcc_1.0.3.deb
+Size: 8766
+MD5sum: 6c05fc92f35aa1ef9371f95fa1c3f019
+SHA1: 927ca282242cff4968745071409c0b9af4a468e2
+SHA256: 9499d936c0ea88f579fa495df2ba4d96ec4426fb6d0cee8807e92c6a683954ff
+Depiction: https://repo.ipamod.com/depictions/?p=roundedcc
