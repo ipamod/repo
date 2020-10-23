@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.rotarypass</id>
+	<name>RotaryPass</name>
+	<version>1.0.4k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.ipamod.libgraphite(>=2.2.2), firmware(>=11.0)</package>
+	</dependencies>
+	<shortDescription> Password screen redesign.
+</shortDescription>
+	<descriptionlist>
+		<description> Redesign of the password entry screen With many customizations..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

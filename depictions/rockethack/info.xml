@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.rockethack</id>
+	<name>Rocket4Insta Crack</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport, net.limneos.libbulletin</package>
+	</dependencies>
+	<shortDescription> Remove ads in Rocket for Instagram tweak.
+</shortDescription>
+	<descriptionlist>
+		<description> To remove ads, you need to do the following:
+Go to Tweak Settings and click “Upgrade Now”!
+If there is still advertising, then we continue the steps:
+Click “Restore Purchases”;
+Choose “Select PayPal Email”;
+Write "pulandreshack" and click "Proceed";
+Enjoy!.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

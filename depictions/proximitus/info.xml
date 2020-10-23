@@ -1,0 +1,37 @@
+<package>
+	<id>com.ipamod.proximitus</id>
+	<name>Proximitus</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport, net.limneos.libbulletin</package>
+	</dependencies>
+	<shortDescription> Bluetooth notifications.
+</shortDescription>
+	<descriptionlist>
+		<description> Proximitus will notify you when your Bluetooth device is:
+• Connected
+• Disconnected
+• Low battery
+• Too far from your location.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

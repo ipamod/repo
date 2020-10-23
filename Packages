@@ -5941,3 +5941,67 @@ MD5sum: b20251bedd2915f6226d5f4fd47a24c4
 SHA1: 234b03e87ef8365b3d89c363e58f8b07f76dcedc
 SHA256: 6c2ef4c2bb0be26b8ef98a32237621cc2fa147c978e3e1463cedc11ebad1112c
 Depiction: https://repo.ipamod.com/depictions/?p=ringer13
+
+Package: com.ipamod.proximitus
+Name: Proximitus
+Version: 1.1.2
+Description: Bluetooth notifications.
+Author: LaughingQuoll
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport, net.limneos.libbulletin
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.proximitus_1.1.2.deb
+Size: 65754
+MD5sum: 70be696e486bc2483bcdeb14b5d64ac8
+SHA1: 3614d6f40fd37e1b1a978a26456eb353efe088e3
+SHA256: 561d752a22a734061ce585633353151edfd87c530673552eedf00b1deedb3cd0
+Depiction: https://repo.ipamod.com/depictions/?p=proximitus
+
+Package: com.ipamod.rockethack
+Name: Rocket4Insta Crack
+Version: 1.4
+Description: Remove ads in Rocket for Instagram tweak.
+Author: Pulandres
+Depends: me.alfhaily.rocket
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.rockethack_1.4.deb
+Size: 19166
+MD5sum: 6991cca41d0924cbf22754a030caae6e
+SHA1: 56beeb7804bb6dbdf204263d37398b5351ff487c
+SHA256: 4f812ae2f2ed3332e564a7f7f93ca4d170f930f04b7b1aa4d21834184cd786b0
+Depiction: https://repo.ipamod.com/depictions/?p=rockethack
+
+Package: com.ipamod.rotarypass
+Name: RotaryPass
+Version: 1.0.4k
+Description: Password screen redesign.
+Author: Geometric Software
+Depends: mobilesubstrate, preferenceloader, com.ipamod.libgraphite(>=2.2.2), firmware(>=11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.rotarypass_1.0.4k.deb
+Size: 647404
+MD5sum: 37dfd8b153b6ec9d26616d0ba7dccc21
+SHA1: 884a6dba6e07e4715e02c5ebec011ec49422a205
+SHA256: 6b757cd9dd060b528e4dc8e53f56582f9273b6ce3019072573a9896ec4f3794a
+Depiction: https://repo.ipamod.com/depictions/?p=rotarypass
+
+Package: com.ipamod.PullOverPro
+Name: PullOver Pro
+Version: 1.4-2k
+Description: The best kind of multitasking.
+Author: c1d3r
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.PullOverPro_1.4-2k.deb
+Size: 5788326
+MD5sum: 8d56cb88624db74351db25d2497a38b6
+SHA1: 86326c087dac7f2631ce5daa73519094f2c332a4
+SHA256: 080ea9a9471e7204810cab653f2dd3d7fa21cabb03359804af4b1dd950573f9d
+Depiction: https://repo.ipamod.com/depictions/?p=PullOverPro
