@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.purefocus2</id>
+	<name>PureFocus2</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), applist</package>
+	</dependencies>
+	<shortDescription> Your device. Your focus.
+</shortDescription>
+	<descriptionlist>
+		<description> PureFocus2 turns off access to notifications and distracting apps for a specific amount of time, so you can focus solely on the tasks you need to get done.
+It's elegant and simple: just select the apps you want, enter the amount of time, and click Start Focus Mode!
+Purefocus2 also has a switch in the control center for even faster focusing..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

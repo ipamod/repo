@@ -367,16 +367,16 @@ Author: sharedRoutine.
 Depiction: https://repo.ipamod.com/depictions/?p=appcrumb
 
 Package: com.ipamod.ainsworth
-Version: 1.4.0.1k
+Version: 1.4.0.2k
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker, com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.ainsworth_1.4.0.1k.deb
-Size: 489122
-MD5sum: d7cbdb11349099dc54673a4c92a2e5f7
-SHA1: 3a09018e5edca4be252166170c01e9a8b7474560
-SHA256: 964b8b5a5cc1dda34e9a8e6d8df6c402378c9a48ee5a9af7966193075f8402ca
+Filename: ./debs/com.ipamod.ainsworth_1.4.0.2k.deb
+Size: 488550
+MD5sum: 3a257d45c669ca3f5f4cead26276555e
+SHA1: f5b9270eb7251deacba1de6fd693e2442189bf76
+SHA256: 25bad9f6b365b78d62177ff77e24a186ec37fa1f84ee01449aa9975f9411af58
 Description: Bluetooth connection widget for devices as when connecting AirPods.
 Name: Ainsworth
 Author: Dave Van Wijk <vanwijkdave@gmail.com>.
@@ -4379,18 +4379,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=libsparkapplist
 
 Package: com.ipamod.n95
 Name: N95
-Version: 2.1
+Version: 2.2
 Description: Mask for customizing album covers in various music services
 Author: Ethan Whited <ethanwhited2208@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.n95_2.1.deb
-Size: 4536714
-MD5sum: 22c4a3f24fe50c8865840254313595d0
-SHA1: dbe401a357402f9484e842d1c651a7a3fc0c580e
-SHA256: 204149dfa7ae3d0ad1d3f26654b15c6c54f5b48e16c8b8cd66449381a484af06
+Filename: ./debs/com.ipamod.n95_2.2.deb
+Size: 1735100
+MD5sum: d1d8ae979658c505e60a8669a1d03568
+SHA1: cce7ab2ffe284fb6cca73f3d79f9768e1f75d483
+SHA256: 26e43aed703ca4295c6caa92e9ba71c158b02ba46306843e1a0498d63896a47d
 Depiction: https://repo.ipamod.com/depictions/?p=n95
 
 Package: com.ipamod.bigbangx
@@ -4842,18 +4842,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=microplayer12
 
 Package: com.ipamod.lynx
 Name: Lynx
-Version: 1.9
+Version: 1.9.1
 Description: Fine-tuning your device
 Author: MTAC <mtactheming@gmail.com>
 Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.lynx_1.9.deb
-Size: 1136102
-MD5sum: eef3b1238fb5c09e3d23908472abef01
-SHA1: b964a3226828c9aa5c502f37b575194ff8c10263
-SHA256: f78fd5efb1b0e2ca29f6c505150927e894e7292edf9da762a556157bdddf454f
+Filename: ./debs/com.ipamod.lynx_1.9.1.deb
+Size: 1137272
+MD5sum: 560f70e58bd74ecc21ef1a16f04a7265
+SHA1: 409a15f66c960c0316963b7e6589c3608d875a95
+SHA256: ca97c583004feb3605d5733e49e077169311e2b47a13fc66a8c592f08f2f1f89
 Depiction: https://repo.ipamod.com/depictions/?p=lynx
 
 Package: com.ipamod.midevice
@@ -5242,18 +5242,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=musicartwork
 
 Package: com.ipamod.no2theft3
 Name: No2Theft3
-Version: 1.5k
+Version: 1.5-1k
 Description: "Anti-theft system" for your device
 Author: elias
 Depends: mobilesubstrate, ws.hbang.common
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.no2theft3_1.5k.deb
-Size: 1175978
-MD5sum: df3c284d00858741da71f47984b086dc
-SHA1: 4b60397252f8a4b8a3194bbd123b91e3de2e5f25
-SHA256: 419ed644fb88723e700462e03f67cfbeed9467d099a5e88c34aab00b0c7dc91c
+Filename: ./debs/com.ipamod.no2theft3_1.5-1k.deb
+Size: 1176004
+MD5sum: 88cb20831885eab768c248ca8c8241c1
+SHA1: 044a8906ed84e45a135d4407b8a579bb5a23e7b2
+SHA256: 94b5024cbe5f923fd0b56fc92f11fd47b893abce6ec3ef4440fe5a67994f4aba
 Depiction: https://repo.ipamod.com/depictions/?p=no2theft3
 
 Package: com.ipamod.musicdockx
@@ -6021,3 +6021,35 @@ MD5sum: 6c05fc92f35aa1ef9371f95fa1c3f019
 SHA1: 927ca282242cff4968745071409c0b9af4a468e2
 SHA256: 9499d936c0ea88f579fa495df2ba4d96ec4426fb6d0cee8807e92c6a683954ff
 Depiction: https://repo.ipamod.com/depictions/?p=roundedcc
+
+Package: com.ipamod.purefocus2
+Name: PureFocus2
+Version: 2.0
+Description: Your device. Your focus.
+Author: Dave Van Wijk <vanwijkdave@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0), applist
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.purefocus2_2.0.deb
+Size: 149408
+MD5sum: 9d46d15e4ee84551570f1b1c1d096dec
+SHA1: ca6f8fd8f0a1b992aab519aa1b8ad294d9928237
+SHA256: d0a4f48dd38a972ae59913254743fe997580b846913a2657a0616ac290f3d3dd
+Depiction: https://repo.ipamod.com/depictions/?p=purefocus2
+
+Package: com.ipamod.safariplus
+Name: Safari Plus
+Version: 1.7.8-2
+Description: Various improvements for Safari.
+Author: opa334 <opa334@protonmail.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.safariplus_1.7.8-2.deb
+Size: 1772360
+MD5sum: 9c8f2d18385797df52a8ce30ccb2d44a
+SHA1: 76d48128da1dc140e48933bf4034b8668ad6fec0
+SHA256: 158e0d4c823ae2fb297eac7918cef57b9eb8f4c67453276fa80121721df201e4
+Depiction: https://repo.ipamod.com/depictions/?p=safariplus

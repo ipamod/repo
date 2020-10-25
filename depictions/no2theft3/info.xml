@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.no2theft3</id>
 	<name>No2Theft3</name>
-	<version>1.5k</version>
+	<version>1.5-1k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.ainsworth</id>
 	<name>Ainsworth</name>
-	<version>1.4.0.1k</version>
+	<version>1.4.0.2k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>

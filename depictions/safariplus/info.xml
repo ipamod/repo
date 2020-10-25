@@ -1,0 +1,52 @@
+<package>
+	<id>com.ipamod.safariplus</id>
+	<name>Safari Plus</name>
+	<version>1.7.8-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap</package>
+	</dependencies>
+	<shortDescription> Various improvements for Safari.
+</shortDescription>
+	<descriptionlist>
+		<description> Various enhancements for Safari
+
+Features:
+- Forced HTTPS with custom site exceptions
+- There are "Open in new tab" and "Open in background"
+options - New option to open long clicked link in opposite surfing mode
+- Download any file from your phone via file - picker.
+- Advanced Downloads: Upload files to a local directory and more!
+- Switch desktop mode
+- Long press on sentences to paste them into the URL bar.
+- Switch to preferred surfing mode when starting / resuming / opening external link
+- Close all tabs from preferred surfing mode (s) when exiting / minimizing Safari
+- Clear browser data on exit / minimize Safari
+- Configurable gestures in URL bar
+- Full screen scrolling
+- Lock top and bottom border (when scrolling)
+- Disable private surfing
+- Change (almost) any Safari interface color
+- Always open click links in a new tab
+- Suppress dialog that appears when accessing mailto url via WebClip on iOS 10.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
