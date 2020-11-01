@@ -1,0 +1,41 @@
+<package>
+	<id>com.ipamod.scorpion</id>
+	<name>Scorpion</name>
+	<version>1.4.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription> Minimalistic call window design.
+</shortDescription>
+	<descriptionlist>
+		<description> • Say no to the annoying call interface.
+Scorpion replaces the standard calling interface with a sleek and unobtrusive design. It supports standard calling, FaceTime audio and Voice over Internet Protocol (VoIP) applications such as WhatsApp, Messenger, Skype, and more.
+
+• Interface settings.
+The Scorpion is available with three visually appealing and contemporary styles to choose from, allowing the user to create challenges that best adapt to their needs.
+Scorpion has a wide range of customizations available that allow users to create a unique calling interface. From color to animation; from call handling to gestures. The tweak was designed with user freedom in mind. You can customize the background color, popup, transitions, etc.
+
+• Call control.
+Scorpion provides the same controls as the standard call user interface and easily adapts them to different use cases such as multiple calls or VoIP calls..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

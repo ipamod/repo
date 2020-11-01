@@ -1,0 +1,34 @@
+<package>
+	<id>com.ipamod.quickls</id>
+	<name>QuickLS</name>
+	<version>2.5.2k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, applist, ws.hbang.common (>= 1.11), ws.hbang.alderis</package>
+	</dependencies>
+	<shortDescription> Customizable shortcut buttons for the lock screen.
+</shortDescription>
+	<descriptionlist>
+		<description> Customizable shortcut buttons for the lock screen.
+
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

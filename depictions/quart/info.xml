@@ -1,0 +1,38 @@
+<package>
+	<id>com.ipamod.quart</id>
+	<name>Quart</name>
+	<version>1.3.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.laughingquoll.prefixui</package>
+	</dependencies>
+	<shortDescription> Redesign of notifications and music player.
+</shortDescription>
+	<descriptionlist>
+		<description> Quart will bring a new design to your lock screen.
+Notification Banners are now rounded and more compact.
+New compact, rounded design for Media Player on the lock screen.
+Drag down to clear all notifications at once.
+A huge number of customization settings for banners and icons.
+Quart is optimized to work with Grupi, Noctis Neo and NextUp 2..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

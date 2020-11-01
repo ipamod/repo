@@ -1,0 +1,35 @@
+<package>
+	<id>com.ipamod.sberjailbilbreakbypass</id>
+	<name>SberbankBypass (iOS 12+)</name>
+	<version>0.0-3-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> firmware (>= 12.0), mobilesubstrate, preferenceloade</package>
+	</dependencies>
+	<shortDescription> Sberbank blocking bypass for iOS 12-13.
+</shortDescription>
+	<descriptionlist>
+		<description> Sberbank blocking bypass for iOS 12-13.
+
+After installing the tweak, you need to reinstall the Sberbank application.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

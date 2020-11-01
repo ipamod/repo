@@ -1,0 +1,51 @@
+<package>
+	<id>com.ipamod.rapid</id>
+	<name>Rapid</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, com.muirey03.libimagepicker, applist, ws.hbang.alderis, ws.hbang.common (>= 1.14)</package>
+	</dependencies>
+	<shortDescription> New shortcut widgets and shortcuts page inspired by iOS 14 aesthetics.
+</shortDescription>
+	<descriptionlist>
+		<description> Rapid is not only aesthetically attractive, but also carries a functional load on the page of its widgets:
+- The iCloud access shortcut can be supplemented with its own avatar and name.
+- Set a timer to count down actions: until the screenshot is taken or until the phone is locked.
+- Set a shortcut to a specific page on Reddit or Twitter.
+- Provides information about your WiFi and cellular network; and on click transfers to their settings.
+- 6 free app shortcuts of your choice.
+- Music widget with a background image of the album cover, with animation in the form of waves while playing music. Shortcuts to the Music and Spotify applications.
+- Widget of access to the special editor "Showcase"
+
+Introducing the Showcase Editor:
+- Adds a screenshot to the virtual phone frame of your choice.
+- Adds background image, text.
+- You can rotate the virtual phone image in 3D
+- Allows you to save your Showcase in a photo or directly to Twitter.
+
+
+ATTENTION!
+- For iOS 13
+only - For iPhone only (iPhone SE
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>
