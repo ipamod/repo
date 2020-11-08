@@ -1,7 +1,7 @@
 <package>
 	<id>com.ipamod.lockpluspro</id>
 	<name>LockPlus Pro</name>
-	<version>1.9.4k</version>
+	<version>1.9.6k</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>

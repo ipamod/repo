@@ -1,0 +1,36 @@
+<package>
+	<id>com.ipamod.sphere</id>
+	<name>Sphere</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, firmware (>=12.0), ws.hbang.common (>= 1.11), preferenceloader</package>
+	</dependencies>
+	<shortDescription> Multitasking anywhere in the system. Based on the old tweak AppHeads.
+</shortDescription>
+	<descriptionlist>
+		<description> Sphere creates small "spheres" of previously open programs.
+The spheres move freely so as not to obscure the area of ​​the screen you want.
+The spheres open their corresponding program in a pop-up window that occupies 80% of the screen, which allows for polysemy work.
+Long press on the sphere opens the app in full screen mode..
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

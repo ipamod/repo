@@ -847,16 +847,16 @@ Author: gilshahar7.
 Depiction: https://repo.ipamod.com/depictions/?p=batterynotch
 
 Package: com.ipamod.audiorecorderxs
-Version: 3.5-32
+Version: 3.5-74
 Section: Tweaks
 Maintainer: IPAMOD
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.ipamod.limneosos
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.audiorecorderxs_3.5-32.deb
-Size: 4815692
-MD5sum: 8f291ad5e5862b3ceedd0f1dca6eeede
-SHA1: 060c325c9402009e8b2d95f2915f31c69c2891ab
-SHA256: aeb4d27f256e09f8d10b9bb7e3290980dff98e3fbf88a6e9605c60b6d8458906
+Filename: ./debs/com.ipamod.audiorecorderxs_3.5-74.deb
+Size: 4821634
+MD5sum: 8f0d9144c02459b6d260d5088a76ea8d
+SHA1: 7e8de2ab0087b63d1cec115b4f2cbf148cf819fa
+SHA256: 793088966cdf4c05dfe0434a3978bbb6b48ebda4cd4f664e2652c18e670b6421
 Description: Record phone calls and system sounds.
 Name: AudioRecorder XS (iOS 12/13)
 Author: Elias Limneos <limneoselias@gmail.com>.
@@ -2352,18 +2352,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=datameter
 
 Package: com.ipamod.crane
 Name: Crane
-Version: 1.1-2
+Version: 1.1.1
 Description: Multi-containers (multi-accounts) for applications
 Author: opa334.
-Depends: firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Depends: firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.crane_1.1-2.deb
-Size: 352294
-MD5sum: 43e839b748a8466c5275748e803ba14e
-SHA1: 4ac6859b5df595511e7cd46dbc8aefc6ea6549f3
-SHA256: 1d7a359cbb67f61e85ff7cd0e655bbebbb7ee917555508066b0b185e71b345d4
+Filename: ./debs/com.ipamod.crane_1.1.1.deb
+Size: 389920
+MD5sum: c34f35b857ff4e79c398beecd10cdd1e
+SHA1: 7658f94c56b47c850c7a3e284e864faf184edb29
+SHA256: 57ca3e193ce9679ca671851dbb00e486ad66e2e2fda14721b42c60468a1bb8b8
 Depiction: https://repo.ipamod.com/depictions/?p=crane
 
 Package: com.ipamod.dayn
@@ -3183,18 +3183,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=floatingdockplus13
 
 Package: com.ipamod.icleanerpro
 Name: iCleaner Pro.
-Version: 7.8.3k
+Version: 7.9.0
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>.
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Section: Utilities
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.icleanerpro_7.8.3k.deb
-Size: 9550798
-MD5sum: a53dbc868c86aeb68810e30bcda6b1d1
-SHA1: 3a6566c462f6ec3aad11d2ba93bb7049afdc3a64
-SHA256: 3a1b5f7ba1c6022bf8e57ccf5bb650ac92986edc4da3ae31d70faf4e70108f68
+Filename: ./debs/com.ipamod.icleanerpro_7.9.0.deb
+Size: 6789978
+MD5sum: 006fab385292fd54db284b83b7196df4
+SHA1: 35a923a0fc78e2583c28fc6ef3cc7dfc6cdd0044
+SHA256: e68cfd7281648095040e449e829adba775dfef45829fa4e7e17bf59b6aa9a1bb
 Depiction: https://repo.ipamod.com/depictions/?p=icleanerpro
 
 Package: com.ipamod.localiapstore
@@ -3753,22 +3753,22 @@ Size: 424462
 MD5sum: 4bfcb12d2e4e66825d1728fa31b5a061
 SHA1: 4accda4ebbdae61b7e02591f4b9817ba53144ff3
 SHA256: 77c3ca894878347dec91cf3af648877416f111a74ca8f5091edfe22c2f039b5c
-Depiction: https://repo.ipamod.com/depictions/?p=killbackgroundxs\
+Depiction: https://repo.ipamod.com/depictions/?p=killbackgroundxs
 
 Package: com.ipamod.youtubelite
 Name: YouTubeLite
-Version: 0.9.1-beta
+Version: 0.9.2-beta
 Description: Advanced settings for YouTube
 Author: Networke <re.errornetwork@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.youtubelite_0.9.1-beta.deb
-Size: 84734
-MD5sum: 6a7753a4998ed00808a55be0d5947a33
-SHA1: c28dac755b89d4d59f60dcb730b0c2000c8fa284
-SHA256: 08b4b15fc33f3ae8c84d293dcef1e960e6ed6728a30ba8a2e2484fbd39ae0e13
+Filename: ./debs/com.ipamod.youtubelite_0.9.2-beta.deb
+Size: 86046
+MD5sum: 72eeb06b1497be63f6ba95beffaf655e
+SHA1: 0ce88966234d1dc00f06ee31dcb1f13cdb08151e
+SHA256: fb16b66f113c1a956306f7293abc4076503ae2564f8e490e6576d9e06a611a19
 Depiction: https://repo.ipamod.com/depictions/?p=youtubelite
 
 Package: com.ipamod.insideup
@@ -4267,18 +4267,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=mediabar
 
 Package: com.ipamod.yobunpro
 Name: Yobun Pro
-Version: 3.7.2k
+Version: 3.9.2k
 Depends: mobilesubstrate
 Description: Managing the processes of your device.
 Author: Plat-Ykor <plat-ykor@libero.it>
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.yobunpro_3.7.2k.deb
-Size: 623158
-MD5sum: e6b00699902103013e6168cfaa2a93cd
-SHA1: 465b4b3e202cb9a63b10db856b83cc5a096d406e
-SHA256: 0bcd935c710e16d9a517ea29ebfcbf1b3fc413f93b7046a11c42921945ace454
+Filename: ./debs/com.ipamod.yobunpro_3.9.2k.deb
+Size: 569822
+MD5sum: 8c49841714bb9871cb8c291fb3183320
+SHA1: e0cdd17394ba4a95d6c235026026f31202686a48
+SHA256: 759d31d6d54e31bf7c8adc952a0a5d6b157a40d5efb1b602f5cda492e4adf778
 Depiction: https://repo.ipamod.com/depictions/?p=yobunpro
 
 Package: com.ipamod.kalm
@@ -4698,18 +4698,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=lockglyphxi
 
 Package: com.ipamod.lockpluspro
 Name: LockPlus Pro
-Version: 1.9.4k
+Version: 1.9.6k
 Description: Lock screen widget manager
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.lockpluspro_1.9.4k.deb
-Size: 22120580
-MD5sum: 0738e2c5303c12332db3b3e6f0438ded
-SHA1: 58d796dee6010b09c14cf7a58649b567848c4eb1
-SHA256: feaba0a3ac46a723a5ca035bc97f9a81b9b1852fed32936a1f0da04b6ba01f21
+Filename: ./debs/com.ipamod.lockpluspro_1.9.6k.deb
+Size: 22152350
+MD5sum: a5f976452040b392dc07fe9afddc157c
+SHA1: b3fe58599fd5411e8445cdcdb913ac619ea991c9
+SHA256: 224dd7df0105927d8ad23d8f16bac8b0c4ad288c120f12b65aee91ba95d66241
 Depiction: https://repo.ipamod.com/depictions/?p=lockpluspro
 
 Package: com.ipamod.latchkey
@@ -5800,18 +5800,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=iwhatsapp
 
 Package: com.ipamod.lscontacts
 Name: LS Contacts
-Version: 1.2.2
+Version: 2.1
 Description: Favorite contacts widget on lock screen.
 Author: 0xkuj
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 12.0)
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.lscontacts_1.2.2.deb
-Size: 818692
-MD5sum: a8a772595672ba0647777bb907d76b0d
-SHA1: ed9c5b7322867d54c13cd4b278d18d7a294329d8
-SHA256: c00eefd5a5a9f281727778d9f06aeecd4d796872ad8dc9f2c6d4e3e516566f8f
+Filename: ./debs/com.ipamod.lscontacts_2.1.deb
+Size: 1128974
+MD5sum: 45f98d05c4777fbcfef6b5baed8274c6
+SHA1: bc1ad2fea38d304de19861b48cafa5271077fcf2
+SHA256: 24f65f04768ea767848bf1b82d71088b327e6b79d4e8b1718433744e69f4273f
 Depiction: https://repo.ipamod.com/depictions/?p=lscontacts
 
 Package: com.ipamod.animplus
@@ -6244,3 +6244,67 @@ MD5sum: f0963aab8c2658a837e472c2130dbf67
 SHA1: 486420c77626e1eb1440360359b8c60a68143e3c
 SHA256: 5bd8297c94eb2877e391e2e155920d7c36eca6b912dc53e106488702c316f12e
 Depiction: https://repo.ipamod.com/depictions/?p=escape
+
+Package: com.ipamod.genesis2
+Name: Genesis 2
+Version: 1.1.1
+Description: Many settings for your device.
+Author: ItzNebbs
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), ws.hbang.common (>=1.16), com.spark.libsparkapplist, org.thebigboss.libcolorpicker, xyz.tylerd3v.libtylerd3v, me.conorthedev.libappearancecell
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.genesis2_1.1.1.deb
+Size: 2469398
+MD5sum: 69ad7140a609511f42880d3fac0ddcb2
+SHA1: fc3815b59c2c668febf02ce1a9070d89cb2bf32b
+SHA256: a98cdaea0e6955f0cccfc83ce4b1224b5c45b4808dcb69d0bde934391643b5dd
+Depiction: https://repo.ipamod.com/depictions/?p=genesis2
+
+Package: com.ipamod.switchshades
+Name: SwitchShades
+Version: 1.1.3k
+Description: Multitasking background based on app icon.
+Author: AnthoPak
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.switchshades_1.1.3k.deb
+Size: 616046
+MD5sum: 2c74a00754b4616aec3b77b0b3b1bc41
+SHA1: e4129535ba5a7b054fa2c844257f3a5abfabd0e6
+SHA256: 0546713968a2693ef210736a92d7113d248b3ede3888c5b63bf53ee53c6b88c6
+Depiction: https://repo.ipamod.com/depictions/?p=switchshades
+
+Package: com.ipamod.sphere
+Name: Sphere
+Version: 1.1
+Description: Multitasking anywhere in the system. Based on the old tweak AppHeads.
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common (>= 1.11), preferenceloader
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.sphere_1.1.deb
+Size: 234428
+MD5sum: fb0fa4288c3755fbe66e9668bfb733ed
+SHA1: c2f382111c229d43e26d9e4fa7db3db60c5ad7c4
+SHA256: 17e7e0739319a173737d3be3bbf6d9ccd596bd9336ee08ba736d01a5824eb44e
+Depiction: https://repo.ipamod.com/depictions/?p=sphere
+
+Package: com.ipamod.filza
+Name: Filza File Manager
+Version: 3.8.0-24
+Description: File manager for iOS.
+Author: TIGI Software
+Depends: zip, unzip, gzip, unrar, p7zip
+Section: Utilities
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.filza_3.8.0-24.deb
+Size: 12929620
+MD5sum: 9cdd169b999becaa95737916d6175bdd
+SHA1: c35673888e55311ebd7bcf3ecfd3d05be2bc632b
+SHA256: a5b2ea1eb2c92f45772edd1f3e74a04251007fc99ab9a1701a850aa6651560b3
+Depiction: https://repo.ipamod.com/depictions/?p=filza

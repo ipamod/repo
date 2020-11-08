@@ -1,0 +1,39 @@
+<package>
+	<id>com.ipamod.switchshades</id>
+	<name>SwitchShades</name>
+	<version>1.1.3k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription> Multitasking background based on app icon.
+</shortDescription>
+	<descriptionlist>
+		<description> The tweak brings a soft background tint based on icon color to multitasking. Smooth transitions are also included :)
+
+Settings will allow you to:
+∙ Select the type of shade based on the icon or application preview
+∙ Use an alternate color (useful for dark themes)
+∙ Set the transparency level of the shade
+Also, the tweak has a good optimization. You won't even notice a performance change when multitasking swipes quickly.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

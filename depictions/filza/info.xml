@@ -1,0 +1,33 @@
+<package>
+	<id>com.ipamod.filza</id>
+	<name>Filza File Manager</name>
+	<version>3.8.0-24</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> zip, unzip, gzip, unrar, p7zip</package>
+	</dependencies>
+	<shortDescription> File manager for iOS.
+</shortDescription>
+	<descriptionlist>
+		<description> A file manager for iOS with great functionality.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

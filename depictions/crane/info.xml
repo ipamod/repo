@@ -1,14 +1,14 @@
 <package>
 	<id>com.ipamod.crane</id>
 	<name>Crane</name>
-	<version>1.1-2</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package> firmware (>=13.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap</package>
+		<package> firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader</package>
 	</dependencies>
 	<shortDescription> Multi-containers (multi-accounts) for applications.
 </shortDescription>
