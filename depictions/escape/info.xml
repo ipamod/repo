@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipamod.escape</id>
+	<name>Escape</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate (>= 0.9.5000)</package>
+	</dependencies>
+	<shortDescription> Fake incoming call.
+</shortDescription>
+	<descriptionlist>
+		<description> A great tweak to avoid awkward situations.
+
+How it works:
+- Wake up your phone, stay on the lock screen.
+- Press any volume key twice. ATTENTION! you need to press FAST!
+
+A fake incoming call will appear after the time you specified in the settings.
+The subscriber's name is also indicated in the settings.
+The background of the call (the voice of the interlocutor, noise around or silence) is also selected in the settings.
+
+ATTENTION! The fake call will disappear if you unlock the screen.
+</description>
+			</descriptionlist>
+	<screenshots>
+	<screenshot>
+			<description>Screenshot 1.</description>
+			<image>kai1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2.</description>
+			<image>prysm1.jpeg</image>
+		</screenshot>
+											</screenshots>
+	<changelog>
+		<change>nothing</change>
+			</changelog>
+	
+</package>

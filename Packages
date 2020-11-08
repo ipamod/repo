@@ -4379,18 +4379,18 @@ Depiction: https://repo.ipamod.com/depictions/?p=libsparkapplist
 
 Package: com.ipamod.n95
 Name: N95
-Version: 2.2
+Version: 2.4
 Description: Mask for customizing album covers in various music services
 Author: Ethan Whited <ethanwhited2208@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common
 Section: Tweaks
 Maintainer: IPAMOD
 Architecture: iphoneos-arm
-Filename: ./debs/com.ipamod.n95_2.2.deb
-Size: 1735100
-MD5sum: d1d8ae979658c505e60a8669a1d03568
-SHA1: cce7ab2ffe284fb6cca73f3d79f9768e1f75d483
-SHA256: 26e43aed703ca4295c6caa92e9ba71c158b02ba46306843e1a0498d63896a47d
+Filename: ./debs/com.ipamod.n95_2.4.deb
+Size: 1810144
+MD5sum: c2af241f0690086f88c867c872e520fc
+SHA1: bf53b1ac32af3fe336e50661474b20fc7e48a322
+SHA256: c033fbe6c20d368afe3237700f37990c047cff28833697e9d2dd4da4ff9d0321
 Depiction: https://repo.ipamod.com/depictions/?p=n95
 
 Package: com.ipamod.bigbangx
@@ -6228,3 +6228,19 @@ MD5sum: cf4353dada8197d74e3f1204b0e27644
 SHA1: 7dfbf63fcad849a7cd4a93d0a7afaf09564aba46
 SHA256: e3a99b79f3a3f447f689fb3a0cc529baa1159bffdeaaf1e5ffb968a50bba1c4c
 Depiction: https://repo.ipamod.com/depictions/?p=screenshotx
+
+Package: com.ipamod.escape
+Name: Escape
+Version: 1.6
+Description: Fake incoming call.
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Maintainer: IPAMOD
+Architecture: iphoneos-arm
+Filename: ./debs/com.ipamod.escape_1.6.deb
+Size: 453616
+MD5sum: f0963aab8c2658a837e472c2130dbf67
+SHA1: 486420c77626e1eb1440360359b8c60a68143e3c
+SHA256: 5bd8297c94eb2877e391e2e155920d7c36eca6b912dc53e106488702c316f12e
+Depiction: https://repo.ipamod.com/depictions/?p=escape
